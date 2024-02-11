@@ -60,11 +60,11 @@ $$
 
 $$
 如果A、B存在交集、则\\
-P(A*B)=P(A)\times P(B/A)=P(B)\times P(A/B) &B/A:A条件下B的概率\\
+P(A*B)=P(A)\times P(B/A)=P(B)\times P(A/B) B/A:A条件下B的概率\\
 变形可得\\
 P(B/A)=\dfrac{P(B)\times P(A/B)}{P(A)}\\
 由Venn图(自己画吧)可得\\
-P(A)=P(B)\times P(A/B)+P(\overline B)\times P(A/\overline B) &\overline B:非B事件的概率\\
+P(A)=P(B)\times P(A/B)+P(\overline B)\times P(A/\overline B) \overline B:非B事件的概率\\
 代入可得\\
 P(B/A)=\dfrac{P(B)\times P(A/B)}{P(B)\times P(A/B)+P(\overline B)\times P(A/\overline B)}\\
 $$
@@ -274,13 +274,13 @@ H^2=\dfrac{V_G}{V_G+V_E}\times100\%
 $$
 均值回归理论:数量性状在偏离平均值时会逐代逐渐回归平均值
 $$
-&&\mu=100\\
-&M&\ &F\\
-&110&&120\\
-&&\downarrow&\\
-&&F1:106\\
-&&\vdots\\
-&&Fn\rightarrow100
+\mu=100\\
+M\ F\\
+110\ 120\\
+\downarrow\\
+F1:106\\
+\vdots\\
+Fn\rightarrow100
 $$
 $V_A$加性方差
 
