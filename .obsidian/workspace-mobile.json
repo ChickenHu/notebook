@@ -140,7 +140,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,7 +153,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dc7a1f49e2dc94d3",
+  "active": "13e9722ac4548e3b",
   "lastOpenFiles": [
     "Examinations/大联考2.md",
     "啊啊啊啊啊.md",
