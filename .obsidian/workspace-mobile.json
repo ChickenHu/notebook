@@ -33,20 +33,16 @@
             "id": "2e72fc4eb3f478c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "分类2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "c1ac468a06546035",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "形态2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -171,17 +167,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dc7a1f49e2dc94d3",
+  "active": "13e9722ac4548e3b",
   "lastOpenFiles": [
+    "Bioinformatics.md",
+    "系统分类.md",
     "Excalidraw/Bioinformatics 2024-03-16 14.17.10.excalidraw.md",
     "生物化学原理（第3版） by 杨荣武 主编 (z-lib.org)(1).pdf",
     "未命名思维导图.md",
-    "Bioinformatics.md",
     "gitignore.md",
     "分类2.pdf",
     "形态2.pdf",
     "未命名 1.md",
-    "系统分类.md",
     "Excalidraw/Drawing 2024-03-15 16.48.58.excalidraw.md",
     "Excalidraw",
     "形态1.pdf",
