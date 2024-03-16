@@ -1,7 +1,7 @@
 {
   "commitMessage": "vault backup: {{date}} from {{hostname}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 0,
   "autoPushInterval": 10,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
@@ -18,7 +18,7 @@
   "treeStructure": false,
   "refreshSourceControl": false,
   "basePath": "",
-  "differentIntervalCommitAndPush": true,
+  "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
