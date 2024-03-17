@@ -33,8 +33,12 @@
             "id": "2e72fc4eb3f478c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformatics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -46,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "生物化学原理（第3版） by 杨荣武 主编 (z-lib.org)(1).pdf",
+            "file": "Bioinformatics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "生物化学原理（第3版） by 杨荣武 主编 (z-lib.org)(1).pdf",
+            "file": "Bioinformatics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -141,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "生物化学原理（第3版） by 杨荣武 主编 (z-lib.org)(1).pdf"
+            "file": "Bioinformatics.md"
           }
         }
       },
@@ -154,7 +158,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,24 +172,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "13e9722ac4548e3b",
+  "active": "2e72fc4eb3f478c9",
   "lastOpenFiles": [
-    "Bioinformatics.md",
     "系统分类.md",
-    "Excalidraw/Bioinformatics 2024-03-16 14.17.10.excalidraw.md",
+    "Bioinformatics.md",
     "生物化学原理（第3版） by 杨荣武 主编 (z-lib.org)(1).pdf",
+    "未命名.md",
+    "分类1.pdf",
+    "形态2.pdf",
+    "形态1.pdf",
+    "分类2.pdf",
+    "Excalidraw/Bioinformatics 2024-03-16 14.17.10.excalidraw.md",
     "未命名思维导图.md",
     "gitignore.md",
-    "分类2.pdf",
-    "形态2.pdf",
     "未命名 1.md",
     "Excalidraw/Drawing 2024-03-15 16.48.58.excalidraw.md",
     "Excalidraw",
-    "形态1.pdf",
     "Examinations/大联考2.md",
     "未命名.canvas",
     "Genetics/Day1.md",
-    "分类1.pdf",
     "Examinations/光系统.png"
   ]
 }
