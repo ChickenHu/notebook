@@ -14,5 +14,14 @@
   "annotateBottom": 0,
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
-  "uid": "00p01100p00o00s01300q01000q01301000q00s"
+  "uid": "00p01100p00o00s01300q01000q01301000q00s",
+  "setup": 1710666455709,
+  "imageFolder": "/",
+  "strokeArray": "",
+  "chatGTPKey": "",
+  "onlyUseObsidianFolder": false,
+  "pdfjsAndriodPath": "/storage/emulated/0/Documents/notebook/andriod/pdfjs",
+  "useMarkdownSaveAnnotation": "annos",
+  "openProtocol": 1,
+  "pasteFolder": ""
 }

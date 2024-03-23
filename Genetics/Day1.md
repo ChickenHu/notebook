@@ -5,7 +5,7 @@
 分类加法$P(A+B)=P(A)+P(B)\\A、B互斥$ 如红花和白花、分步乘法$P(A\times B)=P(A)\times P(B) \\A、B独立$如白花、圆粒
 $$
 如果存在n对互补基因，则隐形纯和的概率为\\
-\lim_{n\rightarrow\infin}[1-(\frac{3}4{})^n]=1
+\lim_{n\rightarrow\infty}[1-(\frac{3}4{})^n]=1
 $$
 
 
@@ -58,7 +58,7 @@ P(A*B)=P(a)\times P(B)\\
 $$
 ## 条件概率
 
-$$
+$$\displaylines{
 如果A、B存在交集、则\\
 P(A*B)=P(A)\times P(B/A)=P(B)\times P(A/B) B/A:A条件下B的概率\\
 变形可得\\
@@ -66,9 +66,10 @@ P(B/A)=\dfrac{P(B)\times P(A/B)}{P(A)}\\
 由Venn图(自己画吧)可得\\
 P(A)=P(B)\times P(A/B)+P(\overline B)\times P(A/\overline B) \overline B:非B事件的概率\\
 代入可得\\
-P(B/A)=\dfrac{P(B)\times P(A/B)}{P(B)\times P(A/B)+P(\overline B)\times P(A/\overline B)}\\
+P(B/A)=\dfrac{P(B)\times P(A/B)}{P(B)\times P(A/B)+P(\overline B)\times P(A/\overline B)}\\}
 $$
 
+![[Day1 2024-03-18 23.13.04.excalidraw]]
 对于近交计算，可以从隐性基因的流动来考虑（梦回图论）
 
 ## 种群进化与遗传平衡
