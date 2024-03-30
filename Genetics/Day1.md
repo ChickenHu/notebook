@@ -97,13 +97,13 @@ $$
 $$
 ### 求杂合子最大比例
 
-$$
+$$\displaylines{
 H=2pq=2\times(1-q)q=2q-2q^2\\
 求导(y=x^a \rightarrow y'=ax^{a-1})\\
 H'=2-4q\\
 令H'=0,则q=\dfrac{1}{2}\\\\
 H\times H=2pq\times2pq=4p^2q^2\\
-D\times R=p^2\times q^2\times2=2p^2q^2=\dfrac{H\times H}{2}
+D\times R=p^2\times q^2\times2=2p^2q^2=\dfrac{H\times H}{2}}
 $$
 ### 与性别相关的基因频率
 

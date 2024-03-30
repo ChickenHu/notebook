@@ -1,13 +1,4 @@
 {
-  "editor:set-heading-1": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
   "editor:set-heading-2": [
     {
       "modifiers": [

@@ -33,9 +33,11 @@
             "id": "eccb5bb679bf16ce",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Genetics/Day1.pdf"
+                "file": "Genetics/Day1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -65,25 +67,38 @@
             "id": "16527259fd3a837c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/分类1.pdf"
+                "file": "Bioinformatics.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "d1bf9cce58d640d1",
+            "id": "911248d7138ee61f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "pdf",
               "state": {
-                "file": "android/pdfjs/web/cmaps/78-H.bcmap",
-                "staged": false
+                "file": "PDF/形态2.pdf"
+              }
+            }
+          },
+          {
+            "id": "74cee435ebc88f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "细菌和病毒的遗传.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -149,6 +164,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "细菌和病毒的遗传.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +181,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "细菌和病毒的遗传.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -175,7 +192,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "细菌和病毒的遗传.md"
+          }
         }
       },
       {
@@ -187,8 +206,7 @@
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,18 +219,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d1bf9cce58d640d1",
+  "active": "74cee435ebc88f6b",
   "lastOpenFiles": [
-    "Genetics/Day1.md",
+    "PDF/形态2.pdf",
+    "Bioinformatics.md",
+    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
+    "细菌和病毒的遗传.md",
     "Temporary.md",
+    "Genetics/Day1.md",
+    "系统分类.md",
+    "Genetics/Day1.pdf",
     "PDF/分类1.pdf",
-    "未命名.md",
     "Drawing 2024-03-20 21.55.15.excalidraw.md",
     "Drawing 2024-03-20 21.55.45.excalidraw.md",
     "未命名 2.md",
     "未命名 1.md",
-    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
-    "Genetics/Day1.pdf",
     "PDF/植物学（第三版） (马炜梁, 王幼芳, 李宏庆, 田怀珍, 王健) (Z-Library)(1).pdf",
     "Drawing 2024-03-20 22.04.59.excalidraw.md",
     "android/pdfjs/web/locale/zh-TW/viewer.properties",
@@ -221,7 +242,6 @@
     "android/pdfjs/web/locale/wo/viewer.properties",
     "android/pdfjs/web/locale/vi/viewer.properties",
     "android/pdfjs/web/locale/uz/viewer.properties",
-    "android/pdfjs/web/locale/ur/viewer.properties",
     "android/pdfjs/web/images/treeitem-expanded.svg",
     "android/pdfjs/web/images/treeitem-collapsed.svg",
     "android/pdfjs/web/images/toolbarButton-zoomOut.svg",
@@ -235,11 +255,9 @@
     "Drawing 2024-03-20 22.01.55.excalidraw.md",
     "Drawing 2024-03-20 22.01.52.excalidraw.md",
     "Drawing 2024-03-20 21.57.30.excalidraw.md",
-    "系统分类.md",
     "Drawing 2024-03-20 21.55.19.excalidraw.md",
     "Excalidraw/Drawing 2024-03-20 21.20.46.excalidraw.md",
     "Excalidraw/Drawing 2024-03-19 21.05.30.excalidraw.md",
-    "Bioinformatics.md",
     "Excalidraw/Bioinformatics 2024-03-16 14.17.10.excalidraw.md",
     "未命名思维导图.md",
     "gitignore.md",
