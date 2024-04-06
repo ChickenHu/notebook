@@ -133,6 +133,9 @@
 .mm-node-edit>ul {
   padding-left: 20px;
 }
+.mm-node-edit audio{
+min-width:300px
+}
 
 /* 笔记渲染表格 */
 

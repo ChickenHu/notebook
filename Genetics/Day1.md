@@ -158,22 +158,22 @@ $$
 
 ### 突变
 
-$$
+$$\displaylines{
 A\xrightarrow u a\\
 a\xrightarrow v A\\
 p_1=p+vq-up\\
 平衡时:q=up=u(1-q)\\
 易得\begin{cases}{q=\dfrac{u}{u+v}\\
-p=\dfrac{v}{u+v}}\end{cases}
+p=\dfrac{v}{u+v}}\end{cases}}
 $$
 
 #### 选择-突变平衡
 
 $$
-A(群体中频率为p)\xrightarrow{突变u}a(群体中频率为q)\xrightarrow{选择系数s}淘汰\\
+\displaylines{A(群体中频率为p)\xrightarrow{突变u}a(群体中频率为q)\xrightarrow{选择系数s}淘汰\\
 平衡状态下:\\
 up=sq^2\\
-当p\rightarrow 1时,u=sq^2
+当p\rightarrow 1时,u=sq^2 }
 $$
 
 #####  存在从性现象
@@ -247,10 +247,10 @@ X-->S-->B-->A2-->A1--错误-->S--错误-->D-->X
 ```
 
 假设节点`X`的所有近交环的集合为$L$,则
-$$
+$$\displaylines{
 F_X=(1+F_S)\sum_i^N{{(\dfrac12)}^{node(L_i)-1}}\\
 次数即为环上除X外节点的数\\
-F_S为该环上公共祖先的近交系数,若不是近交后代,则为0
+F_S为该环上公共祖先的近交系数,若不是近交后代,则为0}
 $$
 
 ## 数量遗传
@@ -290,7 +290,7 @@ $V_D$:显性方差
 $V_I$:互作方差
 
 $V_G=V_A+V_D+V_I$
-$$
+$$\displaylines{
 理论上Aa的数量性状\\
 O=Aa=\dfrac{AA+aa}{2}\\
 实际上会出现偏差\\
@@ -298,30 +298,29 @@ d=Aa'-O\\\
 d>0,显性方差\\
 d<0,隐形方差\\
 同时,可计算出一个显性基因的作用效果\\
-a=\dfrac{AA-aa}2
+a=\dfrac{AA-aa}2}
 $$
 
-$$
+$$\displaylines{
 对S^2化简\\
 S^2=\dfrac{(X_i-\overline X)^2}{df}\\
-\because
-样本够大\\
-\therefore df\rightarrow n\\
 \begin{split}
-S^2&=\dfrac{\sum_{i=1}^n(X_i^2-2\overline XX_i+\overline X^2)}{n}\\
-&=\dfrac{\sum_{i=1}^nX_i^2-2\overline X\sum_{i=1}^nX_i+n\overline X^2}{n}\\
-&=\dfrac{\sum_{i=1}^nX_i^2-2n\overline X^2+n\overline X^2}{n}\\
-&=\dfrac{\sum_{i=1}^nX_i^2-n\overline X^2}{n}\\
-&=\dfrac{\sum_{i=1}^nX_i^2-n\overline X^2}{n}\\
-&=\dfrac{\sum_{i=1}^nX_i^2-\dfrac{(\sum_{i=1}^nX_i)^2}{n}}{n}\\
-当n=1时\\
-S^2&=\sum_{i=1}^nX_i^2-(\sum_{i=1}^nX_i)^2\\
-\end{split}
+S^2&=\dfrac{\sum_{i=1}^n(X_i^2-2\overline XX_i+\overline X^2)}{n-1}\\
+&=\dfrac{\sum_{i=1}^nX_i^2-2\overline X\sum_{i=1}^nX_i+n\overline X^2}{n-1}\\
+&=\dfrac{\sum_{i=1}^nX_i^2-2n\overline X^2+n\overline X^2}{n-1}\\
+&=\dfrac{\sum_{i=1}^nX_i^2-n\overline X^2}{n-1}\\
+&=\dfrac{\sum_{i=1}^nX_i^2-n\overline X^2}{n-1}\\
+&=\dfrac{\sum_{i=1}^nX_i^2-\dfrac{(\sum_{i=1}^nX_i)^2}{n}}{n-1}\\
+&(n\not=1)
+\end{split}}
 $$
 
 | $F_2$ | $f$        | $X_i$ | $fX_i$      | $fX_i^2$      |
 | ----- | ---------- | ----- | ----------- | ------------- |
 | AA    | $\dfrac14$ | $a$   | $\dfrac14a$ | $\dfrac14a^2$ |
+|Aa|$\dfrac12$|$d$|$\dfrac12d$|$\dfrac12d^2$|
+|aa|$\dfrac14$|$-a$|$-\dfrac14d$|$\dfrac14a^2$|
+|Total|$1$||$\dfrac12d$|$\dfrac12a^2+\dfrac14d^2$|
 
 
 
@@ -498,8 +497,8 @@ $$
 
           - 使用BP+RP做引物,检验是否转录成功
 
-          - | 引物  |  AA  |  Aa  |  aa  |
-            | :---: | :--: | :--: | :--: |
+          -    | 引物  |  AA  |  Aa  |  aa  |
+            | --- | -- | -- | -- |
             | BP+RP |  -   |  +   |  +   |
             | LP+RP |  +   |  +   |  -   |
 
