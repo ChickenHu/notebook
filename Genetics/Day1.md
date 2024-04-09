@@ -175,7 +175,32 @@ $$\displaylines{
 \therefore \Delta q&=\dfrac{q(1-sq)}{1-sq^2}-q\\
 &=\dfrac{-sq^2(1-q)}{1-sq}
 \end{split}\\
+\because q很小\\
+\therefore 1-sq\rightarrow1\\
+\Delta q=-sq^2(1-q)
 }
+$$
+#### $S_{AA}=s$
+
+|      | AA         | Aa         | aa    | Sum         |
+| ---- | ---------- | ---------- | ----- | ----------- |
+| 初始   | $p^2$      | $2pq$      | $q^2$ | 1           |
+| $F1$ | $p^2(1-s)$ | $2pq(1-s)$ | $q^2$ | $1-sp(2-p)$ |
+$$
+\begin{split}
+p'&=\frac{p^{2} (1-s)+pq (1-s)}{1-sp(2-p)}\\
+&=\frac{p^2-sp^2-spq+pq}{1-sp(2-p)}\\
+&=\frac{p^2-sp^2-sp(1-p)+p(1-p)}{1-sp(2-p)}\\
+&=\frac{p-sp}{1-sp(2-p)}\\
+\\
+\therefore \Delta p&=\frac{p-sp}{1-sp(2-p)}-p\\
+&=\frac{p-sp-p+sp^2(2-p)}{1-sp(2-p)}\\
+&=\frac{-sp(1-p)^2}{1-sp(2-p)}\\
+\\
+当s=1时\\
+\Delta p&=\frac{-p(1-p)^2}{1-p(2-p)}\\
+&=
+\end{split}
 $$
 
 ### 突变
@@ -184,9 +209,7 @@ $$\displaylines{
 A\xrightarrow u a\\
 a\xrightarrow v A\\
 p_1=p+vq-up\\
-平衡时:q=up=u(1-q)\\
-易得\begin{cases}{q=\dfrac{u}{u+v}\\
-p=\dfrac{v}{u+v}}\end{cases}}
+平衡时:q=up=u(1-q)\\}
 $$
 
 #### 选择-突变平衡
@@ -196,6 +219,10 @@ $$
 平衡状态下:\\
 up=sq^2\\
 当p\rightarrow 1时,u=sq^2 }
+$$
+$$
+a\xrightarrow{突变u}A\xrightarrow{致死}淘汰\\
+
 $$
 
 #####  存在从性现象

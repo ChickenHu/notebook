@@ -3,5 +3,6 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "excalibrain",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-linter"
 ]
