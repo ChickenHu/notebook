@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetics/Day1.md",
+                "file": "扣分记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "扣分记录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "扣分记录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -205,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "扣分记录.md"
           }
         }
       },
@@ -231,7 +231,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "978c72329b8aed67",
+  "active": "dc7a1f49e2dc94d3",
   "lastOpenFiles": [
     "Genetics/Day1.md",
     "README.md",
