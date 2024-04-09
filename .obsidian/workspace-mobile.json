@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "978c72329b8aed67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ca4be6df04c4241",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Genetics/Day1.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Genetics/Day1.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -193,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Genetics/Day1.md"
+            "file": "README.md"
           }
         }
       },
@@ -219,11 +231,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dc7a1f49e2dc94d3",
+  "active": "978c72329b8aed67",
   "lastOpenFiles": [
+    "Genetics/Day1.md",
+    "README.md",
     "扣分记录.md",
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
-    "Genetics/Day1.md",
     "PDF/形态2.pdf",
     "Bioinformatics.md",
     "Temporary.md",
