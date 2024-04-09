@@ -84,6 +84,18 @@
                 "file": "PDF/形态2.pdf"
               }
             }
+          },
+          {
+            "id": "230f3e957b01c38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扣分记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -209,11 +221,12 @@
   },
   "active": "eccb5bb679bf16ce",
   "lastOpenFiles": [
+    "扣分记录.md",
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
+    "Genetics/Day1.md",
     "PDF/形态2.pdf",
     "Bioinformatics.md",
     "Temporary.md",
-    "Genetics/Day1.md",
     "细菌和病毒的遗传.md",
     "系统分类.md",
     "Genetics/Day1.pdf",
