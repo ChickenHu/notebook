@@ -36,8 +36,8 @@
               "type": "markdown",
               "state": {
                 "file": "Genetics/Day1.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -209,9 +209,9 @@
   },
   "active": "eccb5bb679bf16ce",
   "lastOpenFiles": [
+    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "PDF/形态2.pdf",
     "Genetics/Day1.md",
-    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Bioinformatics.md",
     "细菌和病毒的遗传.md",
     "Temporary.md",

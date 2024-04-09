@@ -133,27 +133,49 @@ $$
 | 初始  | $p_0^2$ | $2p_0q_0$ | $q_0^2$ | 1         |
 | 1代后 | $p_0^2$ | $2p_0q_0$ | 0       | $1-q_0^2$ |
 
-$$
+$$\displaylines{
 \therefore q_1=\dfrac{p_0q_0}{1-q_0^2}=\dfrac{p_0q_0}{(1-q_0)(1+q_0)}=\dfrac{q_0}{1+q_0}\\
 
 q_2=\dfrac{q_1}{1+q_1}=\dfrac{\dfrac{q_0}{1+q_0}}{1+\dfrac{q_0}{1+q_0}}=\dfrac{q_0}{1+2q_0}\\
 \vdots\\
-q_n=\dfrac{q_0}{1+nq_0}
+q_n=\dfrac{q_0}{1+nq_0}}
 $$
 
-#### $S_{aa}=t,S_{Aa}=s$
+#### $S_{aa}=t,S_{AA}=s$
 
-|       | AA           | Aa        | aa           | sum               |
-| ----- | ------------ | --------- | ------------ | ----------------- |
+|     | AA           | Aa        | aa           | sum               |
+| --- | ------------ | --------- | ------------ | ----------------- |
 | 初始  | $p_0^2$      | $2p_0q_0$ | $q_0^2$      | 1                 |
 | 1代后 | $(1-s)p_0^2$ | $2p_0q_0$ | $(1-t)q_0^2$ | $1-sp_0^2-tq_0^2$ |
 
-$$
+$$\displaylines{
 若为平衡遗传\\
 \therefore q_1=\dfrac{(1-t)q_o^2+p_0q_0}{1-sp_0^2-tq_0^2}=q_0
 \\
 易得\begin{cases}
 q_0=\dfrac{s}{s+t}\\p_0=\dfrac{t}{s+t}\end{cases}
+}
+$$
+#### $S_{aa}=s$
+
+|     | AA      | Aa        | aa           | sum        |
+| --- | ------- | --------- | ------------ | ---------- |
+| 初始  | $p_0^2$ | $2p_0q_0$ | $q_0^2$      | 1          |
+| 1代后 | $p_0^2$ | $2p_0q_0$ | $(1-s)q_0^2$ | $1-sq_0^2$ |
+
+$$\displaylines{
+若为平衡遗传\\
+\begin{split}
+\therefore q_1&=\dfrac{(1-s)q_o^2+p_0q_0}{1-sq_0^2}\\
+&=\dfrac{q_0(q_0-sq_0+p_0)}{1-sq_0^2}\\
+&=\dfrac{q_0(1-sq_0)}{1-sq_0^2}
+\end{split}
+\\
+\begin{split}
+\therefore \Delta q&=\dfrac{q(1-sq)}{1-sq^2}-q\\
+&=\dfrac{-sq^2(1-q)}{1-sq}
+\end{split}\\
+}
 $$
 
 ### 突变
