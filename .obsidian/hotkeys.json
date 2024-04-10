@@ -1,9 +1,33 @@
 {
+  "editor:save-file": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "2"
     }
@@ -11,8 +35,7 @@
   "editor:set-heading-3": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "3"
     }
@@ -20,8 +43,7 @@
   "editor:set-heading-4": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "4"
     }
@@ -29,8 +51,7 @@
   "editor:set-heading-5": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "5"
     }
@@ -38,37 +59,18 @@
   "editor:set-heading-6": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "6"
-    }
-  ],
-  "editor:save-file": [],
-  "editor:insert-mathblock": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
     }
   ],
   "editor:toggle-inline-math": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "M"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ]
+  "obsidian-excalidraw-plugin:insert-link": []
 }

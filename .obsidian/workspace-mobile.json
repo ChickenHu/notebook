@@ -69,7 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/2024-04-09.md",
+                "file": "Temporary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43fdb25bd2b383e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolution/生命及其起源.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diaries/2024-04-09.md",
+            "file": "Evolution/生命及其起源.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diaries/2024-04-09.md",
+            "file": "Evolution/生命及其起源.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -193,7 +205,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diaries/2024-04-09.md"
+            "file": "Evolution/生命及其起源.md"
           }
         }
       },
@@ -219,14 +231,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9f43384c983ab17d",
+  "active": "43fdb25bd2b383e1",
   "lastOpenFiles": [
-    "README.md",
+    "Diaries/2024-04-10.md",
+    "Evolution/生命及其起源.md",
+    "Temporary.md",
+    "Evolution",
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Bioinformatics.md",
     "Diaries/2024-04-09.md",
+    "README.md",
     "Diaries",
-    "Temporary.md",
     "Genetics/Day1.md",
     "扣分记录.md",
     "PDF/形态2.pdf",
@@ -244,7 +259,6 @@
     "android/pdfjs/web/locale/zh-CN/viewer.properties",
     "android/pdfjs/web/locale/xh/viewer.properties",
     "android/pdfjs/web/locale/wo/viewer.properties",
-    "android/pdfjs/web/locale/vi/viewer.properties",
     "android/pdfjs/web/images/treeitem-expanded.svg",
     "android/pdfjs/web/images/treeitem-collapsed.svg",
     "android/pdfjs/web/images/toolbarButton-zoomOut.svg",
@@ -265,7 +279,6 @@
     "未命名思维导图.md",
     "gitignore.md",
     "Excalidraw/Drawing 2024-03-15 16.48.58.excalidraw.md",
-    "Examinations/大联考2.md",
     "未命名.canvas"
   ]
 }
