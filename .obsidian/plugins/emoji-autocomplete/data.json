@@ -1,9 +1,11 @@
 {
-  "immediateReplace": true,
+  "immediateReplace": false,
   "suggester": true,
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "strong",
+    "sa",
     "sad",
     "cry"
   ],

@@ -72,5 +72,13 @@
       "key": "M"
     }
   ],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ]
 }
