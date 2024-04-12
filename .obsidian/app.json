@@ -27,5 +27,6 @@
     "editor:table-row-after",
     "editor:table-col-before",
     "editor:table-col-after"
-  ]
+  ],
+  "promptDelete": false
 }
