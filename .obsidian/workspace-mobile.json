@@ -59,7 +59,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolution/生命及其起源.md",
+                "file": "Evolution/生物表型进化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f533f21cc69c6a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolution/细胞起源与进化.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,9 +120,21 @@
                 "file": "PDF/形态2.pdf"
               }
             }
+          },
+          {
+            "id": "6f58ac7475920a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genetics/杂记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +200,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diaries/2024-04-10.md",
+            "file": "Evolution/生物表型进化.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,7 +217,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diaries/2024-04-10.md",
+            "file": "Evolution/生物表型进化.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -205,7 +229,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diaries/2024-04-10.md"
+            "file": "Evolution/生物表型进化.md"
           }
         }
       },
@@ -218,8 +242,7 @@
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,19 +255,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9067eb0a51326b37",
+  "active": "2e7bd126ca5bb243",
   "lastOpenFiles": [
-    "Evolution/生命及其起源.md",
+    "Evolution/生物发展史.md",
+    "Evolution/生物表型进化.md",
+    "Genetics/杂记.md",
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
-    "Bioinformatics.md",
+    "Genetics/不完全外显.jpg",
     "PDF/形态2.pdf",
-    "README.md",
+    "Genetics/Day1.md",
+    "Evolution/生命及其起源.md",
+    "Evolution/细胞起源与进化.md",
+    "Bioinformatics.md",
     "Diaries/2024-04-10.md",
+    "README.md",
     "Temporary.md",
     "Evolution",
     "Diaries/2024-04-09.md",
     "Diaries",
-    "Genetics/Day1.md",
     "扣分记录.md",
     "细菌和病毒的遗传.md",
     "系统分类.md",
@@ -269,16 +297,12 @@
     "android/pdfjs/web/images/toolbarButton-viewLayers.svg",
     "android/pdfjs/web/images/toolbarButton-viewAttachments.svg",
     "android/pdfjs/web/images/toolbarButton-sidebarToggle.svg",
-    "android/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.svg",
     "Drawing 2024-03-20 22.01.55.excalidraw.md",
     "Drawing 2024-03-20 22.01.52.excalidraw.md",
     "Drawing 2024-03-20 21.57.30.excalidraw.md",
     "Drawing 2024-03-20 21.55.19.excalidraw.md",
     "Excalidraw/Drawing 2024-03-20 21.20.46.excalidraw.md",
     "Excalidraw/Drawing 2024-03-19 21.05.30.excalidraw.md",
-    "Excalidraw/Bioinformatics 2024-03-16 14.17.10.excalidraw.md",
-    "未命名思维导图.md",
-    "gitignore.md",
     "未命名.canvas"
   ]
 }
