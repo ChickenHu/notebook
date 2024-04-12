@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "c198bed4b893268a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "f533f21cc69c6a6b",
             "type": "leaf",
             "state": {
@@ -257,10 +267,11 @@
   },
   "active": "2e7bd126ca5bb243",
   "lastOpenFiles": [
-    "Evolution/生物发展史.md",
+    "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "Evolution/生物表型进化.md",
-    "Genetics/杂记.md",
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
+    "Evolution/生物发展史.md",
+    "Genetics/杂记.md",
     "Genetics/不完全外显.jpg",
     "PDF/形态2.pdf",
     "Genetics/Day1.md",
@@ -302,7 +313,6 @@
     "Drawing 2024-03-20 21.57.30.excalidraw.md",
     "Drawing 2024-03-20 21.55.19.excalidraw.md",
     "Excalidraw/Drawing 2024-03-20 21.20.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-19 21.05.30.excalidraw.md",
     "未命名.canvas"
   ]
 }
