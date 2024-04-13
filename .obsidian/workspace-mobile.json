@@ -101,9 +101,11 @@
             "id": "911248d7138ee61f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDF/形态2.pdf"
+                "file": "Evolution/生物表型进化.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -113,14 +115,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolution/生物表型进化.md",
+                "file": "Genetics/Day1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -241,10 +243,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6f58ac7475920a61",
+  "active": "911248d7138ee61f",
   "lastOpenFiles": [
-    "README.md",
+    "PDF/形态2.pdf",
+    "Genetics/Day1.md",
     "Evolution/生物表型进化.md",
+    "README.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "扣分记录.md",
     "Genetics/杂记.md",
@@ -254,8 +258,6 @@
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Evolution/生物发展史.md",
     "Genetics/不完全外显.jpg",
-    "PDF/形态2.pdf",
-    "Genetics/Day1.md",
     "Evolution/生命及其起源.md",
     "Bioinformatics.md",
     "Diaries/2024-04-10.md",
@@ -288,7 +290,6 @@
     "android/pdfjs/web/images/toolbarButton-sidebarToggle.svg",
     "Drawing 2024-03-20 22.01.55.excalidraw.md",
     "Drawing 2024-03-20 22.01.52.excalidraw.md",
-    "Drawing 2024-03-20 21.57.30.excalidraw.md",
     "未命名.canvas"
   ]
 }
