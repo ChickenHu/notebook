@@ -120,9 +120,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e65aa77d67bbc5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扣分记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Evolution/生物表型进化.md",
+            "file": "扣分记录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Evolution/生物表型进化.md",
+            "file": "扣分记录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -217,7 +229,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Evolution/生物表型进化.md"
+            "file": "扣分记录.md"
           }
         }
       },
@@ -243,11 +255,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "911248d7138ee61f",
+  "active": "9e65aa77d67bbc5c",
   "lastOpenFiles": [
+    "Evolution/生物表型进化.md",
     "PDF/形态2.pdf",
     "Genetics/Day1.md",
-    "Evolution/生物表型进化.md",
     "README.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "扣分记录.md",
