@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetics/Day1.md",
+                "file": "扣分记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,14 +127,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "扣分记录.md",
+                "file": "Physiology/血液.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -255,17 +255,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9e65aa77d67bbc5c",
+  "active": "6f58ac7475920a61",
   "lastOpenFiles": [
-    "Evolution/生物表型进化.md",
-    "PDF/形态2.pdf",
     "Genetics/Day1.md",
-    "README.md",
+    "Evolution/生物表型进化.md",
+    "Evolution/细胞起源与进化.md",
+    "Physiology/血液.md",
+    "Physiology/基本功能.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "扣分记录.md",
+    "Physiology",
+    "PDF/形态2.pdf",
+    "README.md",
     "Genetics/杂记.md",
     "、.md",
-    "Evolution/细胞起源与进化.md",
     "/扣分记录.md",
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Evolution/生物发展史.md",
@@ -290,7 +293,6 @@
     "android/pdfjs/web/locale/zh-TW/viewer.properties",
     "android/pdfjs/web/locale/zh-CN/viewer.properties",
     "android/pdfjs/web/locale/xh/viewer.properties",
-    "android/pdfjs/web/locale/wo/viewer.properties",
     "android/pdfjs/web/images/treeitem-expanded.svg",
     "android/pdfjs/web/images/treeitem-collapsed.svg",
     "android/pdfjs/web/images/toolbarButton-zoomOut.svg",
@@ -301,7 +303,6 @@
     "android/pdfjs/web/images/toolbarButton-viewAttachments.svg",
     "android/pdfjs/web/images/toolbarButton-sidebarToggle.svg",
     "Drawing 2024-03-20 22.01.55.excalidraw.md",
-    "Drawing 2024-03-20 22.01.52.excalidraw.md",
     "未命名.canvas"
   ]
 }
