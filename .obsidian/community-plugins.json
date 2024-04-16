@@ -4,6 +4,7 @@
   "dataview",
   "excalibrain",
   "quick-latex",
-  "obsidian-linter",
-  "emoji-autocomplete"
+  "emoji-autocomplete",
+  "mermaid-tools",
+  "obsidian-linter"
 ]
