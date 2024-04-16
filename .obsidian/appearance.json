@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "showViewHeader": true,
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "Source Code Pro"
 }

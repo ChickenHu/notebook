@@ -129,6 +129,7 @@
               "state": {
                 "file": "Physiology/血液.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -242,7 +243,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 3,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,13 +259,13 @@
   },
   "active": "9e65aa77d67bbc5c",
   "lastOpenFiles": [
-    "扣分记录.md",
+    "Physiology/基本功能.md",
     "Physiology/血液.md",
+    "扣分记录.md",
     "Evolution/生物表型进化.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "Genetics/Day1.md",
     "Evolution/细胞起源与进化.md",
-    "Physiology/基本功能.md",
     "Physiology",
     "PDF/形态2.pdf",
     "README.md",
