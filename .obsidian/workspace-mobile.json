@@ -4,113 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e17c75a2d1b22a56",
+        "id": "f38fdecccf89ac8c",
         "type": "tabs",
         "children": [
           {
-            "id": "e6b0dd9c1d75a855",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e5024b3f7ecc696e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统分类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "978c72329b8aed67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c198bed4b893268a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f533f21cc69c6a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution/细胞起源与进化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9067eb0a51326b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diaries/2024-04-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ca4be6df04c4241",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "16527259fd3a837c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "911248d7138ee61f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution/生物表型进化.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f58ac7475920a61",
+            "id": "c4e7a57c89ce6c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,20 +20,19 @@
             }
           },
           {
-            "id": "9e65aa77d67bbc5c",
+            "id": "1f03f13d60d84d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physiology/血液.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -201,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physiology/血液.md",
+            "file": "扣分记录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -218,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Physiology/血液.md",
+            "file": "扣分记录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -230,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Physiology/血液.md"
+            "file": "扣分记录.md"
           }
         }
       },
@@ -243,8 +140,7 @@
         }
       }
     ],
-    "currentTab": 3,
-    "pinned": true
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,13 +153,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9e65aa77d67bbc5c",
+  "active": "c4e7a57c89ce6c76",
   "lastOpenFiles": [
-    "Physiology/基本功能.md",
-    "Physiology/血液.md",
+    "细菌和病毒的遗传.md",
     "扣分记录.md",
     "Evolution/生物表型进化.md",
+    "Genetics/近交图.png",
+    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
+    "Physiology/血液循环.md",
+    "Physiology/血液.md",
+    "未命名.md",
+    "Physiology/基本功能.md",
     "Genetics/Day1.md",
     "Evolution/细胞起源与进化.md",
     "Physiology",
@@ -272,7 +173,6 @@
     "Genetics/杂记.md",
     "、.md",
     "/扣分记录.md",
-    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Evolution/生物发展史.md",
     "Genetics/不完全外显.jpg",
     "Evolution/生命及其起源.md",
@@ -282,16 +182,13 @@
     "Evolution",
     "Diaries/2024-04-09.md",
     "Diaries",
-    "细菌和病毒的遗传.md",
     "系统分类.md",
     "Genetics/Day1.pdf",
     "PDF/分类1.pdf",
     "Drawing 2024-03-20 21.55.15.excalidraw.md",
     "Drawing 2024-03-20 21.55.45.excalidraw.md",
     "未命名 2.md",
-    "未命名 1.md",
     "PDF/植物学（第三版） (马炜梁, 王幼芳, 李宏庆, 田怀珍, 王健) (Z-Library)(1).pdf",
-    "Drawing 2024-03-20 22.04.59.excalidraw.md",
     "android/pdfjs/web/locale/zh-TW/viewer.properties",
     "android/pdfjs/web/locale/zh-CN/viewer.properties",
     "android/pdfjs/web/locale/xh/viewer.properties",
@@ -303,8 +200,6 @@
     "android/pdfjs/web/images/toolbarButton-viewOutline.svg",
     "android/pdfjs/web/images/toolbarButton-viewLayers.svg",
     "android/pdfjs/web/images/toolbarButton-viewAttachments.svg",
-    "android/pdfjs/web/images/toolbarButton-sidebarToggle.svg",
-    "Drawing 2024-03-20 22.01.55.excalidraw.md",
     "未命名.canvas"
   ]
 }
