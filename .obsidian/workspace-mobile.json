@@ -20,6 +20,17 @@
             }
           },
           {
+            "id": "b2050b7b06fb4d1a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          },
+          {
             "id": "1f03f13d60d84d90",
             "type": "leaf",
             "state": {
@@ -168,8 +179,9 @@
   },
   "active": "c4e7a57c89ce6c76",
   "lastOpenFiles": [
-    "Bioinformatics.md",
     "扣分记录.md",
+    "conflict-files-obsidian-git.md",
+    "Bioinformatics.md",
     "未命名 1.md",
     "Physiology/血液.md",
     "细菌和病毒的遗传.md",
@@ -201,7 +213,6 @@
     "PDF/分类1.pdf",
     "Drawing 2024-03-20 21.55.15.excalidraw.md",
     "Drawing 2024-03-20 21.55.45.excalidraw.md",
-    "未命名 2.md",
     "PDF/植物学（第三版） (马炜梁, 王幼芳, 李宏庆, 田怀珍, 王健) (Z-Library)(1).pdf",
     "android/pdfjs/web/locale/zh-TW/viewer.properties",
     "android/pdfjs/web/locale/zh-CN/viewer.properties",
