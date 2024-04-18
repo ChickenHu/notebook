@@ -112,14 +112,5 @@
       ],
       "key": "ArrowUp"
     }
-  ],
-  "obsidian-linter:lint-file": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "F"
-    }
   ]
 }
