@@ -54,9 +54,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "832364184dcf0670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分子演化.md",
+            "file": "扣分记录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分子演化.md",
+            "file": "扣分记录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -152,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分子演化.md"
+            "file": "扣分记录.md"
           }
         }
       },
@@ -178,14 +189,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4e7e95dedaefd9dc",
+  "active": "c4e7a57c89ce6c76",
   "lastOpenFiles": [
+    "未命名 2.md",
+    "Physiology/血液.md",
     "扣分记录.md",
     "分子演化.md",
     "Bioinformatics.md",
     "conflict-files-obsidian-git.md",
     "未命名 1.md",
-    "Physiology/血液.md",
     "细菌和病毒的遗传.md",
     "Evolution/生物表型进化.md",
     "Genetics/近交图.png",
@@ -213,7 +225,6 @@
     "系统分类.md",
     "Genetics/Day1.pdf",
     "PDF/分类1.pdf",
-    "Drawing 2024-03-20 21.55.15.excalidraw.md",
     "PDF/植物学（第三版） (马炜梁, 王幼芳, 李宏庆, 田怀珍, 王健) (Z-Library)(1).pdf",
     "android/pdfjs/web/locale/zh-TW/viewer.properties",
     "android/pdfjs/web/locale/zh-CN/viewer.properties",
