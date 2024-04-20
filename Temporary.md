@@ -20,8 +20,20 @@ $F_1=\mu+h^2(\dfrac{P_1+P_{2}}{2}-\mu)$, 其中$\mu$为群体平均值，$h^2$�
 叶绿体DNA：
 - 一个成熟叶绿体大约含有10个`cpDNA`
 - 植物 `cpDNA`大约为150-160kb，藻类 `cpDNA`大约为80～100kb
-
-2.3629
-3.7193
-1.7320
-1.75
+```mermaid
+flowchart
+subgraph 血液
+A1(Na+)
+end
+subgraph 上皮细胞
+B1(Na+)
+end
+subgraph 小管液
+C1(Na+)
+end
+subgraph 近端小管
+B1--钠泵-->A1
+```
+肾的重吸收基本法则
+1. `Na2+` 换 `K+`，`H+`
+2. 
