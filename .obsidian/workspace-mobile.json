@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "扣分记录.md",
-                "mode": "preview",
+                "file": "Plant Physiology/提纲（需要扩充）.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "扣分记录.md",
+            "file": "Plant Physiology/提纲（需要扩充）.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "扣分记录.md",
+            "file": "Plant Physiology/提纲（需要扩充）.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "扣分记录.md"
+            "file": "Plant Physiology/提纲（需要扩充）.md"
           }
         }
       },
@@ -203,9 +203,9 @@
   },
   "active": "c4e7a57c89ce6c76",
   "lastOpenFiles": [
+    "扣分记录.md",
     "神经系统用药.md",
     "Temporary.md",
-    "扣分记录.md",
     "未命名 2.md",
     "Physiology/血液.md",
     "分子演化.md",
