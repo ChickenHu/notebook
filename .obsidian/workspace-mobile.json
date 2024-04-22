@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "832364184dcf0670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扣分记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4e7e95dedaefd9dc",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -159,7 +147,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "扣分记录.md",
+            "file": "Strange Things.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,7 +164,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "扣分记录.md",
+            "file": "Strange Things.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -188,7 +176,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "扣分记录.md"
+            "file": "Strange Things.md"
           }
         }
       },
@@ -214,19 +202,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "832364184dcf0670",
+  "active": "6324cb956fe89eb4",
   "lastOpenFiles": [
+    "Bioinformatics.md",
     "Plant Physiology/提纲（需要扩充）.md",
     "Strange Things.md",
+    "未命名 1.md",
     "扣分记录.md",
     "Temporary.md",
     "神经系统用药.md",
     "未命名 2.md",
     "Physiology/血液.md",
     "分子演化.md",
-    "Bioinformatics.md",
     "conflict-files-obsidian-git.md",
-    "未命名 1.md",
     "细菌和病毒的遗传.md",
     "Evolution/生物表型进化.md",
     "Genetics/近交图.png",
