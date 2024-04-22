@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "1f03f13d60d84d90",
+            "id": "832364184dcf0670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/血液.md",
-                "mode": "preview",
+                "file": "扣分记录.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -56,13 +56,13 @@
             }
           },
           {
-            "id": "832364184dcf0670",
+            "id": "1f03f13d60d84d90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temporary.md",
-                "mode": "source",
+                "file": "Physiology/血液.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -204,8 +204,9 @@
   "active": "c4e7a57c89ce6c76",
   "lastOpenFiles": [
     "扣分记录.md",
-    "神经系统用药.md",
+    "Plant Physiology/提纲（需要扩充）.md",
     "Temporary.md",
+    "神经系统用药.md",
     "未命名 2.md",
     "Physiology/血液.md",
     "分子演化.md",
@@ -233,7 +234,6 @@
     "Evolution/生命及其起源.md",
     "Diaries/2024-04-10.md",
     "Evolution",
-    "Diaries/2024-04-09.md",
     "Diaries",
     "Genetics/Day1.pdf",
     "PDF/分类1.pdf",
