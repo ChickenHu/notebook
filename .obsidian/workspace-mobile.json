@@ -78,8 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6324cb956fe89eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strange Things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -146,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Plant Physiology/提纲（需要扩充）.md",
+            "file": "扣分记录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Plant Physiology/提纲（需要扩充）.md",
+            "file": "扣分记录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -175,7 +188,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Plant Physiology/提纲（需要扩充）.md"
+            "file": "扣分记录.md"
           }
         }
       },
@@ -201,10 +214,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c4e7a57c89ce6c76",
+  "active": "832364184dcf0670",
   "lastOpenFiles": [
-    "扣分记录.md",
     "Plant Physiology/提纲（需要扩充）.md",
+    "Strange Things.md",
+    "扣分记录.md",
     "Temporary.md",
     "神经系统用药.md",
     "未命名 2.md",
@@ -232,7 +246,6 @@
     "Evolution/生物发展史.md",
     "Genetics/不完全外显.jpg",
     "Evolution/生命及其起源.md",
-    "Diaries/2024-04-10.md",
     "Evolution",
     "Diaries",
     "Genetics/Day1.pdf",
