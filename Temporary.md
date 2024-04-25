@@ -36,4 +36,12 @@ B1--钠泵-->A1
 ```
 肾的重吸收基本法则
 1. `Na2+` 换 `K+`，`H+`
-2. 
+
+---
+```smiles
+O=C(O)\C=C\C1C=C(O)C(O)=CC=1 咖啡酸
+O2C1=CC(O)=C(C(O))C=C1C=CC(=O)2 东茛菪素
+CC12CC13C(C(C)(O3)C)CC2 桉精油
+OC1C=CC(CC(N5C)C3C=CC(O)C24)=C(C(O2)=1)C34(CC5) 吗啡
+CN1C(=O)NC(=O)C2=C1N=CN(C)2
+```
