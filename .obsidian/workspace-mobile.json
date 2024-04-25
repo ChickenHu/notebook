@@ -92,7 +92,8 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 6,
+        "stacked": true
       }
     ],
     "direction": "vertical"
