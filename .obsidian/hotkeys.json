@@ -112,5 +112,24 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "table-editor-obsidian:next-cell": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "table-editor-obsidian:previous-cell": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
   ]
 }
