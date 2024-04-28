@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "扣分记录.md",
+                "file": "Plant Physiology/杂记.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab1ca22eb3575105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扣分记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -258,10 +270,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc7a1f49e2dc94d3",
+  "active": "ab1ca22eb3575105",
   "lastOpenFiles": [
-    "微生物杂记.md",
+    "Plant Physiology/杂记.md",
     "扣分记录.md",
+    "微生物杂记.md",
     "Botany/杂.md",
     "Temporary.md",
     "Plant Physiology/提纲（需要扩充）.md",
@@ -290,7 +303,6 @@
     "PDF/形态2.pdf",
     "README.md",
     "Genetics/杂记.md",
-    "、.md",
     "Genetics/不完全外显.jpg",
     "Evolution",
     "Diaries",

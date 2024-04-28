@@ -12,18 +12,18 @@
   "dataview": false,
   "inlineSmiles": false,
   "inlineSmilesPrefix": "$smiles=",
-  "core": "smiles-drawer",
+  "core": "rdkit",
   "commonOptions": {
     "width": 300,
     "scale": 1,
     "unifiedWidth": 300,
     "compactDrawing": true,
-    "explicitHydrogens": false,
+    "explicitHydrogens": true,
     "explicitMethyl": true
   },
   "smilesDrawerOptions": {
     "moleculeOptions": {
-      "explicitHydrogens": false,
+      "explicitHydrogens": true,
       "compactDrawing": true,
       "terminalCarbons": true,
       "scale": 1
