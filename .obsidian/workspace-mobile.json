@@ -138,9 +138,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ac8e53e83313641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecology/杂.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fe66c97a9699b5a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/杂 2024-04-29 14.32.32.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2b2d00b39169634b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecology/种群生态学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4454b3ca399af004",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -206,7 +250,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "扣分记录.md",
+            "file": "Ecology/种群生态学.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,7 +267,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "扣分记录.md",
+            "file": "Ecology/种群生态学.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -235,7 +279,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "扣分记录.md"
+            "file": "Ecology/种群生态学.md"
           }
         }
       },
@@ -266,26 +310,32 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ab1ca22eb3575105",
+  "active": "2b2d00b39169634b",
   "lastOpenFiles": [
-    "Plant Physiology/杂记.md",
+    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
+    "细菌和病毒的遗传.md",
+    "Ecology/种群生态学.md",
+    "Excalidraw/杂 2024-04-29 14.32.32.excalidraw.md",
+    "Ecology/杂.md",
     "扣分记录.md",
     "微生物杂记.md",
+    "Plant Physiology/杂记.md",
     "Botany/杂.md",
-    "Temporary.md",
     "Plant Physiology/提纲（需要扩充）.md",
-    "细菌和病毒的遗传.md",
-    "生理学.md",
-    "Physiology/血液.md",
     "Strange Things.md",
+    "Temporary.md",
+    "Physiology/血液.md",
+    "神经系统用药.md",
     "Botany/根.md",
+    "Ecology",
+    "未命名.md",
+    "生理学.md",
     "Botany",
     "未命名 1.md",
-    "神经系统用药.md",
     "Bioinformatics.md",
     "分子演化.md",
     "Strange_Things.png",
@@ -296,13 +346,8 @@
     "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "Physiology/血液循环.md",
-    "Physiology/基本功能.md",
-    "Genetics/Day1.md",
-    "Evolution/细胞起源与进化.md",
     "Physiology",
     "PDF/形态2.pdf",
-    "README.md",
-    "Genetics/杂记.md",
     "Genetics/不完全外显.jpg",
     "Evolution",
     "Diaries",
@@ -310,7 +355,6 @@
     "PDF/分类1.pdf",
     "PDF/植物学（第三版） (马炜梁, 王幼芳, 李宏庆, 田怀珍, 王健) (Z-Library)(1).pdf",
     "android/pdfjs/web/locale/zh-TW/viewer.properties",
-    "android/pdfjs/web/locale/zh-CN/viewer.properties",
     "android/pdfjs/web/images/treeitem-expanded.svg",
     "android/pdfjs/web/images/treeitem-collapsed.svg",
     "android/pdfjs/web/images/toolbarButton-zoomOut.svg",

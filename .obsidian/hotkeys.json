@@ -131,5 +131,14 @@
       ],
       "key": "["
     }
-  ]
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "quick-latex:addInlineMath": []
 }
