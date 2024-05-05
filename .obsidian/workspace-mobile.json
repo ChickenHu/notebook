@@ -8,96 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4e7a57c89ce6c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plant Physiology/提纲（需要扩充）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f800de5c147b0a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "细菌和病毒的遗传.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f03f13d60d84d90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/血液.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7756298cc8713d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经系统用药.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6324cb956fe89eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/根.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c90666160b134b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strange Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e7554b53e67832c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/杂.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b302ce25bb5b391e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporary.md",
+                "file": "Bioinformatics.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,18 +44,6 @@
             }
           },
           {
-            "id": "ab1ca22eb3575105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扣分记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ac8e53e83313641",
             "type": "leaf",
             "state": {
@@ -152,22 +56,12 @@
             }
           },
           {
-            "id": "5fe66c97a9699b5a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/杂 2024-04-29 14.32.32.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2b2d00b39169634b",
+            "id": "9acbaa58fc2e3116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecology/种群生态学.md",
+                "file": "check-list.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,9 +76,56 @@
                 "file": "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "eed1130443ee78df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ea7fa799c5b7a1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扣分记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "489175b0b47a230c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecology/种群生态学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03332b9ffd6f239a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 7,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -250,7 +191,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ecology/种群生态学.md",
+            "file": "扣分记录.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -267,7 +208,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ecology/种群生态学.md",
+            "file": "扣分记录.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -279,7 +220,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ecology/种群生态学.md"
+            "file": "扣分记录.md"
           }
         }
       },
@@ -314,38 +255,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2b2d00b39169634b",
+  "active": "ea7fa799c5b7a1b4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
-    "细菌和病毒的遗传.md",
+    "未命名 1.md",
     "Ecology/种群生态学.md",
-    "Excalidraw/杂 2024-04-29 14.32.32.excalidraw.md",
-    "Ecology/杂.md",
     "扣分记录.md",
+    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
+    "Bioinformatics.md",
+    "Botany/根.md",
+    "未命名.md",
+    "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md",
+    "Ecology/群落生态学.md",
+    "Ecology/杂.md",
+    "Strange Things.md",
+    "Botany/杂.md",
+    "check-list.md",
+    "神经系统用药.md",
+    "细菌和病毒的遗传.md",
+    "Excalidraw/杂 2024-04-29 14.32.32.excalidraw.md",
     "微生物杂记.md",
     "Plant Physiology/杂记.md",
-    "Botany/杂.md",
     "Plant Physiology/提纲（需要扩充）.md",
-    "Strange Things.md",
     "Temporary.md",
     "Physiology/血液.md",
-    "神经系统用药.md",
-    "Botany/根.md",
     "Ecology",
-    "未命名.md",
     "生理学.md",
     "Botany",
-    "未命名 1.md",
-    "Bioinformatics.md",
     "分子演化.md",
     "Strange_Things.png",
     "未命名 2.md",
     "conflict-files-obsidian-git.md",
     "Evolution/生物表型进化.md",
     "Genetics/近交图.png",
-    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
-    "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
-    "Physiology/血液循环.md",
     "Physiology",
     "PDF/形态2.pdf",
     "Genetics/不完全外显.jpg",
