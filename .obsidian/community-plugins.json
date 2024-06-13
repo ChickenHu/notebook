@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
   "dataview",
   "excalibrain",
@@ -9,6 +8,7 @@
   "obsidian-linter",
   "cycle-through-panes",
   "obsidian-export-image",
+  "table-editor-obsidian",
   "chem",
-  "table-editor-obsidian"
+  "obsidian-git"
 ]
