@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6324cb956fe89eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea7fa799c5b7a1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扣分记录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3016e7dd0013200c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "微生物杂记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ac8e53e83313641",
             "type": "leaf",
             "state": {
@@ -108,18 +72,6 @@
               "type": "markdown",
               "state": {
                 "file": "schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff09402900ef7d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Another Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,9 +156,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3260441fc7a2b364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "也许是 实验报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -272,7 +236,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Another Untitled.md",
+            "file": "也许是 实验报告.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -289,7 +253,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Another Untitled.md",
+            "file": "也许是 实验报告.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -301,7 +265,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Another Untitled.md"
+            "file": "也许是 实验报告.md"
           }
         }
       },
@@ -322,7 +286,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,17 +300,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6c424f1e9e795bd",
+  "active": "3260441fc7a2b364",
   "lastOpenFiles": [
-    "Evolution/生命及其起源.md",
-    "Another Untitled.md",
+    "Plant Physiology/杂记.md",
+    "未命名 1.md",
     "schedule.md",
-    "账单.md",
-    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
+    "Another Untitled.md",
+    "微生物杂记.md",
+    "扣分记录.md",
+    "Bioinformatics.md",
     "TO-DO LIST.md",
     "Temporary.md",
+    "也许是 实验报告.md",
+    "Pictures",
+    "Ecology/种群生态学.md",
+    "未命名 4.md",
+    "账单.md",
+    "Evolution/生命及其起源.md",
+    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
     "Strange Things.md",
-    "Bioinformatics.md",
     "Ecology/杂.md",
     "分类2.pdf.md",
     "系统分类.md",
@@ -355,15 +327,8 @@
     "生物技术（杂）.md",
     "未命名.md",
     "check-list.md",
-    "Plant Physiology/杂记.md",
     "复卷.md",
-    "未命名 1.md",
     "Excalidraw/Drawing 2024-05-10 08.22.39.excalidraw.md",
-    "未命名 2.md",
-    "扣分记录.md",
-    "Excalidraw/Drawing 2024-05-07 14.58.19.excalidraw.md",
-    "微生物杂记.md",
-    "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md",
     "Ecology",
     "Botany",
     "Strange_Things.png",
@@ -376,7 +341,6 @@
     "Genetics/Day1.pdf",
     "PDF/分类1.pdf",
     "PDF/植物学（第三版） (马炜梁, 王幼芳, 李宏庆, 田怀珍, 王健) (Z-Library)(1).pdf",
-    "android/pdfjs/web/locale/zh-TW/viewer.properties",
     "android/pdfjs/web/images/treeitem-expanded.svg",
     "android/pdfjs/web/images/treeitem-collapsed.svg",
     "android/pdfjs/web/images/toolbarButton-zoomOut.svg",
