@@ -4,57 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f38fdecccf89ac8c",
+        "id": "777189025e49291b",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac8e53e83313641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e579d97d9b31a437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plant Physiology/杂记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9acbaa58fc2e3116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "check-list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4454b3ca399af004",
+            "id": "fc003ad1c48e9ea0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md"
+                "file": "Excalidraw/也许是 实验报告 2024-07-09 19.38.36.excalidraw.md"
               }
             }
           },
           {
-            "id": "600d1fd96cf54580",
+            "id": "4fa7fa0c867b6905",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,99 +30,19 @@
             }
           },
           {
-            "id": "65322a1efd9a64a0",
+            "id": "08f90dad88d40215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schedule.md",
+                "file": "也许是 实验报告.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eed1130443ee78df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "489175b0b47a230c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecology/种群生态学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03332b9ffd6f239a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a14399e48bf8e624",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-07 14.58.19.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8d7f66f2ee87c0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a06c85970e28684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO-DO LIST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6c424f1e9e795bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Another Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3260441fc7a2b364",
+            "id": "bcb3b35da09df867",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -300,35 +184,36 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3260441fc7a2b364",
+  "active": "bcb3b35da09df867",
   "lastOpenFiles": [
+    "Excalidraw/也许是 实验报告 2024-07-09 21.13.24.excalidraw.md",
+    "也许是 实验报告.md",
+    "Excalidraw/也许是 实验报告 2024-07-09 19.38.36.excalidraw.md",
+    "账单.md",
+    "Excalidraw/也许是 实验报告 2024-07-09 19.41.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-09 08.51.22.excalidraw.md",
+    "Examinations/光系统.png",
+    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
+    "未命名 3.md",
+    "check-list.md",
     "Plant Physiology/杂记.md",
     "未命名 1.md",
-    "schedule.md",
     "Another Untitled.md",
+    "TO-DO LIST.md",
+    "Temporary.md",
+    "Excalidraw/Drawing 2024-05-07 14.58.19.excalidraw.md",
+    "Ecology/种群生态学.md",
+    "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md",
+    "schedule.md",
     "微生物杂记.md",
     "扣分记录.md",
     "Bioinformatics.md",
-    "TO-DO LIST.md",
-    "Temporary.md",
-    "也许是 实验报告.md",
     "Pictures",
-    "Ecology/种群生态学.md",
     "未命名 4.md",
-    "账单.md",
     "Evolution/生命及其起源.md",
-    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
     "Strange Things.md",
     "Ecology/杂.md",
-    "分类2.pdf.md",
-    "系统分类.md",
-    "神经系统用药.md",
-    "生理学.md",
-    "生物技术（杂）.md",
-    "未命名.md",
-    "check-list.md",
-    "复卷.md",
-    "Excalidraw/Drawing 2024-05-10 08.22.39.excalidraw.md",
     "Ecology",
     "Botany",
     "Strange_Things.png",
@@ -347,7 +232,6 @@
     "android/pdfjs/web/images/toolbarButton-zoomIn.svg",
     "android/pdfjs/web/images/toolbarButton-viewThumbnail.svg",
     "android/pdfjs/web/images/toolbarButton-viewOutline.svg",
-    "android/pdfjs/web/images/toolbarButton-viewLayers.svg",
     "未命名.canvas"
   ]
 }
