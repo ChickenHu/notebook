@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "a9af73f5c728656e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b3e96276a7a4098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dcc62d18b1bacfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "也许是 实验报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dad4add62101f261",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9759edb2804a340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38978e116deb0731",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28c942fe3699b6bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b2876947fda6174",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3049b258080596c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e8ec6999b1c149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7afdb879bd9a8ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "也许是 实验报告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25d6860e7b91c7b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "也许是 实验报告.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cded0fe471cbf61d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dde8e0e872267d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "也许是 实验报告.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "38978e116deb0731",
+  "lastOpenFiles": [
+    "Excalidraw/也许是 实验报告 2024-07-13 07.40.26.excalidraw.md",
+    "Excalidraw/也许是 实验报告 2024-07-10 21.13.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.png",
+    "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw",
+    "研究性学习报告.md"
+  ]
+}
