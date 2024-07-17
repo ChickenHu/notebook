@@ -28,5 +28,13 @@
     "editor:table-col-before",
     "editor:table-col-after"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showRibbon": true
 }
