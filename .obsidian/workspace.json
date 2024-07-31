@@ -11,19 +11,21 @@
             "id": "2dcc62d18b1bacfd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pictures/IMG_20240710_154857.jpg"
+                "file": "研究性学习报告.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "b22e1126d26f9153",
+            "id": "c1708741b39974a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "问题合集.md",
+                "file": "杂乱无章.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,41 +52,17 @@
             }
           },
           {
-            "id": "f2b2bebafd5a3905",
+            "id": "ecbf2198d48002a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "研究性学习报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ed8463a3201708f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "也许是 实验报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71e222e3ea180859",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 08.51.22.excalidraw.md"
+                "file": "Pictures/IMG_20240713_101006.jpg"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,28 +112,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3049b258080596c4",
     "type": "split",
     "children": [
-      {
-        "id": "ef409f7969a85e7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9dde8e0e872267d9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "研究性学习报告.md"
-              }
-            }
-          }
-        ]
-      },
       {
         "id": "e1e8ec6999b1c149",
         "type": "tabs",
@@ -166,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研究性学习报告.md",
+                "file": "杂乱无章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研究性学习报告.md",
+                "file": "杂乱无章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,6 +160,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dde8e0e872267d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "杂乱无章.md"
               }
             }
           },
@@ -217,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -235,31 +208,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38978e116deb0731",
+  "active": "c1708741b39974a4",
   "lastOpenFiles": [
-    "~$究性学习报告.docx",
-    "Pasted.md",
     "研究性学习报告.md",
-    "Pictures/图一.png",
-    "Pictures/表一.png",
-    "Pasted image 20240730204827.png",
-    "Pasted image 20240730204750.png",
-    "Pasted image 20240730204709.png",
-    "Pasted image 20240730204242.png",
-    "也许是 实验报告.md",
-    "研究性学习报告.docx",
-    "研究性学习报告.docx、",
-    "Untitled-1.gif",
-    "Pictures/IMG_20240710_154857.jpg",
-    "Untitled.gif",
-    "Excalidraw/Drawing 2024-07-09 08.51.22.excalidraw.md",
-    "Pictures/IMG_20240710_181448.jpg",
-    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.md",
-    "无脊椎.md",
-    "软体动物.md",
-    "问题合集.md",
+    "杂乱无章.md",
     "未命名 1.md",
+    "Pictures/IMG_20240708_104030.jpg",
+    "Pictures/IMG_20240708_154055.jpg",
+    "Pictures/IMG_20240708_162643.jpg",
+    "Pictures/IMG_20240708_172146.jpg",
+    "Pictures/IMG_20240709_095409.jpg",
+    "Pictures/IMG_20240709_103451.jpg",
+    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
+    "Pictures/IMG_20240713_101006.jpg",
+    "Pictures/IMG_20240713_111143.jpg",
+    "问题合集.md",
+    "软体动物.md",
+    "无脊椎.md",
+    "Untitled.gif",
+    "Untitled-1.gif",
+    "Pasted.md",
+    "也许是 实验报告.md",
     "Excalidraw/也许是 实验报告 2024-07-09 19.38.36.excalidraw.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "Excalidraw/Drawing 2024-05-07 14.58.19.excalidraw.md",
@@ -273,6 +242,7 @@
     "Excalidraw/杂 2024-04-29 14.32.32.excalidraw.md",
     "Excalidraw/Drawing 2024-03-19 21.05.30.excalidraw.md",
     "Excalidraw/Drawing 2024-03-20 21.20.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.md",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"
   ]
 }
