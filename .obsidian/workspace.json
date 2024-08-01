@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂乱无章.md",
+                "file": "Comparative Vertebrate Anatomy/杂乱无章.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fe8e9f20694218a1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md"
               }
             }
           },
@@ -112,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3049b258080596c4",
@@ -129,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂乱无章.md",
+                "file": "Comparative Vertebrate Anatomy/杂乱无章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂乱无章.md",
+                "file": "Comparative Vertebrate Anatomy/杂乱无章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂乱无章.md"
+                "file": "Comparative Vertebrate Anatomy/杂乱无章.md"
               }
             }
           },
@@ -210,8 +219,13 @@
   },
   "active": "c1708741b39974a4",
   "lastOpenFiles": [
+    "Comparative Vertebrate Anatomy",
+    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
+    "Comparative Vertebrate Anatomy/杂乱无章.md",
+    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
+    "temp.html",
+    "Excalidraw/杂乱无章 2024-08-01 08.49.50.excalidraw.md",
     "研究性学习报告.md",
-    "杂乱无章.md",
     "未命名 1.md",
     "Pictures/IMG_20240708_104030.jpg",
     "Pictures/IMG_20240708_154055.jpg",
@@ -219,7 +233,6 @@
     "Pictures/IMG_20240708_172146.jpg",
     "Pictures/IMG_20240709_095409.jpg",
     "Pictures/IMG_20240709_103451.jpg",
-    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
     "Pictures/IMG_20240713_101006.jpg",
     "Pictures/IMG_20240713_111143.jpg",
     "问题合集.md",
