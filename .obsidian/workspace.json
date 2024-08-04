@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "935f8de4ca276fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/玛卡巴卡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c1708741b39974a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparative Vertebrate Anatomy/杂乱无章.md",
+                "file": "Comparative Vertebrate Anatomy/神经系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,19 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pictures/IMG_20240713_101006.jpg"
+                "file": "Pictures/IMG_20240715_113737.jpg"
+              }
+            }
+          },
+          {
+            "id": "d27b15613ca7c9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparative Vertebrate Anatomy/杂乱无章.md",
+                "file": "Physiology/玛卡巴卡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparative Vertebrate Anatomy/杂乱无章.md",
+                "file": "Physiology/玛卡巴卡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparative Vertebrate Anatomy/杂乱无章.md"
+                "file": "Physiology/玛卡巴卡.md"
               }
             }
           },
@@ -217,46 +241,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1708741b39974a4",
+  "active": "5a0ce3a01185176c",
   "lastOpenFiles": [
-    "杂项.md",
-    "Bioinformatics.md",
-    "Another Untitled.md",
     "Comparative Vertebrate Anatomy/神经系统.md",
     "Comparative Vertebrate Anatomy/杂乱无章.md",
+    "Physiology/玛卡巴卡.md",
+    "杂项.md",
+    "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
+    "复卷.md",
+    "Physiology/血液.md",
+    "研究性学习报告.md",
+    "Pictures/mmexport1722657191381.jpg",
+    "Pictures/Pasted image 20240721213534.png",
+    "Pictures/Pasted image 20240721221238.png",
+    "Pictures/Pasted image 20240730204242.png",
+    "Excalidraw/玛卡巴卡 2024-08-03 10.44.35.excalidraw.md",
+    "Pictures/IMG_20240710_181448.jpg",
+    "Pictures/IMG_20240715_113737.jpg",
+    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
+    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
+    "Pictures/IMG_20240715_145939.jpg",
+    "Pictures/IMG_20240713_093814.jpg",
+    "Pictures/IMG_20240712_173443.jpg",
+    "Pictures/IMG_20240712_161932.jpg",
+    "Bioinformatics.md",
+    "Another Untitled.md",
     "生理学.md",
     "Examinations/大联考2.md",
     "未命名 1.md",
-    "未命名.md",
     "未命名 4.md",
     "未命名 3.md",
     "Comparative Vertebrate Anatomy",
-    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
-    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
     "temp.html",
     "Excalidraw/杂乱无章 2024-08-01 08.49.50.excalidraw.md",
-    "研究性学习报告.md",
-    "Pictures/IMG_20240708_104030.jpg",
-    "Pictures/IMG_20240708_154055.jpg",
-    "Pictures/IMG_20240708_162643.jpg",
-    "Pictures/IMG_20240708_172146.jpg",
-    "Pictures/IMG_20240709_095409.jpg",
-    "Pictures/IMG_20240709_103451.jpg",
-    "Pictures/IMG_20240713_101006.jpg",
-    "Pictures/IMG_20240713_111143.jpg",
     "问题合集.md",
     "软体动物.md",
     "无脊椎.md",
-    "Untitled.gif",
-    "Untitled-1.gif",
     "Pasted.md",
     "也许是 实验报告.md",
     "Excalidraw/也许是 实验报告 2024-07-09 19.38.36.excalidraw.md",
     "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 14.58.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-30 08.09.48.excalidraw.md",
-    "Excalidraw/Day1 2024-03-18 23.13.04.excalidraw.md",
-    "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"
   ]
 }
