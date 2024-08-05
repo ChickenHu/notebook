@@ -106,9 +106,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef9d28b35b3c4050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genetics/计算.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c78a512b0d282bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biostatistics/分布函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6697f61a72604dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biostatistics/分布函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74e6e1933c96207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "扣分记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -174,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetics/Day1.md",
+                "file": "扣分记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetics/Day1.md",
+                "file": "扣分记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetics/Day1.md"
+                "file": "扣分记录.md"
               }
             }
           },
@@ -253,11 +301,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75c2a4607a60f246",
+  "active": "a74e6e1933c96207",
   "lastOpenFiles": [
-    "Genetics/Day1.pdf",
-    "Genetics/Day1.md",
+    "分子演化.md",
+    "扣分记录.md",
+    "Bioinformatics.md",
+    "Another Untitled.md",
+    "Temporary.md",
+    "Physiology/Strange Things.md",
+    "README.md",
+    "schedule.md",
+    "Physiology/基本功能.md",
+    "生理学.md",
+    "分类2.pdf.md",
     "Physiology/玛卡巴卡.md",
+    "Biostatistics/基本概念.md",
+    "Biostatistics/分布函数.md",
+    "Biostatistics",
+    "未命名",
+    "Genetics/计算.md",
+    "Genetics/杂记.md",
+    "Genetics/Day1.md",
+    "Physiology/未命名.canvas",
+    "Genetics/概念.md",
+    "Genetics/Day1.pdf",
     "杂项.md",
     "Pictures/IMG_20240715_113737.jpg",
     "Pictures/IMG_20240710_181448.jpg",
@@ -268,31 +335,16 @@
     "研究性学习报告.md",
     "Comparative Vertebrate Anatomy/杂乱无章.md",
     "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
-    "复卷.md",
     "Pictures/mmexport1722657191381.jpg",
     "Pictures/Pasted image 20240721213534.png",
     "Pictures/Pasted image 20240721221238.png",
     "Pictures/Pasted image 20240730204242.png",
-    "Excalidraw/玛卡巴卡 2024-08-03 10.44.35.excalidraw.md",
     "Pictures/IMG_20240715_145939.jpg",
     "Pictures/IMG_20240713_093814.jpg",
     "Pictures/IMG_20240712_173443.jpg",
     "Pictures/IMG_20240712_161932.jpg",
-    "Bioinformatics.md",
-    "Another Untitled.md",
-    "生理学.md",
-    "Examinations/大联考2.md",
-    "未命名 1.md",
-    "未命名 4.md",
-    "未命名 3.md",
     "Comparative Vertebrate Anatomy",
     "temp.html",
-    "Excalidraw/杂乱无章 2024-08-01 08.49.50.excalidraw.md",
-    "问题合集.md",
-    "软体动物.md",
-    "无脊椎.md",
-    "Pasted.md",
-    "也许是 实验报告.md",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"
   ]
 }
