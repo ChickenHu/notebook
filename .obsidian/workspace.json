@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/玛卡巴卡.md",
+                "file": "Physiology/血液.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,9 +94,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75c2a4607a60f246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/玛卡巴卡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -241,25 +253,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a0ce3a01185176c",
+  "active": "75c2a4607a60f246",
   "lastOpenFiles": [
-    "Comparative Vertebrate Anatomy/神经系统.md",
-    "Comparative Vertebrate Anatomy/杂乱无章.md",
-    "Physiology/玛卡巴卡.md",
     "杂项.md",
-    "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
-    "复卷.md",
+    "Pictures/IMG_20240715_113737.jpg",
+    "Pictures/IMG_20240710_181448.jpg",
+    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
+    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
+    "Comparative Vertebrate Anatomy/神经系统.md",
     "Physiology/血液.md",
     "研究性学习报告.md",
+    "Physiology/玛卡巴卡.md",
+    "Comparative Vertebrate Anatomy/杂乱无章.md",
+    "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
+    "复卷.md",
     "Pictures/mmexport1722657191381.jpg",
     "Pictures/Pasted image 20240721213534.png",
     "Pictures/Pasted image 20240721221238.png",
     "Pictures/Pasted image 20240730204242.png",
     "Excalidraw/玛卡巴卡 2024-08-03 10.44.35.excalidraw.md",
-    "Pictures/IMG_20240710_181448.jpg",
-    "Pictures/IMG_20240715_113737.jpg",
-    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
-    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
     "Pictures/IMG_20240715_145939.jpg",
     "Pictures/IMG_20240713_093814.jpg",
     "Pictures/IMG_20240712_173443.jpg",
@@ -280,7 +292,6 @@
     "Pasted.md",
     "也许是 实验报告.md",
     "Excalidraw/也许是 实验报告 2024-07-09 19.38.36.excalidraw.md",
-    "Excalidraw/生物表型进化 2024-04-12 18.58.22.excalidraw.md",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"
   ]
 }
