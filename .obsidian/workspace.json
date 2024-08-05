@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/玛卡巴卡.md",
+                "file": "Genetics/Day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physiology/玛卡巴卡.md",
+                "file": "Genetics/Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physiology/玛卡巴卡.md",
+                "file": "Genetics/Day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physiology/玛卡巴卡.md"
+                "file": "Genetics/Day1.md"
               }
             }
           },
@@ -255,6 +255,9 @@
   },
   "active": "75c2a4607a60f246",
   "lastOpenFiles": [
+    "Genetics/Day1.pdf",
+    "Genetics/Day1.md",
+    "Physiology/玛卡巴卡.md",
     "杂项.md",
     "Pictures/IMG_20240715_113737.jpg",
     "Pictures/IMG_20240710_181448.jpg",
@@ -263,7 +266,6 @@
     "Comparative Vertebrate Anatomy/神经系统.md",
     "Physiology/血液.md",
     "研究性学习报告.md",
-    "Physiology/玛卡巴卡.md",
     "Comparative Vertebrate Anatomy/杂乱无章.md",
     "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
     "复卷.md",
@@ -291,7 +293,6 @@
     "无脊椎.md",
     "Pasted.md",
     "也许是 实验报告.md",
-    "Excalidraw/也许是 实验报告 2024-07-09 19.38.36.excalidraw.md",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"
   ]
 }
