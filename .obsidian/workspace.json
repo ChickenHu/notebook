@@ -44,13 +44,25 @@
             }
           },
           {
-            "id": "d5291e56f5c50097",
+            "id": "4199f92c833f7d0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Genetics/概念.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e95b2ec92fa31105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "研究性学习报告.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -202,13 +214,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5291e56f5c50097",
+  "active": "4199f92c833f7d0b",
   "lastOpenFiles": [
-    "Genetics/概念.md",
-    "Genetics/计算.md",
-    "Biostatistics/分布函数.md",
-    "Pictures/图一 1.png",
     "研究性学习报告.md",
+    "Genetics/概念.md",
+    "Biostatistics/分布函数.md",
+    "Genetics/计算.md",
+    "Pictures/图一 1.png",
     "Genetics/Day1.md",
     "杂项.md",
     "Pictures/IMG_20240715_113737.jpg",
