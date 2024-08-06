@@ -8,112 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dcc62d18b1bacfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研究性学习报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "935f8de4ca276fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/血液.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1708741b39974a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comparative Vertebrate Anatomy/神经系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe8e9f20694218a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3993f43bff7df0c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "aa1ebfc948026f3a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pictures/IMG_20240710_181448.jpg"
-              }
-            }
-          },
-          {
-            "id": "ecbf2198d48002a0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pictures/IMG_20240715_113737.jpg"
-              }
-            }
-          },
-          {
-            "id": "d27b15613ca7c9a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75c2a4607a60f246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetics/Day1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef9d28b35b3c4050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Genetics/计算.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9801ae35410e5752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genetics/Day1.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,31 +44,19 @@
             }
           },
           {
-            "id": "6697f61a72604dbe",
+            "id": "d5291e56f5c50097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biostatistics/分布函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a74e6e1933c96207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "扣分记录.md",
-                "mode": "source",
+                "file": "Genetics/概念.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3049b258080596c4",
@@ -222,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "扣分记录.md",
+                "file": "Genetics/概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "扣分记录.md",
+                "file": "Genetics/概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "扣分记录.md"
+                "file": "Genetics/概念.md"
               }
             }
           },
@@ -301,10 +202,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a74e6e1933c96207",
+  "active": "d5291e56f5c50097",
   "lastOpenFiles": [
-    "分子演化.md",
+    "Genetics/概念.md",
+    "Genetics/计算.md",
+    "Biostatistics/分布函数.md",
+    "Pictures/图一 1.png",
+    "研究性学习报告.md",
+    "Genetics/Day1.md",
+    "杂项.md",
+    "Pictures/IMG_20240715_113737.jpg",
+    "Pictures/IMG_20240710_181448.jpg",
+    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
+    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
+    "Comparative Vertebrate Anatomy/神经系统.md",
+    "Physiology/血液.md",
+    "Genetics/杂记.md",
+    "生物技术（杂）.md",
     "扣分记录.md",
+    "分子演化.md",
     "Bioinformatics.md",
     "Another Untitled.md",
     "Temporary.md",
@@ -316,25 +232,10 @@
     "分类2.pdf.md",
     "Physiology/玛卡巴卡.md",
     "Biostatistics/基本概念.md",
-    "Biostatistics/分布函数.md",
     "Biostatistics",
     "未命名",
-    "Genetics/计算.md",
-    "Genetics/杂记.md",
-    "Genetics/Day1.md",
     "Physiology/未命名.canvas",
-    "Genetics/概念.md",
     "Genetics/Day1.pdf",
-    "杂项.md",
-    "Pictures/IMG_20240715_113737.jpg",
-    "Pictures/IMG_20240710_181448.jpg",
-    "Excalidraw/也许是 实验报告 2024-07-17 16.00.50.excalidraw.md",
-    "Excalidraw/杂乱无章 2024-08-01 11.24.06.excalidraw.md",
-    "Comparative Vertebrate Anatomy/神经系统.md",
-    "Physiology/血液.md",
-    "研究性学习报告.md",
-    "Comparative Vertebrate Anatomy/杂乱无章.md",
-    "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
     "Pictures/mmexport1722657191381.jpg",
     "Pictures/Pasted image 20240721213534.png",
     "Pictures/Pasted image 20240721221238.png",
@@ -342,7 +243,6 @@
     "Pictures/IMG_20240715_145939.jpg",
     "Pictures/IMG_20240713_093814.jpg",
     "Pictures/IMG_20240712_173443.jpg",
-    "Pictures/IMG_20240712_161932.jpg",
     "Comparative Vertebrate Anatomy",
     "temp.html",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"

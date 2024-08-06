@@ -31,11 +31,12 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A3",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
   },
   "showRibbon": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
