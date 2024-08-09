@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c78a512b0d282bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biostatistics/分布函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4199f92c833f7d0b",
             "type": "leaf",
             "state": {
@@ -56,7 +44,31 @@
             }
           },
           {
-            "id": "e95b2ec92fa31105",
+            "id": "a2e13645100749b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生物技术.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660159a936791194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "也许是 实验报告.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "827877264afb60ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetics/概念.md",
+                "file": "生物技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetics/概念.md",
+                "file": "生物技术.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetics/概念.md"
+                "file": "生物技术.md"
               }
             }
           },
@@ -214,14 +226,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4199f92c833f7d0b",
+  "active": "a2e13645100749b9",
   "lastOpenFiles": [
     "研究性学习报告.md",
+    "也许是 实验报告.md",
+    "生物技术.md",
+    "~WRD0000.tmp",
+    "~$究性学习报告.docx",
+    "生物技术（杂）.md",
     "Genetics/概念.md",
+    "Genetics/Day1.md",
+    "微生物杂记.md",
     "Biostatistics/分布函数.md",
     "Genetics/计算.md",
+    "研究性学习报告.docx",
+    "Pictures/mmexport1722932477219.jpg",
     "Pictures/图一 1.png",
-    "Genetics/Day1.md",
     "杂项.md",
     "Pictures/IMG_20240715_113737.jpg",
     "Pictures/IMG_20240710_181448.jpg",
@@ -230,7 +250,6 @@
     "Comparative Vertebrate Anatomy/神经系统.md",
     "Physiology/血液.md",
     "Genetics/杂记.md",
-    "生物技术（杂）.md",
     "扣分记录.md",
     "分子演化.md",
     "Bioinformatics.md",
@@ -241,9 +260,6 @@
     "schedule.md",
     "Physiology/基本功能.md",
     "生理学.md",
-    "分类2.pdf.md",
-    "Physiology/玛卡巴卡.md",
-    "Biostatistics/基本概念.md",
     "Biostatistics",
     "未命名",
     "Physiology/未命名.canvas",
@@ -254,7 +270,6 @@
     "Pictures/Pasted image 20240730204242.png",
     "Pictures/IMG_20240715_145939.jpg",
     "Pictures/IMG_20240713_093814.jpg",
-    "Pictures/IMG_20240712_173443.jpg",
     "Comparative Vertebrate Anatomy",
     "temp.html",
     "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.excalidraw"
