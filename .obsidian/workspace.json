@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生物技术.md",
+                "file": "Bioinformatics.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +90,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "344ef877fa84a109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temporary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82d4fecf4da1b823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/根.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8868bae093a15291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -142,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3049b258080596c4",
@@ -159,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生物技术.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生物技术.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生物技术.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -220,12 +255,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,10 +273,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2e13645100749b9",
+  "active": "8868bae093a15291",
   "lastOpenFiles": [
-    "Genetics/Day1.md",
+    "Botany/根.md",
+    "未命名.md",
+    "Botany/杂.md",
+    "Plant Physiology/杂记.md",
+    "Temporary.md",
+    "植物生理.md",
+    "Genetics/计算.md",
     "生物技术.md",
+    "Genetics/Day1.md",
     "Genetics/概念.md",
     "也许是 实验报告.md",
     "研究性学习报告.md",
@@ -251,7 +292,6 @@
     "生物技术（杂）.md",
     "微生物杂记.md",
     "Biostatistics/分布函数.md",
-    "Genetics/计算.md",
     "研究性学习报告.docx",
     "Pictures/mmexport1722932477219.jpg",
     "Pictures/图一 1.png",
@@ -267,12 +307,7 @@
     "分子演化.md",
     "Bioinformatics.md",
     "Another Untitled.md",
-    "Temporary.md",
     "Physiology/Strange Things.md",
-    "README.md",
-    "schedule.md",
-    "Physiology/基本功能.md",
-    "生理学.md",
     "Biostatistics",
     "未命名",
     "Physiology/未命名.canvas",
