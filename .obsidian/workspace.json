@@ -4,163 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "4b3e96276a7a4098",
+        "id": "fea98ca6ea37f6dc",
         "type": "tabs",
         "children": [
           {
-            "id": "ef9d28b35b3c4050",
+            "id": "cbff6595ad8a43af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetics/计算.md",
+                "file": "Ecology/群落生态学.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9801ae35410e5752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetics/Day1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4199f92c833f7d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetics/概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2e13645100749b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "660159a936791194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "也许是 实验报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "827877264afb60ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研究性学习报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d70df0d55099e137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "也许是 实验报告.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "344ef877fa84a109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temporary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d4fecf4da1b823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Stem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "764b66158bb8fb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/花.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db48f5587a8f8694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "植物实验-黎维平.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39ee960487171b70",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pictures/IMG_20240820_211815.jpg"
-              }
-            }
-          },
-          {
-            "id": "fee30c91000c1a2d",
+            "id": "f86a12b78e7897a7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/植物实验-黎维平 2024-08-20 10.27.56.excalidraw.md"
+                "file": "Excalidraw/群落生态学 2024-08-22 09.14.52.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3049b258080596c4",
@@ -226,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pictures/IMG_20240820_211815.jpg",
+                "file": "Ecology/群落生态学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pictures/IMG_20240820_211815.jpg",
+                "file": "Ecology/群落生态学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pictures/IMG_20240820_211815.jpg"
+                "file": "Ecology/群落生态学.md"
               }
             }
           },
@@ -306,54 +176,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39ee960487171b70",
+  "active": "cbff6595ad8a43af",
   "lastOpenFiles": [
+    "Excalidraw/群落生态学 2024-08-22 09.14.52.excalidraw.md",
+    "Ecology/群落生态学.md",
+    "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
+    "Ecology/种群生态学.md",
+    "Excalidraw/植物实验-黎维平 2024-08-20 10.27.56.excalidraw.md",
+    "Pictures/IMG_20240820_211815.jpg",
+    "植物实验-黎维平.md",
+    "Botany/花.md",
+    "Botany/Stem.md",
+    "Temporary.md",
+    "也许是 实验报告.md",
+    "研究性学习报告.md",
+    "Bioinformatics.md",
+    "Genetics/概念.md",
+    "Genetics/Day1.md",
+    "Genetics/计算.md",
+    "~WRL1666.tmp",
+    "~WRD1638.tmp",
+    "~WRL2267.tmp",
+    "~WRD2236.tmp",
+    "~WRL3847.tmp",
+    "~WRD3816.tmp",
+    "~$究性学习报告.docx",
+    "Pasted image 20240821170358.png",
+    "Pasted image 20240821165651.png",
+    "个体生态.md",
     "Pictures/mmexport1722657191381.jpg",
     "Pictures/IMG_20240820_204617.jpg",
-    "Pictures/IMG_20240820_211815.jpg",
     "Pictures/IMG_20240820_204050.jpg",
     "Pictures/IMG_20240820_204014.jpg",
     "Pictures/IMG_20240820_203813.jpg",
     "Pictures/IMG_20240820_202912.jpg",
     "Pictures/IMG_20240820_201839.jpg",
-    "Pictures/IMG_20240820_194819.jpg",
-    "Pictures/IMG_20240820_190104.jpg",
-    "Pictures/IMG_20240820_190033.jpg",
-    "植物实验-黎维平.md",
-    "Botany/花.md",
     "~WRL4001.tmp",
     "~WRD3978.tmp",
-    "~WRL1826.tmp",
-    "~WRD1807.tmp",
-    "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
-    "~WRL0005.tmp",
-    "~WRD0004.tmp",
-    "25班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
     "Plant Physiology/提纲（需要扩充）.md",
-    "~$究性学习报告.docx",
-    "Excalidraw/植物实验-黎维平 2024-08-20 10.27.56.excalidraw.md",
     "Plant Physiology/水势.md",
-    "Genetics/计算.md",
     "未命名 1.md",
-    "Botany/Stem.md",
     "Botany/根.md",
-    "Genetics/概念.md",
     "未命名思维导图.md",
     "excalibrain.md",
     "Excalidraw/ExcaliBrain Snapshot - Stem.excalidraw.md",
     "Botany/杂.md",
     "Plant Physiology/杂记.md",
-    "Temporary.md",
     "植物生理.md",
     "生物技术.md",
-    "Genetics/Day1.md",
-    "也许是 实验报告.md",
-    "研究性学习报告.md",
-    "~WRD0000.tmp",
-    "生物技术（杂）.md",
-    "微生物杂记.md",
-    "Biostatistics/分布函数.md",
-    "杂项.md",
     "Physiology/未命名.canvas"
   ]
 }
