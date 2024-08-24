@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecology/群落生态学.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "28900214f3b52bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "动物行为学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34eac408917861f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/动物行为学 2024-08-23 15.07.33.excalidraw.md"
               }
             }
           },
@@ -79,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3049b258080596c4",
@@ -96,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecology/群落生态学.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecology/群落生态学.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecology/群落生态学.md"
+                "file": "README.md"
               }
             }
           },
@@ -176,21 +197,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbff6595ad8a43af",
+  "active": "38978e116deb0731",
   "lastOpenFiles": [
-    "Excalidraw/群落生态学 2024-08-22 09.14.52.excalidraw.md",
-    "Ecology/群落生态学.md",
-    "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
-    "Ecology/种群生态学.md",
-    "Excalidraw/植物实验-黎维平 2024-08-20 10.27.56.excalidraw.md",
-    "Pictures/IMG_20240820_211815.jpg",
     "植物实验-黎维平.md",
+    "Pasted.md",
+    "Ecology、.md",
+    "动物行为学.md",
+    "Bioinformatics.md",
+    "细菌和病毒的遗传.md",
+    "Physiology/玛卡巴卡.md",
+    "Excalidraw/群落生态学 2024-08-22 09.14.52.excalidraw.md",
+    "Excalidraw/动物行为学 2024-08-23 15.07.33.excalidraw.md",
+    "Excalidraw/动物行为学 2024-08-23 11.29.18.excalidraw.md",
+    "Pictures/mmexport1724371921172.jpg",
+    "Pictures/Pasted image 20240823081110.png",
+    "Pictures/mmexport1724371662684.jpg",
+    "Pictures/mmexport1724371589230.jpg",
+    "Ecology/生态系统生态学.md",
+    "Genetics/Day1.pdf",
+    "Ecology/群落生态学.md",
+    "Ecology/种群生态学.md",
+    "Pictures/IMG_20240709_120039.jpg",
+    "Pictures/IMG_20240709_120113.jpg",
+    "Pictures/IMG_20240709_155502.jpg",
+    "Pictures/IMG_20240709_155507.jpg",
+    "Pictures/IMG_20240709_170558.jpg",
+    "Pictures/IMG_20240710_092510.jpg",
+    "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
+    "Excalidraw/植物实验-黎维平 2024-08-20 10.27.56.excalidraw.md",
     "Botany/花.md",
     "Botany/Stem.md",
     "Temporary.md",
     "也许是 实验报告.md",
     "研究性学习报告.md",
-    "Bioinformatics.md",
     "Genetics/概念.md",
     "Genetics/Day1.md",
     "Genetics/计算.md",
@@ -201,29 +240,11 @@
     "~WRL3847.tmp",
     "~WRD3816.tmp",
     "~$究性学习报告.docx",
-    "Pasted image 20240821170358.png",
-    "Pasted image 20240821165651.png",
     "个体生态.md",
-    "Pictures/mmexport1722657191381.jpg",
-    "Pictures/IMG_20240820_204617.jpg",
-    "Pictures/IMG_20240820_204050.jpg",
-    "Pictures/IMG_20240820_204014.jpg",
-    "Pictures/IMG_20240820_203813.jpg",
-    "Pictures/IMG_20240820_202912.jpg",
-    "Pictures/IMG_20240820_201839.jpg",
     "~WRL4001.tmp",
-    "~WRD3978.tmp",
     "Plant Physiology/提纲（需要扩充）.md",
     "Plant Physiology/水势.md",
     "未命名 1.md",
-    "Botany/根.md",
-    "未命名思维导图.md",
-    "excalibrain.md",
-    "Excalidraw/ExcaliBrain Snapshot - Stem.excalidraw.md",
-    "Botany/杂.md",
-    "Plant Physiology/杂记.md",
-    "植物生理.md",
-    "生物技术.md",
     "Physiology/未命名.canvas"
   ]
 }
