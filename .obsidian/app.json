@@ -38,5 +38,6 @@
   },
   "showRibbon": true,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Pictures"
 }
