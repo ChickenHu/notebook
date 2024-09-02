@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Botany/根.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c71571720724702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Botany/叶.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca6c0e27130f6df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/基本组织.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,11 +231,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,20 +250,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc90edf2e4cc09f7",
+  "active": "4c71571720724702",
   "lastOpenFiles": [
-    "Pictures/20200927120021_78847.png",
-    "Botany/叶.md",
+    "Botany/根.md",
     "Botany/花.md",
+    "Botany/种子.md",
+    "Botany/茎.md",
+    "2020-朱斌-行为生态.md",
+    "Botany/基本组织.md",
+    "Botany/叶.md",
+    "Pictures/20200927120021_78847.png",
     "Pictures/Pasted image 20240827235108.png",
     "Pictures/Pasted image 20240830215130.png",
-    "Botany/茎.md",
     "Botany/Stem.md",
-    "2020-朱斌-行为生态.md",
-    "Botany/根.md",
-    "Botany/种子.md",
     "Botany/果实.md",
-    "Botany/基本组织.md",
     "README.md",
     "动物行为学.md",
     "Ecology/群落生态学.md",
