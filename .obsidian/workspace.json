@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0320a100491b990d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/根.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602568dffae1ce4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2020-朱斌-行为生态.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a6619fa9ae4f786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/茎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3866852557a93e7",
             "type": "leaf",
             "state": {
@@ -80,12 +44,156 @@
             }
           },
           {
+            "id": "604e7bc4f32540ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/褐藻门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50d756d584c3a933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/红藻门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da236af3249cf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/绿藻门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4c71571720724702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Botany/叶.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc952a0a24f1d3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/根.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76c8359a90e2d660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/茎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40e2aeb23c504a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/根.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7776b50490e1bb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "接合菌亚门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "686df62e74e1abbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "鞭毛菌亚门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d1975cd2106f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "真菌门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b9ce10f3544992f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "根肿菌纲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "774cd4741c4a8797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黏菌纲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0efac5d321c96ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/蓝藻门.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +210,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d110aa0a80626432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d3d5507a890ca38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/生活史.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -133,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "侧根",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +282,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/叶.md",
+                "file": "Botany/根.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/叶.md",
+                "file": "Botany/根.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/叶.md"
+                "file": "Botany/根.md"
               }
             }
           },
@@ -244,50 +377,52 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "4c71571720724702",
+  "active": "dc952a0a24f1d3c7",
   "lastOpenFiles": [
-    "Botany/根.md",
-    "Botany/花.md",
     "Botany/种子.md",
-    "Botany/茎.md",
-    "2020-朱斌-行为生态.md",
-    "Botany/基本组织.md",
     "Botany/叶.md",
+    "Botany/根.md",
+    "Botany/茎.md",
+    "Botany/花.md",
+    "Botany/Classification/分类表.md",
+    "接合菌亚门.md",
+    "鞭毛菌亚门.md",
+    "真菌门.md",
+    "黏菌纲.md",
+    "Botany/Classification/甲藻门.md",
+    "Botany/Classification/裸藻门.md",
+    "Botany/Classification/蓝藻门.md",
+    "根肿菌纲.md",
+    "系统分类.md",
+    "Plant Physiology/提纲（需要扩充）.md",
+    "Physiology/玛卡巴卡.md",
+    "Examinations/大联考2.md",
+    "Evolution/细胞起源与进化.md",
+    "Evolution/生物发展史.md",
+    "Evolution/生物表型进化.md",
+    "Bioinformatics.md",
+    "细菌和病毒的遗传.md",
+    "2020-朱斌-行为生态.md",
+    "生物技术.md",
+    "动物行为学.md",
+    "Botany/Classification",
     "Pictures/20200927120021_78847.png",
     "Pictures/Pasted image 20240827235108.png",
     "Pictures/Pasted image 20240830215130.png",
-    "Botany/Stem.md",
-    "Botany/果实.md",
-    "README.md",
-    "动物行为学.md",
-    "Ecology/群落生态学.md",
-    "Excalidraw/植物实验-黎维平 2024-08-28 23.25.36.excalidraw.md",
     "Pictures/IMG_20240820_103013.jpg",
-    "Excalidraw/植物实验-黎维平 2024-08-29 08.44.19.excalidraw.md",
-    "Excalidraw/植物实验-黎维平 2024-08-29 08.58.15.excalidraw.md",
     "Pictures/mmexport1724371921172.jpg",
-    "Excalidraw/植物实验-黎维平 2024-08-20 10.27.56.excalidraw.md",
-    "Excalidraw/植物实验-黎维平 2024-08-29 09.07.56.excalidraw.md",
-    "Excalidraw/动物行为学 2024-08-23 15.07.33.excalidraw.md",
     "Pictures/Pasted image 20240829192808.png",
-    "植物实验-黎维平.md",
     "植物实验-黎维平.pdf",
     "Pictures/Pasted Image 20240829091121_885.png",
     "Pictures/Pasted image 20240828163409.png",
     "Pictures/Pasted image 20240828175204.png",
     "Pictures/Pasted image 20240828193051.png",
-    "Excalidraw/植物实验-黎维平 2024-08-29 08.14.51.excalidraw.md",
-    "Ecology/生态系统生态学.md",
-    "Ecology/种群生态学.md",
-    "个体生态.md",
-    "扣分记录.md",
-    "Ecology/杂.md",
     "Genetics/Day1.pdf",
     "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
     "~WRL1666.tmp",
@@ -296,7 +431,6 @@
     "~WRD2236.tmp",
     "~WRL3847.tmp",
     "~WRD3816.tmp",
-    "~$究性学习报告.docx",
     "Physiology/未命名.canvas"
   ]
 }

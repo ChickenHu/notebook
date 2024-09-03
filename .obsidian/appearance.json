@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "showViewHeader": true,
   "cssTheme": "Blue Topaz",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "JetBrains Mono,Source Code Pro",
+  "interfaceFontFamily": ""
 }
