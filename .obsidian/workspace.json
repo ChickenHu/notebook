@@ -4,239 +4,112 @@
     "type": "split",
     "children": [
       {
-        "id": "fea98ca6ea37f6dc",
-        "type": "tabs",
+        "id": "9714d9787deddec4",
+        "type": "split",
         "children": [
           {
-            "id": "f3866852557a93e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/种子.md",
-                "mode": "source",
-                "source": false
+            "id": "8f5685960049bd51",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4067ba06ea04394c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Botany/Classification/分类表.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "787db258368a3245",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "叶苔目.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "86db95de3e268868",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "地钱目.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bde0ca468ae32477",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "苔纲.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "88cbb29beb82616f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Botany/Classification/地衣门.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c7ffe707d3c2d9f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "苔藓植物.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "6325d07cce1e3a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/花.md",
-                "mode": "source",
-                "source": false
+            "id": "212c1be9cd84555a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f720b3b4905bc227",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2f2080dc6028ecce",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "bc90edf2e4cc09f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/根.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "604e7bc4f32540ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/褐藻门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50d756d584c3a933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/红藻门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2da236af3249cf0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/绿藻门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c71571720724702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/叶.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc952a0a24f1d3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/根.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76c8359a90e2d660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/茎.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e2aeb23c504a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/根.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7776b50490e1bb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "接合菌亚门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "686df62e74e1abbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "鞭毛菌亚门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0d1975cd2106f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "真菌门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b9ce10f3544992f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "根肿菌纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "774cd4741c4a8797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "黏菌纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0efac5d321c96ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/蓝藻门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ca6c0e27130f6df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/基本组织.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d110aa0a80626432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d3d5507a890ca38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/生活史.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 7
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -265,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "侧根",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,8 +155,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/根.md",
+                "file": "叶苔目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/根.md",
+                "file": "叶苔目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/根.md"
+                "file": "叶苔目.md"
               }
             }
           },
@@ -383,16 +255,25 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "dc952a0a24f1d3c7",
+  "active": "787db258368a3245",
   "lastOpenFiles": [
-    "Botany/种子.md",
-    "Botany/叶.md",
-    "Botany/根.md",
-    "Botany/茎.md",
-    "Botany/花.md",
     "Botany/Classification/分类表.md",
+    "叶苔目.md",
+    "地钱目.md",
+    "苔纲.md",
+    "苔藓植物.md",
+    "Botany/Classification/地衣门.md",
+    "Botany/Classification/半知菌亚门.md",
+    "Botany/Classification/担子菌亚门.md",
     "接合菌亚门.md",
-    "鞭毛菌亚门.md",
+    "子囊菌亚门.md",
+    "Botany/叶.md",
+    "植物实验-黎维平.md",
+    "Botany/茎.md",
+    "Botany/根.md",
+    "Botany/种子.md",
+    "Botany/花.md",
+    "Botany/Classification/鞭毛菌亚门.md",
     "真菌门.md",
     "黏菌纲.md",
     "Botany/Classification/甲藻门.md",
@@ -402,15 +283,6 @@
     "系统分类.md",
     "Plant Physiology/提纲（需要扩充）.md",
     "Physiology/玛卡巴卡.md",
-    "Examinations/大联考2.md",
-    "Evolution/细胞起源与进化.md",
-    "Evolution/生物发展史.md",
-    "Evolution/生物表型进化.md",
-    "Bioinformatics.md",
-    "细菌和病毒的遗传.md",
-    "2020-朱斌-行为生态.md",
-    "生物技术.md",
-    "动物行为学.md",
     "Botany/Classification",
     "Pictures/20200927120021_78847.png",
     "Pictures/Pasted image 20240827235108.png",

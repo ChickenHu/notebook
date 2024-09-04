@@ -37,7 +37,7 @@
     "downscalePercent": 100
   },
   "showRibbon": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Pictures"
 }
