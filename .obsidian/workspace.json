@@ -24,6 +24,54 @@
                 }
               },
               {
+                "id": "afbf2b499d5a2baa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Botany/Classification/红藻门.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1f3b57829d435967",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Botany/Classification/地衣门.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9e6bb78f2130530",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "泥炭藓目.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2b761d41d344fed1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "角苔目.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "787db258368a3245",
                 "type": "leaf",
                 "state": {
@@ -83,8 +131,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "212c1be9cd84555a",
@@ -138,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#technique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "叶苔目.md",
+                "file": "Botany/Classification/分类表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "叶苔目.md",
+                "file": "Botany/Classification/分类表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "叶苔目.md"
+                "file": "Botany/Classification/分类表.md"
               }
             }
           },
@@ -236,7 +283,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -255,14 +302,21 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "787db258368a3245",
+  "active": "38978e116deb0731",
   "lastOpenFiles": [
+    "Botany/Classification/红藻门.md",
+    "生物技术.md",
     "Botany/Classification/分类表.md",
+    "Botany/Classification/地衣门.md",
+    "泥炭藓目.md",
+    "Pictures/Pasted image 20240904145638.png",
+    "角苔目.md",
+    "Botany/Classification/绿藻门.md",
+    "绿藻门^d3ae2b.md",
     "叶苔目.md",
     "地钱目.md",
     "苔纲.md",
     "苔藓植物.md",
-    "Botany/Classification/地衣门.md",
     "Botany/Classification/半知菌亚门.md",
     "Botany/Classification/担子菌亚门.md",
     "接合菌亚门.md",
@@ -277,12 +331,6 @@
     "真菌门.md",
     "黏菌纲.md",
     "Botany/Classification/甲藻门.md",
-    "Botany/Classification/裸藻门.md",
-    "Botany/Classification/蓝藻门.md",
-    "根肿菌纲.md",
-    "系统分类.md",
-    "Plant Physiology/提纲（需要扩充）.md",
-    "Physiology/玛卡巴卡.md",
     "Botany/Classification",
     "Pictures/20200927120021_78847.png",
     "Pictures/Pasted image 20240827235108.png",
@@ -294,7 +342,6 @@
     "Pictures/Pasted Image 20240829091121_885.png",
     "Pictures/Pasted image 20240828163409.png",
     "Pictures/Pasted image 20240828175204.png",
-    "Pictures/Pasted image 20240828193051.png",
     "Genetics/Day1.pdf",
     "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
     "~WRL1666.tmp",
