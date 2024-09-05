@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "bb03eb4adf5040ca",
+            "id": "0d9b78c380d40a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/Classification/真藓目Bryales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0ce7299df9a2340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/分类表.md",
+                "file": "Botany/杂.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Botany/Classification/木兰目Magnoliales.md",
+                "file": "Botany/分类表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2be808eb33dc1884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "壳斗目Fagales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d343d432134dcc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/分类表.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0524897eb607b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杜仲目Eucommiales.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,93 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f83c9ead2135e6db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/薄囊蕨纲Leptosporangopsida.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d95cb63d6808554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/真蕨亚门Filicophytina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c2f9b941ebfde0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/楔叶亚门Sphenophytina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195d46dcd4f18e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/水韭亚门Isoephytina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd1b3670850fe7ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/石松目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7fd1aba94534097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/卷柏目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5226c312185f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/石松亚门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "外始",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3049b258080596c4",
@@ -218,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/分类表.md",
+                "file": "壳斗目Fagales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/分类表.md",
+                "file": "壳斗目Fagales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/分类表.md"
+                "file": "壳斗目Fagales.md"
               }
             }
           },
@@ -297,17 +238,29 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "a0ce7299df9a2340",
+  "active": "2be808eb33dc1884",
   "lastOpenFiles": [
+    "Botany/分类表.md",
+    "Botany/Classification/木兰目Magnoliales.md",
+    "杜仲目Eucommiales.md",
+    "Botany/Classification/蓝藻门.md",
+    "Botany/杂.md",
+    "Pictures/Pasted image 20240904145638.png",
+    "Botany/Classification/泥炭藓目Sphagnales.md",
+    "Pictures/Pasted image 20240905182458.png",
+    "Botany/Classification/金缕梅目Hamamelidales.md",
+    "荨麻目Urticales.md",
+    "壳斗目Fagales.md",
+    "Pictures/Pasted image 20240905182344.png",
+    "胡桃目Juglandales.md",
+    "系统分类.md",
+    "Comparative Vertebrate Anatomy/杂乱无章.md",
     "Botany/Classification/薄囊蕨纲Leptosporangopsida.md",
     "薄囊蕨纲Leptosporangopsida.pdf",
     "Botany/Classification/卷柏目.md",
     "Botany/Classification/石松目.md",
-    "Botany/Classification/木兰目Magnoliales.md",
-    "Botany/分类表.md",
     "Botany/Classification/黑藓目Andreaeales.md",
     "Botany/Classification/蕨类植物.md",
-    "Botany/Classification/蓝藻门.md",
     "Botany/Classification/子囊菌亚门.md",
     "Botany/Classification/楔叶亚门Sphenophytina.md",
     "Botany/Classification/原始薄囊蕨纲Protoleptosporangiopsida.md",
@@ -317,15 +270,6 @@
     "Botany/Classification/松叶蕨亚门Psilophytina.md",
     "Botany/Classification/水韭亚门Isoephytina.md",
     "Botany/Classification/真藓目Bryales.md",
-    "Botany/Classification/泥炭藓目Sphagnales.md",
-    "Botany/Classification/藓纲.md",
-    "Botany/Classification/苔藓植物.md",
-    "Botany/Classification/绿藻门.md",
-    "微生物杂记.md",
-    "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md",
-    "Evolution/细胞起源与进化.md",
-    "杂项.md",
-    "Pictures/Pasted image 20240904145638.png",
     "Botany/Classification",
     "Pictures/20200927120021_78847.png",
     "Pictures/Pasted image 20240827235108.png",
@@ -335,8 +279,6 @@
     "Pictures/Pasted image 20240829192808.png",
     "植物实验-黎维平.pdf",
     "Pictures/Pasted Image 20240829091121_885.png",
-    "Pictures/Pasted image 20240828163409.png",
-    "Pictures/Pasted image 20240828175204.png",
     "Genetics/Day1.pdf",
     "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
     "~WRL1666.tmp",
