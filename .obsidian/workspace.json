@@ -4,159 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "9714d9787deddec4",
-        "type": "split",
+        "id": "8f5685960049bd51",
+        "type": "tabs",
         "children": [
           {
-            "id": "8f5685960049bd51",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4067ba06ea04394c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Botany/Classification/分类表.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "afbf2b499d5a2baa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Botany/Classification/红藻门.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1f3b57829d435967",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Botany/Classification/地衣门.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d9e6bb78f2130530",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "泥炭藓目.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2b761d41d344fed1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "角苔目.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "787db258368a3245",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "叶苔目.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "86db95de3e268868",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "地钱目.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bde0ca468ae32477",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "苔纲.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "88cbb29beb82616f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Botany/Classification/地衣门.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c7ffe707d3c2d9f5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "苔藓植物.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "7b4e0976052ce6fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/泥炭藓目Sphagnales.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "212c1be9cd84555a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f720b3b4905bc227",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              },
-              {
-                "id": "2f2080dc6028ecce",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "bb03eb4adf5040ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/真藓目Bryales.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "a0ce7299df9a2340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/分类表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d48b3b7d72949f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/木兰目Magnoliales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e924939ac70b9285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/蓝藻门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f83c9ead2135e6db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/薄囊蕨纲Leptosporangopsida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d95cb63d6808554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/真蕨亚门Filicophytina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c2f9b941ebfde0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/楔叶亚门Sphenophytina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "195d46dcd4f18e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/水韭亚门Isoephytina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd1b3670850fe7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/石松目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7fd1aba94534097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/卷柏目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5226c312185f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botany/Classification/石松亚门.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +171,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -185,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#technique",
+                "query": "外始",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Botany/Classification/分类表.md",
+                "file": "Botany/分类表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Botany/Classification/分类表.md",
+                "file": "Botany/分类表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Botany/Classification/分类表.md"
+                "file": "Botany/分类表.md"
               }
             }
           },
@@ -282,8 +278,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -302,35 +297,35 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "38978e116deb0731",
+  "active": "a0ce7299df9a2340",
   "lastOpenFiles": [
-    "Botany/Classification/红藻门.md",
-    "生物技术.md",
-    "Botany/Classification/分类表.md",
-    "Botany/Classification/地衣门.md",
-    "泥炭藓目.md",
-    "Pictures/Pasted image 20240904145638.png",
-    "角苔目.md",
+    "Botany/Classification/薄囊蕨纲Leptosporangopsida.md",
+    "薄囊蕨纲Leptosporangopsida.pdf",
+    "Botany/Classification/卷柏目.md",
+    "Botany/Classification/石松目.md",
+    "Botany/Classification/木兰目Magnoliales.md",
+    "Botany/分类表.md",
+    "Botany/Classification/黑藓目Andreaeales.md",
+    "Botany/Classification/蕨类植物.md",
+    "Botany/Classification/蓝藻门.md",
+    "Botany/Classification/子囊菌亚门.md",
+    "Botany/Classification/楔叶亚门Sphenophytina.md",
+    "Botany/Classification/原始薄囊蕨纲Protoleptosporangiopsida.md",
+    "Botany/Classification/厚囊蕨纲Eusporangiopsida.md",
+    "Botany/Classification/真蕨亚门Filicophytina.md",
+    "Botany/Classification/石松亚门.md",
+    "Botany/Classification/松叶蕨亚门Psilophytina.md",
+    "Botany/Classification/水韭亚门Isoephytina.md",
+    "Botany/Classification/真藓目Bryales.md",
+    "Botany/Classification/泥炭藓目Sphagnales.md",
+    "Botany/Classification/藓纲.md",
+    "Botany/Classification/苔藓植物.md",
     "Botany/Classification/绿藻门.md",
-    "绿藻门^d3ae2b.md",
-    "叶苔目.md",
-    "地钱目.md",
-    "苔纲.md",
-    "苔藓植物.md",
-    "Botany/Classification/半知菌亚门.md",
-    "Botany/Classification/担子菌亚门.md",
-    "接合菌亚门.md",
-    "子囊菌亚门.md",
-    "Botany/叶.md",
-    "植物实验-黎维平.md",
-    "Botany/茎.md",
-    "Botany/根.md",
-    "Botany/种子.md",
-    "Botany/花.md",
-    "Botany/Classification/鞭毛菌亚门.md",
-    "真菌门.md",
-    "黏菌纲.md",
-    "Botany/Classification/甲藻门.md",
+    "微生物杂记.md",
+    "Excalidraw/群落生态学 2024-05-01 09.02.05.excalidraw.md",
+    "Evolution/细胞起源与进化.md",
+    "杂项.md",
+    "Pictures/Pasted image 20240904145638.png",
     "Botany/Classification",
     "Pictures/20200927120021_78847.png",
     "Pictures/Pasted image 20240827235108.png",
@@ -349,7 +344,6 @@
     "~WRL2267.tmp",
     "~WRD2236.tmp",
     "~WRL3847.tmp",
-    "~WRD3816.tmp",
     "Physiology/未命名.canvas"
   ]
 }

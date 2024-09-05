@@ -1,27 +1,18 @@
 {
   "version": "2.0",
   "layout": [
-    [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    [
-      {
-        "type": "pinned",
-        "path": "Botany/Classification/分类表.md"
-      },
-      {
-        "type": "unpinned"
-      }
-    ]
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",
