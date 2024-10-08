@@ -8,211 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b4e0976052ce6fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/泥炭藓目Sphagnales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d9b78c380d40a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/杂.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d48b3b7d72949f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/楔叶亚门Sphenophytina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce18e929b8f2f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/茎.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1906187d37d125c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/根.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52750d1a404f1d40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/石竹目Caryophyllales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "481ad6f18d65d115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/叶.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ddcbd13cfd57589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/花.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98381dd30f50b644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "648124b26a8a5d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/五桠果目Dilleniales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2b612686ec6b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/金缕梅亚纲Hamamelidae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c4c1ff98928158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/花.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d343d432134dcc2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/壳斗目Fagales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0524897eb607b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/杜仲目Eucommiales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e924939ac70b9285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/蓝藻门.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed3334bd627144c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/Classification/昆栏树目Trochodendrales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba7c2a31cc59a2f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Examinations/综合卷.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,12 +80,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9dde8e0e872267d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Examinations/综合卷.md"
+              }
+            }
+          },
+          {
             "id": "f7afdb879bd9a8ab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Examinations/综合卷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Examinations/综合卷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,16 +126,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "9dde8e0e872267d9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.md"
               }
             }
           },
@@ -338,12 +145,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,12 +161,24 @@
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba7c2a31cc59a2f2",
+  "active": "38978e116deb0731",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pictures/无脊椎一 2024-10-08 12.17.41.excalidraw.md",
+    "Examinations/综合卷.md",
+    "未命名 1.md",
+    "Examinations/无脊椎一.md",
+    "Examinations/无脊椎一 - 副本.md",
+    "未命名.md",
+    "Pictures/Pasted image 20241007120044.png",
+    "Examinations",
+    "工单.md",
+    "Botany/分类表.md",
+    "Pictures/米氏酶.excalidraw.md",
+    "Botany/花.md",
     "Bioinformatics.md",
     "也许是 实验报告.md",
     "Genetics/概念.md",
@@ -371,20 +190,11 @@
     "Genetics/计算.md",
     "生物技术.md",
     "Botany/Classification/泥炭藓目Sphagnales.md",
-    "Botany/分类表.md",
     "Botany/Classification/金藻门.md",
-    "Botany/花.md",
     "Botany/种子.md",
     "Botany/叶.md",
     "Botany/根.md",
     "Botany/茎.md",
-    "Botany/果实.md",
-    "Botany/生活史.md",
-    "Botany/杂.md",
-    "Botany/Classification/木兰目Magnoliales.md",
-    "Botany/Classification/楔叶亚门Sphenophytina.md",
-    "Botany/Classification/硅藻门.md",
-    "Botany/Classification/樟目Laurales.md",
     "Pictures/Pasted image 20240904145638.png",
     "Pictures/Pasted image 20240905182458.png",
     "Pictures/Pasted image 20240905182344.png",
@@ -397,14 +207,12 @@
     "Pictures/mmexport1724371921172.jpg",
     "Pictures/Pasted image 20240829192808.png",
     "植物实验-黎维平.pdf",
-    "Pictures/Pasted Image 20240829091121_885.png",
     "Genetics/Day1.pdf",
     "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
     "~WRL1666.tmp",
     "~WRD1638.tmp",
     "~WRL2267.tmp",
     "~WRD2236.tmp",
-    "~WRL3847.tmp",
     "Physiology/未命名.canvas"
   ]
 }
