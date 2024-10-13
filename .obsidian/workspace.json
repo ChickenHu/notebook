@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examinations/综合卷.md",
-                "mode": "preview",
+                "file": "Examinations/无脊椎.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examinations/综合卷.md"
+                "file": "Examinations/无脊椎.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examinations/综合卷.md",
+                "file": "Examinations/无脊椎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examinations/综合卷.md",
+                "file": "Examinations/无脊椎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,12 +165,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38978e116deb0731",
+  "active": "ba7c2a31cc59a2f2",
   "lastOpenFiles": [
-    "Pictures/无脊椎一 2024-10-08 12.17.41.excalidraw.md",
+    "Examinations/无脊椎二.md",
+    "Examinations/无脊椎.md",
     "Examinations/综合卷.md",
+    "Pictures/Pasted image 20241012151347.png",
+    "Pictures/无脊椎一 2024-10-08 12.17.41.excalidraw.md",
     "未命名 1.md",
-    "Examinations/无脊椎一.md",
     "Examinations/无脊椎一 - 副本.md",
     "未命名.md",
     "Pictures/Pasted image 20241007120044.png",
@@ -193,8 +195,6 @@
     "Botany/Classification/金藻门.md",
     "Botany/种子.md",
     "Botany/叶.md",
-    "Botany/根.md",
-    "Botany/茎.md",
     "Pictures/Pasted image 20240904145638.png",
     "Pictures/Pasted image 20240905182458.png",
     "Pictures/Pasted image 20240905182344.png",
@@ -205,7 +205,6 @@
     "Pictures/Pasted image 20240830215130.png",
     "Pictures/IMG_20240820_103013.jpg",
     "Pictures/mmexport1724371921172.jpg",
-    "Pictures/Pasted image 20240829192808.png",
     "植物实验-黎维平.pdf",
     "Genetics/Day1.pdf",
     "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
