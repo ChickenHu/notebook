@@ -1852,6 +1852,30 @@
     "initialized": true,
     "codepoints": [
       {
+        "firstUsed": "2024-10-18T13:22:38.941Z",
+        "lastUsed": "2024-10-18T13:22:38.941Z",
+        "useCount": 1,
+        "codepoint": "Ⅳ"
+      },
+      {
+        "firstUsed": "2024-10-17T09:31:33.469Z",
+        "lastUsed": "2024-10-17T09:33:08.401Z",
+        "useCount": 2,
+        "codepoint": "⇓"
+      },
+      {
+        "firstUsed": "2024-10-17T07:43:07.983Z",
+        "lastUsed": "2024-10-17T09:33:33.939Z",
+        "useCount": 3,
+        "codepoint": "⇑"
+      },
+      {
+        "firstUsed": "2024-10-17T07:42:47.004Z",
+        "lastUsed": "2024-10-17T07:42:47.004Z",
+        "useCount": 1,
+        "codepoint": "↑"
+      },
+      {
         "firstUsed": "2024-10-13T05:28:35.334Z",
         "lastUsed": "2024-10-13T05:28:35.334Z",
         "useCount": 1,
@@ -1871,8 +1895,8 @@
       },
       {
         "firstUsed": "2024-10-07T13:34:03.243Z",
-        "lastUsed": "2024-10-07T13:35:48.645Z",
-        "useCount": 2,
+        "lastUsed": "2024-10-17T09:22:34.650Z",
+        "useCount": 3,
         "codepoint": "Ⅱ"
       },
       {
