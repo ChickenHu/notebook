@@ -1852,9 +1852,15 @@
     "initialized": true,
     "codepoints": [
       {
+        "firstUsed": "2024-10-19T08:33:56.292Z",
+        "lastUsed": "2024-10-19T08:35:57.668Z",
+        "useCount": 2,
+        "codepoint": "❌"
+      },
+      {
         "firstUsed": "2024-10-19T00:38:42.368Z",
-        "lastUsed": "2024-10-19T00:38:42.368Z",
-        "useCount": 1,
+        "lastUsed": "2024-10-19T08:34:30.910Z",
+        "useCount": 3,
         "codepoint": "✓"
       },
       {
