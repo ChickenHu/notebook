@@ -246,7 +246,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -265,7 +266,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "482e6f04691fc908",
+  "active": "5a0ce3a01185176c",
   "lastOpenFiles": [
     "Pictures/241019植物实验-黎维平95.JPG",
     "植物实验.md",
