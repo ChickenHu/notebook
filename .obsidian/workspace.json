@@ -4,101 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5685960049bd51",
+        "id": "2eb11346a2bed306",
         "type": "tabs",
         "children": [
           {
-            "id": "ba7c2a31cc59a2f2",
+            "id": "00b8424c9ea3117d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examinations/植物生理.md",
+                "file": "脊椎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "植物生理"
+              "title": "脊椎"
             }
           },
           {
-            "id": "0920d3e012d1fb09",
+            "id": "1c20a4a0125acf5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "教室布置方案 v1.0.0.md",
+                "file": "Examinations/脊椎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "教室布置方案 v1.0.0"
+              "title": "脊椎"
             }
           },
           {
-            "id": "482e6f04691fc908",
+            "id": "11c156b6347abe22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "植物实验.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "植物实验"
-            }
-          },
-          {
-            "id": "aecc364fbcef3a33",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pictures/241019植物实验-黎维平95.JPG"
-              },
-              "icon": "lucide-image",
-              "title": "241019植物实验-黎维平95"
-            }
-          },
-          {
-            "id": "341919c5acfbfd02",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pictures/241019植物实验-黎维平91.JPG"
-              },
-              "icon": "lucide-image",
-              "title": "241019植物实验-黎维平91"
-            }
-          },
-          {
-            "id": "5810dd71ac6c8777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botany/花.md",
+                "file": "动物地理区系划分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "花"
+              "title": "动物地理区系划分"
             }
           },
           {
-            "id": "be23c12a01492d98",
+            "id": "22b62d0dad8488bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Botany/花.md",
-                "mode": "source",
-                "source": false
+                "file": "Pictures/动物地理区系划分.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "动物地理区系划分.excalidraw"
+            }
+          },
+          {
+            "id": "bdc6ee9d310804e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "花"
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
@@ -133,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "圆锥花序",
+                "query": "蛙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,10 +146,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "植物实验.md"
+                "file": "Examinations/综合卷.md"
               },
               "icon": "lucide-list",
-              "title": "植物实验 的大纲"
+              "title": "综合卷 的大纲"
             }
           },
           {
@@ -247,11 +219,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,43 +239,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a0ce3a01185176c",
+  "active": "11c156b6347abe22",
   "lastOpenFiles": [
-    "Pictures/241019植物实验-黎维平95.JPG",
+    "Pictures/Map_of_Sunda_and_Sahul.png",
+    "Pictures/动物地理区系划分.excalidraw.md",
+    "Pictures/image_0.png",
+    "动物地理区系划分.md",
+    "Pictures/Ecozones.svg.png",
+    "Examinations/脊椎.md",
+    "杂项.md",
+    "未命名 1.md",
+    "Comparative Vertebrate Anatomy/杂乱无章.md",
+    "生物技术.md",
+    "Comparative Vertebrate Anatomy/神经系统.md",
+    "Bioinformatics.md",
+    "Examinations/综合卷.md",
     "植物实验.md",
+    "Methods.md",
+    "Pictures/Leloir Pathway.md",
+    "Pictures/Leloir_pathway_0.png",
+    "Pictures/Leloir_pathway.png",
+    "Genetics/概念.md",
     "教室布置方案 v1.0.0.md",
-    "Pictures/241019植物实验-黎维平67.JPG",
-    "Pictures/241019植物实验-黎维平69.JPG",
-    "Pictures/241019植物实验-黎维平68.JPG",
-    "Pictures/241019植物实验-黎维平72.JPG",
-    "Pictures/241019植物实验-黎维平87.JPG",
+    "Pictures/241019植物实验-黎维平95.JPG",
     "Pictures/241019植物实验-黎维平91.JPG",
+    "Botany/花.md",
+    "Examinations/植物生理.md",
+    "Genetics/近交图.png",
+    "Genetics/不完全外显.jpg",
+    "Genetics/Day1.md",
+    "Genetics/杂记.md",
+    "Genetics/计算.md",
+    "().md",
+    "Pictures/APG IV简图.png",
+    "2020-朱斌-行为生态.md",
+    "Pictures/241019植物实验-黎维平85.JPG",
     "Pictures/麻叶绣线菊纵切.md",
     "Pictures/百合胚珠.md",
-    "Pictures/百合花药.jpg",
     "Pictures/山莴苣花.md",
-    "Pictures/扫粉毛勘误.md",
-    "Pictures/242_Anthirrhinum_majus_L.jpg",
-    "Pictures/Pasted image 20241022195049.png",
-    "Examinations/植物生理.md",
-    "Botany/花.md",
-    "Pictures/麻叶绣线菊与石楠.md",
-    "Pictures/Drawing 2024-10-21 15.38.17.excalidraw.md",
-    "系统分类.md",
-    "Pictures/植物实验 2024-10-19 09.27.58.excalidraw.md",
-    "Examinations/无脊椎.md",
-    "Pictures/植物生理 2024-10-17 16.53.15.excalidraw.md",
-    "Pictures/植物生理 2024-10-17 15.13.29.excalidraw.md",
-    "Evolution/生命及其起源.md",
-    "Excalidraw/Drawing 2024-07-10 10.55.40.excalidraw.md",
-    "2020-朱斌-行为生态.md",
-    "Excalidraw/植物实验-黎维平 2024-08-29 08.58.15.excalidraw.md",
-    "Botany/叶.md",
-    "Botany/Classification/五桠果目Dilleniales.md",
-    "Excalidraw/玛卡巴卡 2024-08-03 11.04.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-07 14.58.19.excalidraw.md",
-    "Botany/Classification/硅藻门.md",
-    "Excalidraw/动物行为学 2024-08-23 15.07.33.excalidraw.md",
     "Examinations",
     "薄囊蕨纲Leptosporangopsida.pdf",
     "Botany/Classification",

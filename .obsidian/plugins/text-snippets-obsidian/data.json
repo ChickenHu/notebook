@@ -1,0 +1,14 @@
+{
+  "snippets_file": "nt : >[!note]$end$$nl$>$nl$\nfaq : >[!faq]$end$$nl$>$nl$\nwn : >[!warning]$end$$nl$>$nl$",
+  "snippets": [
+    "nt : >[!note]$end$$nl$>$nl$\nfaq : >[!faq]$end$$nl$>$nl$\nwn : >[!warning]$end$$nl$>$nl$"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

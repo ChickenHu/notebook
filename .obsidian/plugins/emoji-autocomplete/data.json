@@ -1,9 +1,10 @@
 {
   "immediateReplace": false,
-  "suggester": false,
+  "suggester": true,
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "smirk",
     "m",
     "o2",
     "strong",
