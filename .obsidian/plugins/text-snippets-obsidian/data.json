@@ -1,7 +1,12 @@
 {
-  "snippets_file": "nt : >[!note]$end$$nl$>$nl$\nfaq : >[!faq]$end$$nl$>$nl$\nwn : >[!warning]$end$$nl$>$nl$",
+  "snippets_file": "nt : >[!note]$end$ \n\nfaq : >[!faq]$end$ \n\nwn : >[!warning]$end$ \n\n钠 : $\\mathrm{Na^+}$\n\n钾 : $\\mathrm{K^+}$\n\n钙 : $\\mathrm{Ca^{2+}}$",
   "snippets": [
-    "nt : >[!note]$end$$nl$>$nl$\nfaq : >[!faq]$end$$nl$>$nl$\nwn : >[!warning]$end$$nl$>$nl$"
+    "nt : >[!note]$end$ ",
+    "faq : >[!faq]$end$ ",
+    "wn : >[!warning]$end$ ",
+    "钠 : $\\mathrm{Na^+}$",
+    "钾 : $\\mathrm{K^+}$",
+    "钙 : $\\mathrm{Ca^{2+}}$"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
@@ -9,6 +14,6 @@
   "pasteSymbol": "$pst$",
   "useTab": true,
   "useSpace": false,
-  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/，。？！、‘’“”……《》：（）「」【】=*—_-+`~",
   "isWYSIWYG": true
 }

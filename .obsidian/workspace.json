@@ -8,73 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00b8424c9ea3117d",
+            "id": "7cdc6f1a1230cfe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "脊椎.md",
+                "file": "Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脊椎"
+              "title": "Methods"
             }
           },
           {
-            "id": "1c20a4a0125acf5e",
+            "id": "bd341f6edc99b8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examinations/脊椎.md",
+                "file": "Physiology/血液.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "脊椎"
+              "title": "血液"
             }
           },
           {
-            "id": "11c156b6347abe22",
+            "id": "6c3238c4b4b3dedb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动物地理区系划分.md",
+                "file": "药物.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "药物"
+            }
+          },
+          {
+            "id": "d7e055b2923aa163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/血液循环.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动物地理区系划分"
-            }
-          },
-          {
-            "id": "22b62d0dad8488bc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Pictures/动物地理区系划分.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "动物地理区系划分.excalidraw"
-            }
-          },
-          {
-            "id": "bdc6ee9d310804e9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "血液循环"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "13b201139702aeda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec767d5cf8374007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physiology/玛卡巴卡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "玛卡巴卡"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蛙",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,11 +136,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3049b258080596c4",
@@ -146,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examinations/综合卷.md"
+                "file": "Physiology/血液.md"
               },
               "icon": "lucide-list",
-              "title": "综合卷 的大纲"
+              "title": "血液 的大纲"
             }
           },
           {
@@ -218,13 +230,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,54 +249,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11c156b6347abe22",
+  "active": "bd341f6edc99b8a0",
   "lastOpenFiles": [
-    "Pictures/Map_of_Sunda_and_Sahul.png",
-    "Pictures/动物地理区系划分.excalidraw.md",
-    "Pictures/image_0.png",
-    "动物地理区系划分.md",
-    "Pictures/Ecozones.svg.png",
+    "Physiology/血液循环.md",
+    "Physiology/血液.md",
+    "Physiology/玛卡巴卡.md",
+    "Pictures/血细胞生成.png",
+    "Physiology/神经系统用药.md",
+    "Methods.md",
+    "Physiology/基本功能.md",
+    "Pictures/韦伯氏器.bmp",
+    "药物.md",
+    "Pictures/Pasted image 20241128162559.png",
+    "Pictures/肌丝滑行理论.md",
+    "Pictures/image_1.png",
+    "Pictures/肌丝滑行理论.png",
+    "Pictures/肌节.png",
+    "Pictures/基本功能 2024-11-28 15.34.32.excalidraw.md",
+    "Pictures/时间常数.excalidraw.md",
+    "PowerToys/Backup",
+    "PowerToys",
+    "Examinations/综合卷.md",
+    "未命名.md",
+    "生物技术.md",
+    "Physiology/杂货.md",
+    "Pictures/膜电流.excalidraw.md",
+    "Pictures/动作电位.excalidraw.md",
+    "README.md",
+    "Plant Physiology/杂记.md",
     "Examinations/脊椎.md",
     "杂项.md",
-    "未命名 1.md",
-    "Comparative Vertebrate Anatomy/杂乱无章.md",
-    "生物技术.md",
-    "Comparative Vertebrate Anatomy/神经系统.md",
-    "Bioinformatics.md",
-    "Examinations/综合卷.md",
-    "植物实验.md",
-    "Methods.md",
-    "Pictures/Leloir Pathway.md",
-    "Pictures/Leloir_pathway_0.png",
-    "Pictures/Leloir_pathway.png",
-    "Genetics/概念.md",
-    "教室布置方案 v1.0.0.md",
-    "Pictures/241019植物实验-黎维平95.JPG",
-    "Pictures/241019植物实验-黎维平91.JPG",
-    "Botany/花.md",
-    "Examinations/植物生理.md",
-    "Genetics/近交图.png",
-    "Genetics/不完全外显.jpg",
+    "软体动物.md",
+    "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
+    "动物地理区系划分.md",
     "Genetics/Day1.md",
-    "Genetics/杂记.md",
-    "Genetics/计算.md",
-    "().md",
-    "Pictures/APG IV简图.png",
-    "2020-朱斌-行为生态.md",
-    "Pictures/241019植物实验-黎维平85.JPG",
-    "Pictures/麻叶绣线菊纵切.md",
-    "Pictures/百合胚珠.md",
-    "Pictures/山莴苣花.md",
+    "Pictures/动物地理区系划分.excalidraw.md",
+    "Pictures/Map_of_Sunda_and_Sahul.png",
+    "Pictures/image_0.png",
+    "Pictures/Ecozones.svg.png",
+    "未命名 1.md",
+    "Pictures/Leloir_pathway_0.png",
     "Examinations",
     "薄囊蕨纲Leptosporangopsida.pdf",
     "Botany/Classification",
     "植物实验-黎维平.pdf",
     "Genetics/Day1.pdf",
-    "~$班+胡苏寒+使用DCPIP法和钼蓝法测定食物中维生素C含量.docx",
     "~WRL1666.tmp",
     "~WRD1638.tmp",
-    "~WRL2267.tmp",
-    "~WRD2236.tmp",
     "Physiology/未命名.canvas"
   ]
 }

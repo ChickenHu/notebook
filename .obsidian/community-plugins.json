@@ -3,7 +3,6 @@
   "dataview",
   "quick-latex",
   "emoji-autocomplete",
-  "easy-typing-obsidian",
   "obsidian-linter",
   "cycle-through-panes",
   "obsidian-export-image",
@@ -12,5 +11,7 @@
   "obsidian-git",
   "unicode-search",
   "obsidian-mindmap-nextgen",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "obsidian-style-settings",
+  "easy-typing-obsidian"
 ]

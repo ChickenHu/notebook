@@ -1852,9 +1852,57 @@
     "initialized": true,
     "codepoints": [
       {
-        "firstUsed": "2024-10-28T07:21:19.335Z",
-        "lastUsed": "2024-10-28T07:21:19.335Z",
+        "firstUsed": "2024-11-28T13:44:21.305Z",
+        "lastUsed": "2024-11-28T13:44:21.305Z",
         "useCount": 1,
+        "codepoint": "♀"
+      },
+      {
+        "firstUsed": "2024-11-28T13:43:08.649Z",
+        "lastUsed": "2024-11-28T13:43:08.649Z",
+        "useCount": 1,
+        "codepoint": "⚥"
+      },
+      {
+        "firstUsed": "2024-11-28T13:42:30.870Z",
+        "lastUsed": "2024-11-28T13:42:30.870Z",
+        "useCount": 1,
+        "codepoint": "⚧"
+      },
+      {
+        "firstUsed": "2024-11-25T07:28:21.953Z",
+        "lastUsed": "2024-11-25T07:28:21.953Z",
+        "useCount": 1,
+        "codepoint": "Ⅺ"
+      },
+      {
+        "firstUsed": "2024-11-25T07:27:13.209Z",
+        "lastUsed": "2024-11-25T07:27:13.209Z",
+        "useCount": 1,
+        "codepoint": "Ⅹ"
+      },
+      {
+        "firstUsed": "2024-11-25T07:26:59.884Z",
+        "lastUsed": "2024-11-25T07:26:59.884Z",
+        "useCount": 1,
+        "codepoint": "Ⅵ"
+      },
+      {
+        "firstUsed": "2024-11-25T07:26:15.645Z",
+        "lastUsed": "2024-11-25T07:26:15.645Z",
+        "useCount": 1,
+        "codepoint": "Ⅸ"
+      },
+      {
+        "firstUsed": "2024-11-25T07:22:22.520Z",
+        "lastUsed": "2024-11-25T07:22:22.520Z",
+        "useCount": 1,
+        "codepoint": "Ⅴ"
+      },
+      {
+        "firstUsed": "2024-10-28T07:21:19.335Z",
+        "lastUsed": "2024-11-25T07:27:36.599Z",
+        "useCount": 4,
         "codepoint": "Ⅶ"
       },
       {
@@ -1871,8 +1919,8 @@
       },
       {
         "firstUsed": "2024-10-18T13:22:38.941Z",
-        "lastUsed": "2024-10-19T00:27:41.904Z",
-        "useCount": 2,
+        "lastUsed": "2024-11-25T07:26:41.006Z",
+        "useCount": 3,
         "codepoint": "Ⅳ"
       },
       {
@@ -1907,20 +1955,20 @@
       },
       {
         "firstUsed": "2024-10-07T13:34:44.767Z",
-        "lastUsed": "2024-10-07T13:35:09.088Z",
-        "useCount": 5,
+        "lastUsed": "2024-11-25T07:26:00.385Z",
+        "useCount": 7,
         "codepoint": "Ⅲ"
       },
       {
         "firstUsed": "2024-10-07T13:34:03.243Z",
-        "lastUsed": "2024-10-28T07:29:43.903Z",
-        "useCount": 4,
+        "lastUsed": "2024-11-25T07:21:11.001Z",
+        "useCount": 5,
         "codepoint": "Ⅱ"
       },
       {
         "firstUsed": "2024-10-07T13:33:47.139Z",
-        "lastUsed": "2024-10-28T07:29:53.979Z",
-        "useCount": 3,
+        "lastUsed": "2024-11-25T07:20:14.818Z",
+        "useCount": 4,
         "codepoint": "Ⅰ"
       }
     ]

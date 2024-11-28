@@ -187,9 +187,9 @@
   "text-snippets-obsidian:text-snippets": [
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
-      "key": " "
+      "key": "Tab"
     }
   ]
 }
