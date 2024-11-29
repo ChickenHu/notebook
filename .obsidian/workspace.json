@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "4d79450056d4e15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "重生之我是庸医.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "重生之我是庸医"
+            }
+          },
+          {
             "id": "6c3238c4b4b3dedb",
             "type": "leaf",
             "state": {
@@ -55,36 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/血液循环.md",
+                "file": "Physiology/基本功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "血液循环"
+              "title": "基本功能"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "13b201139702aeda",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec767d5cf8374007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physiology/玛卡巴卡.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "玛卡巴卡"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,13 +130,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3049b258080596c4",
@@ -251,15 +243,17 @@
   },
   "active": "bd341f6edc99b8a0",
   "lastOpenFiles": [
-    "Physiology/血液循环.md",
+    "Physiology/基本功能.md",
     "Physiology/血液.md",
+    "重生之我是庸医.md",
+    "药物.md",
     "Physiology/玛卡巴卡.md",
+    "Physiology/杂货.md",
+    "Physiology/血液循环.md",
     "Pictures/血细胞生成.png",
     "Physiology/神经系统用药.md",
     "Methods.md",
-    "Physiology/基本功能.md",
     "Pictures/韦伯氏器.bmp",
-    "药物.md",
     "Pictures/Pasted image 20241128162559.png",
     "Pictures/肌丝滑行理论.md",
     "Pictures/image_1.png",
@@ -272,7 +266,6 @@
     "Examinations/综合卷.md",
     "未命名.md",
     "生物技术.md",
-    "Physiology/杂货.md",
     "Pictures/膜电流.excalidraw.md",
     "Pictures/动作电位.excalidraw.md",
     "README.md",
@@ -287,7 +280,6 @@
     "Pictures/Map_of_Sunda_and_Sahul.png",
     "Pictures/image_0.png",
     "Pictures/Ecozones.svg.png",
-    "未命名 1.md",
     "Pictures/Leloir_pathway_0.png",
     "Examinations",
     "薄囊蕨纲Leptosporangopsida.pdf",

@@ -109,7 +109,8 @@
     },
     "auto-correct-common-misspellings": {
       "enabled": false,
-      "ignore-words": ""
+      "ignore-words": "",
+      "extra-auto-correct-files": []
     },
     "blockquote-style": {
       "enabled": false,
@@ -152,7 +153,7 @@
       "enabled": true
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-spaces": {
       "enabled": true
@@ -206,7 +207,7 @@
       "enabled": true
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": false
+      "enabled": true
     },
     "remove-link-spacing": {
       "enabled": false
@@ -227,7 +228,9 @@
       "enabled": false
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
-      "enabled": true
+      "enabled": true,
+      "english-symbols-punctuation-before": "-+;:'\"°%$)]<>",
+      "english-symbols-punctuation-after": "-+'\"([¥$<>"
     },
     "trailing-spaces": {
       "enabled": true,
@@ -265,6 +268,7 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
+  "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
