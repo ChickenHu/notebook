@@ -1852,6 +1852,12 @@
     "initialized": true,
     "codepoints": [
       {
+        "firstUsed": "2024-11-30T00:48:15.446Z",
+        "lastUsed": "2024-11-30T00:48:15.446Z",
+        "useCount": 1,
+        "codepoint": "Ⅻ"
+      },
+      {
         "firstUsed": "2024-11-28T13:44:21.305Z",
         "lastUsed": "2024-11-28T13:44:21.305Z",
         "useCount": 1,
@@ -1871,38 +1877,38 @@
       },
       {
         "firstUsed": "2024-11-25T07:28:21.953Z",
-        "lastUsed": "2024-11-25T07:28:21.953Z",
-        "useCount": 1,
+        "lastUsed": "2024-11-30T00:47:59.340Z",
+        "useCount": 2,
         "codepoint": "Ⅺ"
       },
       {
         "firstUsed": "2024-11-25T07:27:13.209Z",
-        "lastUsed": "2024-11-25T07:27:13.209Z",
-        "useCount": 1,
+        "lastUsed": "2024-11-30T00:47:38.596Z",
+        "useCount": 2,
         "codepoint": "Ⅹ"
       },
       {
         "firstUsed": "2024-11-25T07:26:59.884Z",
-        "lastUsed": "2024-11-25T07:26:59.884Z",
-        "useCount": 1,
+        "lastUsed": "2024-11-30T00:44:31.330Z",
+        "useCount": 2,
         "codepoint": "Ⅵ"
       },
       {
         "firstUsed": "2024-11-25T07:26:15.645Z",
-        "lastUsed": "2024-11-29T14:21:19.130Z",
-        "useCount": 2,
+        "lastUsed": "2024-11-30T00:47:04.211Z",
+        "useCount": 3,
         "codepoint": "Ⅸ"
       },
       {
         "firstUsed": "2024-11-25T07:22:22.520Z",
-        "lastUsed": "2024-11-29T14:31:36.941Z",
-        "useCount": 3,
+        "lastUsed": "2024-11-30T00:44:53.221Z",
+        "useCount": 4,
         "codepoint": "Ⅴ"
       },
       {
         "firstUsed": "2024-10-28T07:21:19.335Z",
-        "lastUsed": "2024-11-25T07:27:36.599Z",
-        "useCount": 4,
+        "lastUsed": "2024-11-30T00:45:46.775Z",
+        "useCount": 5,
         "codepoint": "Ⅶ"
       },
       {
@@ -1955,14 +1961,14 @@
       },
       {
         "firstUsed": "2024-10-07T13:34:44.767Z",
-        "lastUsed": "2024-11-29T14:22:09.463Z",
-        "useCount": 8,
+        "lastUsed": "2024-11-30T00:49:28.125Z",
+        "useCount": 10,
         "codepoint": "Ⅲ"
       },
       {
         "firstUsed": "2024-10-07T13:34:03.243Z",
-        "lastUsed": "2024-11-29T14:24:24.228Z",
-        "useCount": 7,
+        "lastUsed": "2024-11-30T01:29:14.928Z",
+        "useCount": 9,
         "codepoint": "Ⅱ"
       },
       {
