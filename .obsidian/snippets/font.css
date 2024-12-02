@@ -1,4 +1,10 @@
-body{
+/* body{
     font-variant-ligatures:normal;
-    font-family: 'Source Code Pro',"思源宋体 Light";
+    font-family: 'Noto Sans SC','Source Code Pro';
+} */
+.markdown-rendered{
+    font-family: 'Noto Sans SC','Source Code Pro';
+}
+.markdown-preview-view{
+    font-family: 'Noto Sans SC','Source Code Pro';
 }

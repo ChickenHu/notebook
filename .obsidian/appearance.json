@@ -6,5 +6,7 @@
   "monospaceFontFamily": "JetBrains Mono,Source Code Pro",
   "interfaceFontFamily": "思源宋体 Light,Noto Sans SC",
   "textFontFamily": "Noto Sans SC,思源宋体 Light,思源宋体",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "font"
+  ]
 }
