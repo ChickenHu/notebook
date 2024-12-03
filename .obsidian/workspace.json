@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decorations.md",
+                "file": "Physiology/血液循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Decorations 的反向链接列表"
+              "title": "血液循环 的反向链接列表"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decorations.md",
+                "file": "Physiology/血液循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Decorations 的出链列表"
+              "title": "血液循环 的出链列表"
             }
           },
           {
@@ -260,23 +260,23 @@
   },
   "active": "bd341f6edc99b8a0",
   "lastOpenFiles": [
-    "Pictures/期前收缩&代偿间歇.png",
-    "Physiology/血液循环.md",
-    "药物.md",
-    "Pictures/心室肌AP.png",
-    "心室肌AP.png.md",
-    "Physiology/基本功能.md",
-    "Pictures/窦房结P细胞.png",
     "Methods.md",
     "Physiology/血液.md",
+    "Physiology/基本功能.md",
     "重生之我是庸医.md",
+    "药物.md",
+    "Physiology/血液循环.md",
+    "Pictures/QRS.png",
+    "Pictures/心电图膜极化学说.png",
+    "Pictures/Pasted image 20241203220911.png",
+    "Pictures/自律性影响.png",
+    "Pictures/期前收缩&代偿间歇.png",
+    "Pictures/心室肌AP.png",
+    "心室肌AP.png.md",
+    "Pictures/窦房结P细胞.png",
     "Pictures/心肌工作细胞电位.png",
     "Pictures/ESPVR.png",
     "Pictures/左心室舒张功能.png",
-    "Pictures/左心室压变化.png",
-    "Pictures/心室压力-容积曲线.png",
-    "Pictures/心肌长度-张力变化.png",
-    "Pictures/心功能曲线.png",
     "Physiology/玛卡巴卡.md",
     "Physiology/杂货.md",
     "Physiology/神经系统用药.md",

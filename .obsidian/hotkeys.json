@@ -187,9 +187,17 @@
   "text-snippets-obsidian:text-snippets": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "Tab"
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
