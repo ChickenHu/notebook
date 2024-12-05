@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physiology/血液循环.md"
+                "file": "Methods.md"
               },
               "icon": "lucide-list",
-              "title": "血液循环 的大纲"
+              "title": "Methods 的大纲"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physiology/血液循环.md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "血液循环 的反向链接列表"
+              "title": "Methods 的反向链接列表"
             }
           },
           {
@@ -197,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physiology/血液循环.md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "血液循环 的出链列表"
+              "title": "Methods 的出链列表"
             }
           },
           {
@@ -238,7 +238,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -260,23 +261,23 @@
   },
   "active": "bd341f6edc99b8a0",
   "lastOpenFiles": [
+    "Pictures/血管分类.png",
+    "Physiology/血液循环.md",
+    "Pictures/Pasted image 20241205150917.png",
+    "Pictures/心电图和动作电位.png",
+    "Pictures/MobitzⅡ度Ⅱ型房室传导阻滞.png",
+    "Pictures/Mobitz Ⅱ度I型房室传导阻滞.png",
+    "Pictures/Pasted image 20241205144849.png",
     "Methods.md",
     "Physiology/血液.md",
     "Physiology/基本功能.md",
     "重生之我是庸医.md",
     "药物.md",
-    "Physiology/血液循环.md",
     "Pictures/QRS.png",
     "Pictures/心电图膜极化学说.png",
     "Pictures/Pasted image 20241203220911.png",
     "Pictures/自律性影响.png",
-    "Pictures/期前收缩&代偿间歇.png",
-    "Pictures/心室肌AP.png",
     "心室肌AP.png.md",
-    "Pictures/窦房结P细胞.png",
-    "Pictures/心肌工作细胞电位.png",
-    "Pictures/ESPVR.png",
-    "Pictures/左心室舒张功能.png",
     "Physiology/玛卡巴卡.md",
     "Physiology/杂货.md",
     "Physiology/神经系统用药.md",
