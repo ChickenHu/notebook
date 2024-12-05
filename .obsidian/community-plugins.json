@@ -1,17 +1,14 @@
 [
   "obsidian-excalidraw-plugin",
-  "dataview",
   "quick-latex",
   "emoji-autocomplete",
-  "obsidian-linter",
   "cycle-through-panes",
-  "obsidian-export-image",
   "table-editor-obsidian",
   "chem",
   "obsidian-git",
   "unicode-search",
-  "obsidian-mindmap-nextgen",
   "text-snippets-obsidian",
-  "obsidian-style-settings",
+  "obsidian-export-image",
+  "obsidian-linter",
   "easy-typing-obsidian"
 ]
