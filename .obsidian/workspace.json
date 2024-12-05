@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "啶",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods.md"
+                "file": "Physiology/血液循环.md"
               },
               "icon": "lucide-list",
-              "title": "Methods 的大纲"
+              "title": "血液循环 的大纲"
             }
           },
           {
@@ -238,8 +237,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,22 +259,22 @@
   },
   "active": "bd341f6edc99b8a0",
   "lastOpenFiles": [
-    "Pictures/血管分类.png",
-    "Physiology/血液循环.md",
-    "Pictures/Pasted image 20241205150917.png",
-    "Pictures/心电图和动作电位.png",
-    "Pictures/MobitzⅡ度Ⅱ型房室传导阻滞.png",
-    "Pictures/Mobitz Ⅱ度I型房室传导阻滞.png",
-    "Pictures/Pasted image 20241205144849.png",
-    "Methods.md",
     "Physiology/血液.md",
     "Physiology/基本功能.md",
-    "重生之我是庸医.md",
+    "Physiology/血液循环.md",
+    "Pictures/微循环.png",
+    "Pictures/Pasted image 20241205172955.png",
+    "Pictures/重力对静脉压影响.png",
+    "Pictures/脉搏波形.png",
     "药物.md",
-    "Pictures/QRS.png",
-    "Pictures/心电图膜极化学说.png",
-    "Pictures/Pasted image 20241203220911.png",
-    "Pictures/自律性影响.png",
+    "Pictures/高血压.png",
+    "Pictures/肱动脉压.png",
+    "Pictures/Korotkoff 音法.png",
+    "Pictures/平卧位血压.png",
+    "Pictures/血管分类.png",
+    "Pictures/Pasted image 20241205150917.png",
+    "Methods.md",
+    "重生之我是庸医.md",
     "心室肌AP.png.md",
     "Physiology/玛卡巴卡.md",
     "Physiology/杂货.md",
