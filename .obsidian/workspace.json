@@ -252,7 +252,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -271,7 +272,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "de2ce5cc1bfc17e8",
+  "active": "5a0ce3a01185176c",
   "lastOpenFiles": [
     "Pictures/压力感受性反射功能曲线.png",
     "Physiology/血液循环.md",
