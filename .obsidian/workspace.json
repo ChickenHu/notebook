@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Physiology/血液.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physiology/呼吸.md"
+                "file": "Physiology/血液.md"
               },
               "icon": "lucide-list",
-              "title": "呼吸 的大纲"
+              "title": "血液 的大纲"
             }
           },
           {
@@ -223,7 +223,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,16 +243,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9076e6788ccec577",
+  "active": "5a0ce3a01185176c",
   "lastOpenFiles": [
-    "Pictures/MEFV.excalidraw.md",
+    "Physiology/血液循环.md",
     "Physiology/呼吸.md",
+    "Pictures/通气血流比值.png",
+    "Pictures/肺换气.png",
+    "Pictures/MEFV.excalidraw.md",
     "Pictures/Pasted Image 20241210202611_746.png",
     "Pictures/MEFV.png",
     "Pictures/无效腔.png",
     "Pictures/FVC&FEV.png",
     "Pictures/肺容积.png",
-    "Physiology/血液循环.md",
     "Physiology/血液.md",
     "Pictures/肺表面活性物质作用.png",
     "Physiology/基本功能.md",
@@ -261,8 +264,6 @@
     "Pictures/呼吸过程.png",
     "test.md",
     "重生之我是庸医.md",
-    "Pictures/心动周期示意图.png",
-    "Pictures/CBF变化.png",
     "Physiology/杂货.md",
     "Physiology/玛卡巴卡.md",
     "Methods.md",
