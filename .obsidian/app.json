@@ -39,5 +39,8 @@
   "showRibbon": false,
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Pictures"
+  "attachmentFolderPath": "Pictures",
+  "userIgnoreFilters": [
+    "Excalidraw/"
+  ]
 }
