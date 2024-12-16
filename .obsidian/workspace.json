@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Physiology/血液循环.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/呼吸.md",
+                "file": "生物技术.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "呼吸"
+              "title": "生物技术"
             }
           },
           {
@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physiology/神经系统.md",
+                "file": "Pictures/百合胚珠.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经系统"
+              "title": "百合胚珠"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loxp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,12 +144,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3049b258080596c4",
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physiology/神经系统.md"
+                "file": "Physiology/血液循环.md"
               },
               "icon": "lucide-list",
-              "title": "神经系统 的大纲"
+              "title": "血液循环 的大纲"
             }
           },
           {
@@ -256,14 +256,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f8e07be1278baf78",
+  "active": "a4092bf9eed5483e",
   "lastOpenFiles": [
-    "1732353161869.yml",
-    "Pictures/非定向突触.png",
-    "Physiology/神经系统.md",
-    "Physiology/血液.md",
+    "生物技术.md",
     "Physiology/呼吸.md",
     "Physiology/血液循环.md",
+    "药物.md",
+    "Physiology/血液.md",
+    "Pictures/百合胚珠.md",
+    "Physiology/神经系统.md",
+    "Pictures/非定向突触.png",
+    "1732353161869.yml",
     "Pictures/通气血流比值.png",
     "Pictures/肺换气.png",
     "Pictures/MEFV.excalidraw.md",
@@ -275,7 +278,6 @@
     "Pictures/肺表面活性物质作用.png",
     "Physiology/基本功能.md",
     "Pictures/肺顺应性曲线.png",
-    "药物.md",
     "Genetics/Day1.md",
     "test.md",
     "重生之我是庸医.md",
@@ -292,7 +294,6 @@
     "PowerToys",
     "Examinations/综合卷.md",
     "未命名.md",
-    "生物技术.md",
     "Pictures/膜电流.excalidraw.md",
     "Pictures/动作电位.excalidraw.md",
     "README.md",
@@ -303,7 +304,6 @@
     "植物实验-黎维平.pdf",
     "Genetics/Day1.pdf",
     "~WRL1666.tmp",
-    "~WRD1638.tmp",
     "Physiology/未命名.canvas"
   ]
 }
