@@ -4,11 +4,11 @@
   "emoji-autocomplete",
   "cycle-through-panes",
   "table-editor-obsidian",
-  "chem",
   "obsidian-git",
   "unicode-search",
   "text-snippets-obsidian",
   "obsidian-export-image",
   "obsidian-linter",
-  "easy-typing-obsidian"
+  "easy-typing-obsidian",
+  "chem"
 ]
