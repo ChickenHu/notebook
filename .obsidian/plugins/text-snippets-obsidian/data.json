@@ -1,5 +1,5 @@
 {
-  "snippets_file": "nt : >[!note]$end$ \n\nfaq : >[!faq]$end$ \n\nwn : >[!warning]$end$ \n\n钠 : $\\mathrm{Na^+}$\n\n钾 : $\\mathrm{K^+}$\n\n钙 : $\\mathrm{Ca^{2+}}$\n\n氢 : $\\mathrm{H^{+}}$\n\n氯 : $\\mathrm{Cl^-}$",
+  "snippets_file": "nt : >[!note]$end$ \n\nfaq : >[!faq]$end$ \n\nwn : >[!warning]$end$ \n\n钠 : $\\mathrm{Na^+}$\n\n钾 : $\\mathrm{K^+}$\n\n钙 : $\\mathrm{Ca^{2+}}$\n\n氢 : $\\mathrm{H^{+}}$\n\n氯 : $\\mathrm{Cl^-}$\n\nwave : <span style=\"text-decoration: underline wavy;\">$end$</span>",
   "snippets": [
     "nt : >[!note]$end$ ",
     "faq : >[!faq]$end$ ",
@@ -8,7 +8,8 @@
     "钾 : $\\mathrm{K^+}$",
     "钙 : $\\mathrm{Ca^{2+}}$",
     "氢 : $\\mathrm{H^{+}}$",
-    "氯 : $\\mathrm{Cl^-}$"
+    "氯 : $\\mathrm{Cl^-}$",
+    "wave : <span style=\"text-decoration: underline wavy;\">$end$</span>"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
