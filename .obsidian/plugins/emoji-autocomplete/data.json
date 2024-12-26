@@ -1,9 +1,10 @@
 {
   "immediateReplace": false,
-  "suggester": false,
+  "suggester": true,
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "thanks",
     "sweat_smile",
     "smirk",
     "m",
