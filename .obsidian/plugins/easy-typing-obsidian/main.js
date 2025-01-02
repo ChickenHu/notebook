@@ -3155,6 +3155,67 @@ var EasyTypingPlugin = class extends import_obsidian3.Plugin {
             return tr;
           }
         }
+        if (this.settings.BaseObEditEnhance && changeTypeStr.contains("paste") && fromA == fromB && fromA == tr.startState.doc.lineAt(toA).to) {
+          const lineContent = tr.startState.doc.lineAt(toA).text;
+          const listMatch = lineContent.match(/^(\s*)([-*+] \[.\]|[-*+]|\d+\.)\s/);
+          const quoteMatch = lineContent.match(/^(\s*)(>+)(\s)?/);
+          if (listMatch || quoteMatch) {
+            let prefix = listMatch ? listMatch[1] + listMatch[2] + " " : quoteMatch[1] + quoteMatch[2] + " ";
+            let indent_num = listMatch ? listMatch[1].length : quoteMatch[1].length;
+            let indent_str = indent_num == 0 ? "" : " ".repeat(indent_num);
+            let inserted_lines = insertedStr.split("\n");
+            let min_indent_space = Infinity;
+            for (let line of inserted_lines) {
+              if (!/^\s*$/.test(line)) {
+                let indent = line.match(/^\s*/)[0].length;
+                min_indent_space = Math.min(min_indent_space, indent);
+              }
+            }
+            let paste_list = true;
+            for (let line of inserted_lines) {
+              if (line.match(/^(\s*)([-*+] \[.\]|[-*+]|\d+\.)\s/) || /^\s*$/.test(line)) {
+                continue;
+              } else {
+                let indent = line.match(/^\s*/)[0].length;
+                if (indent < min_indent_space + 2) {
+                  paste_list = false;
+                  break;
+                }
+              }
+            }
+            let adjusted_lines = [];
+            if (paste_list && listMatch) {
+              adjusted_lines = inserted_lines.map((line, index) => {
+                let trimmed_line = line.substring(min_indent_space);
+                trimmed_line = trimmed_line.replace(/[\t]/g, this.getDefaultIndentChar());
+                if (index === 0) {
+                  trimmed_line = trimmed_line.replace(/^([-*+] \[.\]|[-*+]|\d+\.)\s/, "");
+                  return trimmed_line;
+                } else {
+                  return indent_str + trimmed_line;
+                }
+              });
+            } else {
+              adjusted_lines = inserted_lines.map((line, index) => {
+                let trimmed_line = line.substring(min_indent_space);
+                trimmed_line = trimmed_line.replace(/[\t]/g, this.getDefaultIndentChar());
+                if (index === 0) {
+                  return trimmed_line;
+                } else {
+                  return prefix + trimmed_line;
+                }
+              });
+            }
+            let new_insertedStr = adjusted_lines.join("\n");
+            changes.push({
+              changes: { from: fromA, to: toA, insert: new_insertedStr },
+              selection: { anchor: fromA + new_insertedStr.length },
+              userEvent: "EasyTyping.change"
+            });
+            tr = tr.startState.update(...changes);
+            return tr;
+          }
+        }
         if (selected)
           return tr;
         if (this.settings.TryFixMSIME && changeTypeStr == "input.type.compose" && changedStr == "" && /^[\u4e00-\u9fa5]+$/.test(insertedStr)) {
@@ -4542,7 +4603,7 @@ var EasyTypingPlugin = class extends import_obsidian3.Plugin {
     const line = doc.lineAt(selection.head);
     const lineContent = line.text;
     const listMatch = lineContent.match(/^(\s*)([-*+] \[.\]|[-*+]|\d+\.)\s/);
-    const quoteMatch = lineContent.match(/^(\s*>)+(\s)?/);
+    const quoteMatch = lineContent.match(/^(\s*)(>+)(\s)?/);
     let changes;
     let newCursorPos;
     let prefix = "";
@@ -4556,7 +4617,7 @@ var EasyTypingPlugin = class extends import_obsidian3.Plugin {
         prefix = indent + (parseInt(listMarker) + 1) + ". ";
       }
     } else if (quoteMatch) {
-      prefix = quoteMatch[0].replace(/>\s*/g, "> ");
+      prefix = quoteMatch[1] + quoteMatch[2] + " ";
     }
     changes = [{ from: line.to, insert: "\n" + prefix }];
     newCursorPos = line.to + 1 + prefix.length;
