@@ -42,4 +42,4 @@ jobs:
         env:
           MAIN_PAT: ${{ secrets.MAIN_PAT }}
         run: |
-          git push https://$MAIN_PAT@github.com/MAIN_OWNER/MAIN_REPO.git main
+          git push https://$MAIN_PAT@github.com/ChickenHu/notebook.git main
