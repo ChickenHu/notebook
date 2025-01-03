@@ -33,13 +33,48 @@ jobs:
           git remote add fork https://github.com/JonathanKenZ/notebook.git
           git fetch fork
 
-      - name: Merge Changes from Fork
+      - name: Attempt Merge Changes from Fork
+        id: merge
+        continue-on-error: true
         run: |
           git checkout main
-          git merge fork/main --no-edit || echo "Merge conflicts detected"
-
-      - name: Push Merged Changes to Main
-        env:
-          MAIN_PAT: ${{ secrets.MAIN_PAT }}
+          if git merge fork/main --allow-unrelated-histories --no-edit; then
+            echo "MERGE_STATUS=0" >> $GITHUB_ENV
+          else
+            echo "MERGE_STATUS=1" >> $GITHUB_ENV
+          fi
+          
+      - name: Check for Merge Conflicts
+        if: env.MERGE_STATUS != '0'
         run: |
-          git push https://$MAIN_PAT@github.com/ChickenHu/notebook.git main
+          echo "❌ Merge conflict detected, creating a Pull Request"
+          git merge --abort
+      - name: Generate Unique Branch Name
+        if: env.MERGE_STATUS == '1'
+        run: |
+          echo "BRANCH_NAME=conflict-fix-$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
+          
+      - name: Create Conflict Branch
+        if: env.MERGE_STATUS != '0'
+        run: |
+          git checkout -b ${{ env.BRANCH_NAME }}
+          git push origin HEAD
+
+      - name: Create Pull Request
+        if: env.MERGE_STATUS != '0'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "⚠️ Auto Merge Conflict Detected - Manual Resolution Required"
+          body: |
+            This PR was created automatically because a merge conflict was detected during synchronization.
+            Please review and resolve the conflict manually.
+          branch: ${{ env.BRANCH_NAME }}
+          base: main
+          
+      - name: Push Merged Changes to Main
+        if: env.MERGE_STATUS == '0'
+        env:
+          MAIN_PAT: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/ChickenHu/notebook.git main
