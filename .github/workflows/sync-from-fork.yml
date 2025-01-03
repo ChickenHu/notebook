@@ -57,7 +57,7 @@ jobs:
       - name: Create Conflict Branch
         if: env.MERGE_STATUS != '0'
         run: |
-          git checkout -b ${{ BRANCH_NAME }}
+          git checkout -b ${{ env.BRANCH_NAME }}
           git push origin HEAD
 
       - name: Create Pull Request
@@ -69,7 +69,7 @@ jobs:
           body: |
             This PR was created automatically because a merge conflict was detected during synchronization.
             Please review and resolve the conflict manually.
-          branch: ${{ BRANCH_NAME }}
+          branch: ${{ env.BRANCH_NAME }}
           base: main
           
       - name: Push Merged Changes to Main
