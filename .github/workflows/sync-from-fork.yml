@@ -60,7 +60,7 @@ jobs:
         if: env.MERGE_STATUS != '0'
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           title: "⚠️ Auto Merge Conflict Detected - Manual Resolution Required"
           body: |
             This PR was created automatically because a merge conflict was detected during synchronization.
