@@ -49,11 +49,15 @@ jobs:
         run: |
           echo "❌ Merge conflict detected, creating a Pull Request"
           git merge --abort
-
+      - name: Generate Unique Branch Name
+        if: env.MERGE_STATUS == '1'
+        run: |
+          echo "BRANCH_NAME=conflict-fix-$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
+          
       - name: Create Conflict Branch
         if: env.MERGE_STATUS != '0'
         run: |
-          git checkout -b conflict-fix-$(date +%Y%m%d%H%M%S)
+          git checkout -b ${{ BRANCH_NAME }}
           git push origin HEAD
 
       - name: Create Pull Request
@@ -65,7 +69,7 @@ jobs:
           body: |
             This PR was created automatically because a merge conflict was detected during synchronization.
             Please review and resolve the conflict manually.
-          branch: conflict-fix-$(date +%Y%m%d%H%M%S)
+          branch: ${{ BRANCH_NAME }}
           base: main
           
       - name: Push Merged Changes to Main
