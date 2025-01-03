@@ -33,12 +33,40 @@ jobs:
           git remote add fork https://github.com/JonathanKenZ/notebook.git
           git fetch fork
 
-      - name: Merge Changes from Fork
+      - name: Attempt Merge Changes from Fork
+        id: merge
+        continue-on-error: true
         run: |
           git checkout main
-          git merge fork/main --no-edit --allow-unrelated-histories||{echo "❌ Merge conflict detected!";exit 1;}
+          git merge fork/main --allow-unrelated-histories --no-edit
+          echo "MERGE_STATUS=$?" >> $GITHUB_ENV
 
+      - name: Check for Merge Conflicts
+        if: env.MERGE_STATUS != '0'
+        run: |
+          echo "❌ Merge conflict detected, creating a Pull Request"
+          git merge --abort
+
+      - name: Create Conflict Branch
+        if: env.MERGE_STATUS != '0'
+        run: |
+          git checkout -b conflict-fix-$(date +%Y%m%d%H%M%S)
+          git push origin HEAD
+
+      - name: Create Pull Request
+        if: env.MERGE_STATUS != '0'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_PAT }}
+          title: "⚠️ Auto Merge Conflict Detected - Manual Resolution Required"
+          body: |
+            This PR was created automatically because a merge conflict was detected during synchronization.
+            Please review and resolve the conflict manually.
+          branch: conflict-fix-$(date +%Y%m%d%H%M%S)
+          base: main
+          
       - name: Push Merged Changes to Main
+        if: env.MERGE_STATUS == '0'
         env:
           MAIN_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
