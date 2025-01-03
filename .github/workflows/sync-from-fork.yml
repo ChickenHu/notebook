@@ -38,9 +38,12 @@ jobs:
         continue-on-error: true
         run: |
           git checkout main
-          git merge fork/main --allow-unrelated-histories --no-edit
-          echo "MERGE_STATUS=$?" >> $GITHUB_ENV
-
+          if git merge fork/main --allow-unrelated-histories --no-edit; then
+            echo "MERGE_STATUS=0" >> $GITHUB_ENV
+          else
+            echo "MERGE_STATUS=1" >> $GITHUB_ENV
+          fi
+          
       - name: Check for Merge Conflicts
         if: env.MERGE_STATUS != '0'
         run: |
