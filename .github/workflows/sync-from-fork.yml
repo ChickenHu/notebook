@@ -36,7 +36,7 @@ jobs:
       - name: Merge Changes from Fork
         run: |
           git checkout main
-          git merge fork/main --no-edit --allow-unrelated-histories|| echo "Merge conflicts detected"
+          git merge fork/main --no-edit --allow-unrelated-histories||{echo "❌ Merge conflict detected!";exit 1;}
 
       - name: Push Merged Changes to Main
         env:
