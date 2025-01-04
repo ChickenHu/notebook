@@ -14,8 +14,8 @@
   "onceOffCompressFlagReset": true,
   "onceOffGPTVersionReset": true,
   "autosave": true,
-  "autosaveIntervalDesktop": 15000,
-  "autosaveIntervalMobile": 10000,
+  "autosaveIntervalDesktop": 60000,
+  "autosaveIntervalMobile": 30000,
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
@@ -43,7 +43,7 @@
   "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
-  "penModeCrosshairVisible": false,
+  "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
@@ -59,9 +59,9 @@
   "done": "🗹",
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
-  "openInAdjacentPane": false,
+  "openInAdjacentPane": true,
   "showSecondOrderLinks": true,
-  "focusOnFileTab": false,
+  "focusOnFileTab": true,
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
   "allowCtrlClick": true,
@@ -785,6 +785,5 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
-  "autosaveInterval": 15000
+  "showSplashscreen": true
 }

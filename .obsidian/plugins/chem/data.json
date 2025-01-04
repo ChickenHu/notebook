@@ -17,13 +17,13 @@
     "width": 600,
     "scale": 1,
     "unifiedWidth": 300,
-    "compactDrawing": true,
+    "compactDrawing": false,
     "explicitHydrogens": true,
     "explicitMethyl": true
   },
   "smilesDrawerOptions": {
     "moleculeOptions": {
-      "compactDrawing": true,
+      "compactDrawing": false,
       "terminalCarbons": true,
       "explicitHydrogens": true,
       "width": 600

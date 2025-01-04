@@ -1,5 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
   "quick-latex",
   "emoji-autocomplete",
   "cycle-through-panes",
@@ -10,5 +9,6 @@
   "obsidian-export-image",
   "obsidian-linter",
   "easy-typing-obsidian",
-  "chem"
+  "chem",
+  "obsidian-excalidraw-plugin"
 ]
