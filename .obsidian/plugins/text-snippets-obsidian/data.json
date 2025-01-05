@@ -17,6 +17,6 @@
   "pasteSymbol": "$pst$",
   "useTab": true,
   "useSpace": false,
-  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/，。？！、‘’“”……《》：（）「」【】=*—_-+`~",
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/，。？！、‘’“”……《》；：（）「」【】=*—_-+`~",
   "isWYSIWYG": true
 }
