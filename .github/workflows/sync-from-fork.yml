@@ -69,8 +69,8 @@ jobs:
           body: |
             This PR was created automatically because a merge conflict was detected during synchronization.
             Please review and resolve the conflict manually.
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
+          branch: main
+          base: ${{ env.BRANCH_NAME }}
           
       - name: Push Merged Changes to Main
         if: env.MERGE_STATUS == '0'
