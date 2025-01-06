@@ -38,6 +38,16 @@ jobs:
           git checkout main
           git merge fork/main --no-edit || echo "Merge conflicts detected"
 
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "⚠️ Auto Merge Conflict Detected - Manual Resolution Required"
+          body: |
+            This PR was created automatically because a merge conflict was detected during synchronization.
+            Please review and resolve the conflict manually.
+          branch: main
+          base: ${{ env.BRANCH_NAME }}
+          
       - name: Push Merged Changes to Main
         env:
           MAIN_PAT: ${{ secrets.MAIN_PAT }}
