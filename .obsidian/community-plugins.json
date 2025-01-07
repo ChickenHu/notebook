@@ -1,5 +1,6 @@
 [
   "quick-latex",
+  "emoji-autocomplete",
   "cycle-through-panes",
   "table-editor-obsidian",
   "obsidian-git",
@@ -10,7 +11,5 @@
   "easy-typing-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
-  "chem",
-  "obsidian-quiet-outline",
-  "obsidian-paste-image-rename"
+  "chem"
 ]
