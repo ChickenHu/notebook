@@ -1852,6 +1852,18 @@
     "initialized": true,
     "codepoints": [
       {
+        "firstUsed": "2025-01-10T09:31:06.754Z",
+        "lastUsed": "2025-01-10T09:40:21.174Z",
+        "useCount": 2,
+        "codepoint": "⋅"
+      },
+      {
+        "firstUsed": "2025-01-08T13:07:57.107Z",
+        "lastUsed": "2025-01-08T13:07:57.107Z",
+        "useCount": 1,
+        "codepoint": "Ⅶ"
+      },
+      {
         "firstUsed": "2025-01-08T01:42:05.894Z",
         "lastUsed": "2025-01-08T01:42:05.894Z",
         "useCount": 1,
@@ -1859,32 +1871,32 @@
       },
       {
         "firstUsed": "2025-01-08T01:14:18.901Z",
-        "lastUsed": "2025-01-08T01:20:28.968Z",
-        "useCount": 2,
+        "lastUsed": "2025-01-08T13:44:40.651Z",
+        "useCount": 3,
         "codepoint": "Ⅴ"
       },
       {
         "firstUsed": "2025-01-08T01:14:06.841Z",
-        "lastUsed": "2025-01-08T01:20:56.775Z",
-        "useCount": 3,
+        "lastUsed": "2025-01-08T13:17:32.265Z",
+        "useCount": 5,
         "codepoint": "Ⅳ"
       },
       {
         "firstUsed": "2025-01-03T07:54:32.982Z",
-        "lastUsed": "2025-01-08T01:34:40.874Z",
-        "useCount": 12,
+        "lastUsed": "2025-01-09T03:45:54.781Z",
+        "useCount": 18,
         "codepoint": "Ⅱ"
       },
       {
         "firstUsed": "2025-01-03T07:54:25.580Z",
-        "lastUsed": "2025-01-08T01:45:53.350Z",
-        "useCount": 9,
+        "lastUsed": "2025-01-09T03:47:29.477Z",
+        "useCount": 19,
         "codepoint": "Ⅰ"
       },
       {
         "firstUsed": "2024-12-28T01:03:44.187Z",
-        "lastUsed": "2025-01-08T01:21:02.858Z",
-        "useCount": 7,
+        "lastUsed": "2025-01-09T03:45:57.617Z",
+        "useCount": 13,
         "codepoint": "Ⅲ"
       }
     ]
