@@ -81,4 +81,4 @@
 \contentsline {subsection}{\numberline {7.4.1}转化作图}{27}{}%
 \contentsline {section}{\numberline {7.5}转导}{28}{}%
 \contentsline {subsection}{\numberline {7.5.1}普遍性转导}{28}{}%
-\contentsline {subsection}{\numberline {7.5.2}特异性转导}{28}{}%
+\contentsline {subsection}{\numberline {7.5.2}局限性转导}{28}{}%

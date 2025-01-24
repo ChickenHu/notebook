@@ -614,20 +614,6 @@ aka Word (k-tuple) method
 
 测定所有序列之间距离，找出矩阵中最小的值，合并其对应的物种
 
-$$
-\begin{bmatrix}
- 0&&& \\ 1&0&&\\
-2&3&0&\\
-4&3&2&0\\
-\end{bmatrix}
-\rightarrow
-\begin{bmatrix}
-0&&& \\ 1&0&&\\
-2&3&0&\\
-4&3&2&0\\
-\end{bmatrix}
-\rightarrow
-$$
 #### 趋同与距离校正
 
 趋同
