@@ -4,7 +4,7 @@
   "showViewHeader": true,
   "cssTheme": "Blue Topaz",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "思源宋体 Light",
+  "interfaceFontFamily": "Noto Serif",
   "textFontFamily": "Noto Sans SC",
   "enabledCssSnippets": [
     "font"
