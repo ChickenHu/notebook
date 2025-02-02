@@ -36,7 +36,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showRibbon": false,
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Pictures",

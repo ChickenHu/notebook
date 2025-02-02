@@ -40,7 +40,7 @@
 
 人基因组：3Gbp-->600,000 页 -->30 米厚
 
-in database：1 块 HDD（甚至还有多的）
+in database：1 张 TF 卡（甚至还有多的）
 
 ## 分类
 
@@ -706,6 +706,8 @@ aka Word (k-tuple) method
 >[!note]
 >JC 距离：对差异核苷酸数的校正
 > $k=-\frac{3}{4}\ln(1- \frac{4}{3d})$
+> 其中，$d=\frac{{差异位点}}{{有效位点}}$
+> 有 gap 的位置不算
 
 >[!INFO]
 > 较高相似度 -->MP

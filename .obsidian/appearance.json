@@ -5,9 +5,8 @@
   "cssTheme": "Blue Topaz",
   "monospaceFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "Noto Serif",
-  "textFontFamily": "Noto Sans SC",
-  "enabledCssSnippets": [
-    "font"
-  ],
-  "baseFontSize": 16
+  "textFontFamily": "霞鹜文楷等宽",
+  "enabledCssSnippets": [],
+  "baseFontSize": 16,
+  "showRibbon": false
 }

@@ -2,5 +2,5 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-avocado-topaz",
   "blue-topaz-theme@@background-notebook-liked-switch": true,
   "blue-topaz-theme@@notebook-liked-markdown-page-options": "notebook-liked-markdown-page-grid-notebook-2",
-  "blue-topaz-theme@@font-family-change-to-default": true
+  "blue-topaz-theme@@font-family-change-to-default": false
 }
