@@ -8,7 +8,7 @@ TO-DO LIST.md
 /.obsidian/workspaces.json
 /.obsidian/workspace-mobile.json
 /.obsidian
-
+._*
 
 # Ignore Smart Environment folder
 .smart-env

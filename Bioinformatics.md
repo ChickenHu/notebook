@@ -27,7 +27,7 @@
 
 （三大核酸数据库）
 
-1987 ==bioinformatics==一词出现
+1987 ==bioinformatics==一词出现 (林华安)
 
 ==1990.10 **人类基因组计划（the Human Genome Project）**==
 
