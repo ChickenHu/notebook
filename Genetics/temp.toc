@@ -1,0 +1,84 @@
+\contentsline {chapter}{\numberline {1}奇妙概念}{4}{}%
+\contentsline {chapter}{\numberline {2}统计}{5}{}%
+\contentsline {section}{\numberline {2.1}二项式定理}{5}{}%
+\contentsline {section}{\numberline {2.2}$\chi ^2$检验}{5}{}%
+\contentsline {section}{\numberline {2.3}贝叶斯定理}{5}{}%
+\contentsline {section}{\numberline {2.4}似然函数}{6}{}%
+\contentsline {chapter}{\numberline {3}连锁分析}{7}{}%
+\contentsline {section}{\numberline {3.1}性连锁遗传}{7}{}%
+\contentsline {subsection}{\numberline {3.1.1}性别决定}{7}{}%
+\contentsline {subsection}{\numberline {3.1.2}连锁}{7}{}%
+\contentsline {subsection}{\numberline {3.1.3}遗传病}{7}{}%
+\contentsline {subsection}{\numberline {3.1.4}奇怪东西}{8}{}%
+\contentsline {section}{\numberline {3.2}剂量补偿}{8}{}%
+\contentsline {subsection}{\numberline {3.2.1}Lyon假说}{9}{}%
+\contentsline {section}{\numberline {3.3}连锁}{9}{}%
+\contentsline {subsection}{\numberline {3.3.1}遗传第三定律——连锁定律}{9}{}%
+\contentsline {subsection}{\numberline {3.3.2}计算}{9}{}%
+\contentsline {subsection}{\numberline {3.3.3}两点测交}{9}{}%
+\contentsline {subsection}{\numberline {3.3.4}三点测交}{10}{}%
+\contentsline {subsubsection}{染色体干涉}{10}{}%
+\contentsline {subsubsection}{染色体单体干涉}{10}{}%
+\contentsline {subsubsection}{校正}{10}{}%
+\contentsline {subsubsection}{四分子分析}{11}{}%
+\contentsline {paragraph}{单基因}{11}{}%
+\contentsline {chapter}{\numberline {4}核外遗传}{12}{}%
+\contentsline {section}{\numberline {4.1}紫茉莉花斑叶}{12}{}%
+\contentsline {section}{\numberline {4.2}酵母小菌落}{12}{}%
+\contentsline {section}{\numberline {4.3}衣藻抗生素抗性}{12}{}%
+\contentsline {section}{\numberline {4.4}草履虫放毒性}{13}{}%
+\contentsline {section}{\numberline {4.5}果蝇感染性遗传}{13}{}%
+\contentsline {section}{\numberline {4.6}母体影响}{13}{}%
+\contentsline {subsection}{\numberline {4.6.1}短暂性母体影响}{13}{}%
+\contentsline {subsection}{\numberline {4.6.2}长期性母体影响}{13}{}%
+\contentsline {section}{\numberline {4.7}线粒体遗传}{13}{}%
+\contentsline {subsection}{\numberline {4.7.1}mtDNA结构}{13}{}%
+\contentsline {subsection}{\numberline {4.7.2}蛋白合成}{14}{}%
+\contentsline {subsection}{\numberline {4.7.3}核基因辅助}{14}{}%
+\contentsline {subsection}{\numberline {4.7.4}线粒体病}{14}{}%
+\contentsline {section}{\numberline {4.8}叶绿体遗传}{14}{}%
+\contentsline {subsection}{\numberline {4.8.1}cpDNA结构}{14}{}%
+\contentsline {subsection}{\numberline {4.8.2}分类}{15}{}%
+\contentsline {section}{\numberline {4.9}线粒体、叶绿体起源}{15}{}%
+\contentsline {section}{\numberline {4.10}植物雄性不育}{15}{}%
+\contentsline {subsection}{\numberline {4.10.1}核不育型}{15}{}%
+\contentsline {subsection}{\numberline {4.10.2}质-核不育型}{15}{}%
+\contentsline {subsubsection}{三系法杂交}{15}{}%
+\contentsline {chapter}{\numberline {5}数量性状}{16}{}%
+\contentsline {section}{\numberline {5.1}连续性状}{16}{}%
+\contentsline {subsection}{\numberline {5.1.1}多基因假说}{16}{}%
+\contentsline {section}{\numberline {5.2}阈性状}{16}{}%
+\contentsline {section}{\numberline {5.3}统计学分析}{16}{}%
+\contentsline {subsection}{\numberline {5.3.1}QTL定位}{16}{}%
+\contentsline {subsection}{\numberline {5.3.2}LOD 最大优势计分法}{17}{}%
+\contentsline {section}{\numberline {5.4}数量性状遗传率}{17}{}%
+\contentsline {subsection}{\numberline {5.4.1}一切的基础——方差可加性}{17}{}%
+\contentsline {subsection}{\numberline {5.4.2}构成}{17}{}%
+\contentsline {subsection}{\numberline {5.4.3}遗传率}{18}{}%
+\contentsline {subsubsection}{遗传率的估计}{18}{}%
+\contentsline {section}{\numberline {5.5}近亲繁殖}{20}{}%
+\contentsline {subsection}{\numberline {5.5.1}亲缘系数}{20}{}%
+\contentsline {subsection}{\numberline {5.5.2}近交系数}{22}{}%
+\contentsline {section}{\numberline {5.6}杂种优势}{22}{}%
+\contentsline {subsection}{\numberline {5.6.1}杂种优势的来源}{22}{}%
+\contentsline {chapter}{\numberline {6}真核生物遗传分析}{23}{}%
+\contentsline {section}{\numberline {6.1}悖论}{23}{}%
+\contentsline {section}{\numberline {6.2}基因转变}{23}{}%
+\contentsline {section}{\numberline {6.3}体细胞交换}{23}{}%
+\contentsline {subsection}{\numberline {6.3.1}体细胞交换\&单倍体化}{23}{}%
+\contentsline {subsection}{\numberline {6.3.2}有丝分裂交换}{24}{}%
+\contentsline {section}{\numberline {6.4}基因消除\&染色体消减}{24}{}%
+\contentsline {section}{\numberline {6.5}基因扩增}{24}{}%
+\contentsline {section}{\numberline {6.6}基因重排}{24}{}%
+\contentsline {subsection}{\numberline {6.6.1}酵母接合}{25}{}%
+\contentsline {chapter}{\numberline {7}细菌遗传}{26}{}%
+\contentsline {section}{\numberline {7.1}冷知识}{26}{}%
+\contentsline {section}{\numberline {7.2}接合}{26}{}%
+\contentsline {subsection}{\numberline {7.2.1}中断杂交}{27}{}%
+\contentsline {subsection}{\numberline {7.2.2}重组作图}{27}{}%
+\contentsline {section}{\numberline {7.3}性导}{27}{}%
+\contentsline {section}{\numberline {7.4}转化}{27}{}%
+\contentsline {subsection}{\numberline {7.4.1}转化作图}{27}{}%
+\contentsline {section}{\numberline {7.5}转导}{28}{}%
+\contentsline {subsection}{\numberline {7.5.1}普遍性转导}{28}{}%
+\contentsline {subsection}{\numberline {7.5.2}局限性转导}{28}{}%
