@@ -9,5 +9,6 @@
   "enabledCssSnippets": [
     "font"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": false
 }
