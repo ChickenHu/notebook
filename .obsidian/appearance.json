@@ -4,11 +4,9 @@
   "showViewHeader": true,
   "cssTheme": "Blue Topaz",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "思源宋体 Light",
-  "textFontFamily": "Noto Sans SC",
-  "enabledCssSnippets": [
-    "font"
-  ],
+  "interfaceFontFamily": "Noto Serif",
+  "textFontFamily": "霞鹜文楷等宽",
+  "enabledCssSnippets": [],
   "baseFontSize": 16,
   "showRibbon": false
 }
