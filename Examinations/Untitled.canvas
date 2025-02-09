@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"fe0b10ef1d2fc92a","x":-125,"y":-30,"width":265,"height":230,"type":"text","text":"---\ndate: 2025-02-08\nindex: 8\nscore:\n  - \n---\n"}
+		{"id":"fe0b10ef1d2fc92a","type":"text","text":"# 综合训练 8 25/02/09\n\n","x":-420,"y":-160,"width":280,"height":50}
 	],
 	"edges":[]
 }
