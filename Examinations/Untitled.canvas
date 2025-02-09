@@ -3,7 +3,8 @@
 		{"id":"844370fa17622929","x":-640,"y":-320,"width":250,"height":145,"type":"text","text":"## 跨膜\n- β桶至少 8 条β链\n- 水孔蛋白 6 次α螺旋跨膜\n"},
 		{"id":"ffc1e4ddbcc9441d","x":-640,"y":-160,"width":250,"height":60,"type":"text","text":"## 外泌体"},
 		{"id":"fe0b10ef1d2fc92a","type":"text","text":"# 综合训练 8 25/02/09\n\n","x":-640,"y":-380,"width":280,"height":50},
-		{"id":"a027008357ff69bc","x":-405,"y":-165,"width":250,"height":60,"type":"text","text":"## Cas9 编辑系统"}
+		{"id":"a027008357ff69bc","x":-640,"y":-80,"width":250,"height":60,"type":"text","text":"## Cas9 编辑系统\n"},
+		{"id":"8a0c999adb1c392d","x":-640,"y":0,"width":250,"height":200,"type":"text","text":"## 蛋白酶 K\n**超耐造**丝氨酸蛋白酶，**变性剂下仍有活性**，叫这名是因为可以消化角蛋白 keratin，用于切开脂肪族和芳香族氨基酸羧端肽键"}
 	],
 	"edges":[]
 }
