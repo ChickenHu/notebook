@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"ffc1e4ddbcc9441d","x":-405,"y":-165,"width":250,"height":60,"type":"text","text":""},
-		{"id":"fe0b10ef1d2fc92a","type":"text","text":"# 综合训练 8 25/02/09\n\n","x":-640,"y":-420,"width":280,"height":50},
-		{"id":"844370fa17622929","x":-640,"y":-320,"width":250,"height":145,"type":"text","text":"## 跨膜\n- β桶至少 8 条β链\n- 水孔蛋白 6 次α螺旋跨膜\n"}
+		{"id":"844370fa17622929","x":-640,"y":-320,"width":250,"height":145,"type":"text","text":"## 跨膜\n- β桶至少 8 条β链\n- 水孔蛋白 6 次α螺旋跨膜\n"},
+		{"id":"ffc1e4ddbcc9441d","x":-640,"y":-160,"width":250,"height":60,"type":"text","text":"## 外泌体"},
+		{"id":"fe0b10ef1d2fc92a","type":"text","text":"# 综合训练 8 25/02/09\n\n","x":-640,"y":-380,"width":280,"height":50},
+		{"id":"a027008357ff69bc","x":-405,"y":-165,"width":250,"height":60,"type":"text","text":"## Cas9 编辑系统"}
 	],
 	"edges":[]
 }
