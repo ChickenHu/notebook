@@ -1852,6 +1852,12 @@
     "initialized": true,
     "codepoints": [
       {
+        "firstUsed": "2025-02-25T13:22:11.255Z",
+        "lastUsed": "2025-02-25T13:22:11.255Z",
+        "useCount": 1,
+        "codepoint": "Ⅵ"
+      },
+      {
         "firstUsed": "2025-02-16T07:17:16.292Z",
         "lastUsed": "2025-02-16T07:17:16.292Z",
         "useCount": 1,
@@ -1865,8 +1871,8 @@
       },
       {
         "firstUsed": "2025-01-08T13:07:57.107Z",
-        "lastUsed": "2025-01-08T13:07:57.107Z",
-        "useCount": 1,
+        "lastUsed": "2025-02-25T13:18:44.212Z",
+        "useCount": 2,
         "codepoint": "Ⅶ"
       },
       {
@@ -1877,20 +1883,20 @@
       },
       {
         "firstUsed": "2025-01-08T01:14:18.901Z",
-        "lastUsed": "2025-01-08T13:44:40.651Z",
-        "useCount": 3,
+        "lastUsed": "2025-02-25T13:21:43.545Z",
+        "useCount": 4,
         "codepoint": "Ⅴ"
       },
       {
         "firstUsed": "2025-01-08T01:14:06.841Z",
-        "lastUsed": "2025-02-24T13:15:51.755Z",
-        "useCount": 7,
+        "lastUsed": "2025-02-25T13:21:27.433Z",
+        "useCount": 8,
         "codepoint": "Ⅳ"
       },
       {
         "firstUsed": "2025-01-03T07:54:32.982Z",
-        "lastUsed": "2025-02-24T13:15:49.726Z",
-        "useCount": 25,
+        "lastUsed": "2025-02-25T13:19:50.885Z",
+        "useCount": 27,
         "codepoint": "Ⅱ"
       },
       {
@@ -1901,8 +1907,8 @@
       },
       {
         "firstUsed": "2024-12-28T01:03:44.187Z",
-        "lastUsed": "2025-02-24T13:02:09.046Z",
-        "useCount": 19,
+        "lastUsed": "2025-02-25T13:19:54.565Z",
+        "useCount": 21,
         "codepoint": "Ⅲ"
       }
     ]
