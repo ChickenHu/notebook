@@ -89,7 +89,7 @@
 \contentsline {subsection}{\numberline {8.2.2}重组测验}{32}{}%
 \contentsline {subsubsection}{T4}{32}{}%
 \contentsline {subsubsection}{T2}{32}{}%
-\contentsline {subsubsection}{\(\lambda \)}{32}{}%
+\contentsline {subsubsection}{\(\lambda \)}{33}{}%
 \contentsline {subsubsection}{notice}{33}{}%
 \contentsline {subsection}{\numberline {8.2.3}互补测试}{33}{}%
 \contentsline {subsubsection}{基因内互补}{33}{}%
@@ -97,4 +97,6 @@
 \contentsline {subsection}{\numberline {8.2.5}原噬菌体}{33}{}%
 \contentsline {chapter}{\numberline {9}基因组学}{34}{}%
 \contentsline {section}{\numberline {9.1}人类基因组}{34}{}%
-\contentsline {chapter}{\numberline {10} 果蝇发育 }{35}{}%
+\contentsline {section}{\numberline {9.2}基因组测序}{35}{}%
+\contentsline {subsection}{\numberline {9.2.1}策略}{35}{}%
+\contentsline {chapter}{\numberline {10} 果蝇发育 }{36}{}%
