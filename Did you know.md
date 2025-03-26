@@ -13,3 +13,5 @@
 - LHC 中光能转移的机制是什么？
 	- FRET，波长逐渐变长
 	- 以及 LHCⅠ/Ⅱ同源
+- 电子转移 Z 方案？
+	- PSⅡ[放氧复合体-P680-Pheo]-Q 循环-Cyt b6f 复合体[FeS-Cyt f; 另有 Cyt b-Cyt b-Heme Cn 将电子还给 PQ]-PC-P700-
