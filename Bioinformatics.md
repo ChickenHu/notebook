@@ -717,8 +717,11 @@ aka Word (k-tuple) method
 ### 可靠性分析
 
 自展法
+
 ## dN/dS
+
 分别表示非同义突变和同义突变数量
+
 $$
 \begin{cases}
 > 1 \text{正向选择} \\
@@ -727,8 +730,31 @@ $$
 \end{cases}
 $$
 ### 计算
-以 Phe密码子 TTT为例，只有一个同义密码子为 TTC，则该密码子非同义位点有 $(\frac{1}{3}+ \frac{1}{3}+ \frac{1}{3})+(\frac{1}{3}+ \frac{1}{3}+ \frac{1}{3})+(\frac{1}{3}+ \frac{1}{3})=\frac{8}{3}$，而同义位点为 $\frac{1}{3}$
 
+以 Phe 密码子 TTT 为例，只有一个同义密码子为 TTC，则该密码子非同义位点有 $(\frac{1}{3}+ \frac{1}{3}+ \frac{1}{3})+(\frac{1}{3}+ \frac{1}{3}+ \frac{1}{3})+(\frac{1}{3}+ \frac{1}{3})=\frac{8}{3}$，而同义位点为 $\frac{1}{3}$
+
+对于已观察到的变异，需要通过揣测进化路线予以计算
+
+例如从 TTT 到 GAC，则有
+
+1. TTT (phe) -> TTC (phe) -> TAC (tyr) -> GAC (asp): 2 n and 1s
+2. TTT (phe) -> TTC (phe) -> GTC (val) -> GAC (asp): 2 n and 1 s
+3. TTT (phe) -> TAT (tyr) -> TAC (val) -> GAC (asp): 3 n
+4. TTT (phe) -> TAT (tyr) -> GAT (val) -> GAC (asp): 3 n
+5. TTT (phe) -> GTT (val) -> GTC (val) -> GAC (asp): 2 n and 1 s
+6. TTT (phe) -> GTT (val) -> GAT (val) -> GAC (asp): 2 n and 1 s
+通过统计，共有 14n 和 4s，因为此处共有 3 突变，总和应为 3，按比例分配可知 $d_n=7/3$，$d_s=2/3$
+## XP-CLR
+原理略，检测**选择清除**，得分越高说明选择压越大
+## ROD
+衡量杂合子缺失，$ROD=\dfrac{H_{E}-H_{O}}{H_{E}}$
+$$
+\begin{cases}
+\approx0 \text{无显著缺失} \\
+< 0\text{杂合子过多} \\
+> 0\text{杂合子缺失，存在负选择}
+\end{cases}
+$$$
 # 蛋白质结构预测
 ### 二级结构
 
