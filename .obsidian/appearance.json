@@ -1,11 +1,11 @@
 {
   "accentColor": "#64c466",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showViewHeader": true,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "monospaceFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "Noto Serif",
-  "textFontFamily": "霞鹜文楷等宽",
+  "textFontFamily": "Noto Serif SC,霞鹜文楷等宽",
   "enabledCssSnippets": [],
   "baseFontSize": 16,
   "showRibbon": false
