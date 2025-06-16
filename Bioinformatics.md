@@ -584,6 +584,10 @@ aka Word (k-tuple) method
 原理类似于 PSI-BLAST，但是 PSSM 不来自于 BLAST，而是通过查询 CDD 数据库（Conserved Domain Database），寻找可能的保守结构域，再用查询结果统计 PSSM。
 
 避免了误比对导致的错误，同时也不需要多次迭代
+#### MEGABLAST
+专用于相似度极高的序列；优化了以下几点
+1. 更长的 word；
+2. 向两侧延伸寻找 HSP 时使用**贪心**而非 SW
 
 ## 多序列比对
 ### 全局
@@ -592,8 +596,8 @@ aka Word (k-tuple) method
 - MAFFT、T-COFFEE：基于一致性的算法
 - T-COFFEE、PRALINE：基于结构的算法
 ### 局部
-- MEME：Multiple Expectation Maximization for Motif Elicitation
-- 
+#### MEME：Multiple Expectation Maximization for Motif Elicitation、
+通常用于序列自比对，寻找模体
 # 分子进化
 ## 进化研究方法
 
