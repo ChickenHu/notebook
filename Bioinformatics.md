@@ -482,6 +482,8 @@ PAM-250<-->BLOSUM-25
 自己与自己打点 --> 可测重复片段与出现次数（与主对角线平行的短平行线）
 
 作用：寻找短串联重复序列 STR
+#### Dotlet JS
+![[Dotlet JS.webp]]
 
 ### 序列比对（Alignment）算法
 
@@ -564,7 +566,7 @@ aka Word (k-tuple) method
 - BLASTn
 - BLASTp
 - BLASTx：用一条核酸序列翻译成六条蛋白质序列（互补，不同起点 $2\times 3$）搜索，用于搜寻可能的编码区、外显子
-- tBLASTn：用一条蛋白质序列搜索被翻译的核酸序列库，用于找到编码该蛋白的核酸序列
+- tBLASTn：用一条蛋白质序列搜索被翻译的核酸序列库，用于找到编码该蛋白的核酸序列；==数据库通常选择 RefSeq 而非 Nucleotide Collection（谁会无聊到用非 mRNA 翻译蛋白）==
 - tBLASTx：用一条翻译后的核酸序列搜索被翻译的核酸序列库，用于跨物种基因预测
 - 无 tBLASTp
 #### PSI-BLAST：位点特异性迭代 BLAST
