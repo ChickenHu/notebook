@@ -596,8 +596,10 @@ aka Word (k-tuple) method
 - MAFFT、T-COFFEE：基于一致性的算法
 - T-COFFEE、PRALINE：基于结构的算法
 ### 局部
-#### MEME：Multiple Expectation Maximization for Motif Elicitation、
+#### MEME：Multiple Expectation Maximization for Motif Elicitation
 通常用于序列自比对，寻找模体
+##### 输出结果
+
 # 分子进化
 ## 进化研究方法
 
