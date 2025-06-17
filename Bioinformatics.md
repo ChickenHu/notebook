@@ -600,7 +600,8 @@ aka Word (k-tuple) method
 通常用于序列自比对，寻找模体
 ##### 输出结果
 1. Profile 谱：位点特异性概率矩阵
-2. PSSM：位点特异性打分矩阵，
+2. PSSM：位点特异性打分矩阵，$PSSM_{i,j}=-\log(Profile_{i,j}/0.25)$
+3. 
 # 分子进化
 ## 进化研究方法
 
