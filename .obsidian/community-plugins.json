@@ -12,7 +12,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "obsidian-quiet-outline",
-  "obsidian-paste-image-rename",
   "chem",
-  "typewriter-mode"
+  "typewriter-mode",
+  "obsidian-paste-image-rename"
 ]
