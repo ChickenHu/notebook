@@ -4,5 +4,6 @@
   "blue-topaz-theme@@notebook-liked-markdown-page-options": "notebook-liked-markdown-page-grid-notebook-2",
   "blue-topaz-theme@@font-family-change-to-default": false,
   "blue-topaz-theme@@font-text-theme": "Bookerly,'Inter', 'Segoe UI','Noto Serif SC','霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji',var(--font-interface)",
-  "blue-topaz-theme@@font-weight-strong": "Bold"
+  "blue-topaz-theme@@font-weight-strong": "Bold",
+  "blue-topaz-theme@@font-family-strong": "Bookerly,'Inter', 'Segoe UI', 'Noto Serif SC','LXGW WenKai Screen', 'LXGW WenKai Screen R', '霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji', var(--font-interface)"
 }
