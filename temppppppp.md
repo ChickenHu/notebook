@@ -47,3 +47,19 @@
 - FISH
 	- 甲酰胺：降低退火温度，避免高温破坏；甲酰胺作为有机溶剂可抑制核酸酶活性，减少探针降解风险，尤其适用于长时间杂交过程
 - 果蝇诱变实验
+$$
+\begin{align*}
+Vm&=61.5\lg\frac{\ce{[Na+]_{o}}}{\ce{[Na+]_{i}}}\\
+Ve&= 61.5\lg\frac{\ce{[Na+]_{o'}}}{\ce{[Na+]_{i'}}}\\
+\frac{Vm}{Ve} &= \lg \frac{\ce{[Na+]_{o}}}{\ce{[Na+]_{i}}}/\lg\frac{\ce{[Na+]_{o'}}}{\ce{[Na+]_{i'}}}\\
+\therefore 10^{Vm/Ve}&=\frac{\ce{[Na+]_{o}}}{\ce{[Na+]_{i}}}-\frac{\ce{[Na+]_{o'}}}{\ce{[Na+]_{i'}}}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+Vm&=61.5\lg\frac{\ce{[Na+]_{o}}}{\ce{[Na+]_{i}}}\\\\
+10^{-Vm/61.5}&= \frac{\ce{[Na+]_{i}}}{\ce{[Na+]_{o}}}\\
+
+\end{align*}
+$$
