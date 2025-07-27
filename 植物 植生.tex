@@ -3,6 +3,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{multirow}
 \usepackage{xeCJK}
 \usepackage[a4paper, left=2cm,right=2cm,top=1.5cm,bottom=1.5cm]{geometry}
 \renewcommand{\thepartno}{\arabic{partno}}
@@ -145,7 +147,24 @@ WP4型水势仪测定植物组织水势的原理是基于露点法(DewPointMetod
 根据热力学平衡，当植物组织与周围空气达到水汽平衡时，植物组织的水势（\(\Psi\)与空气的相对湿度（RH）存在如下关系:
 \[\Psi=RT/Vw\ln (e/e_s)\]
 
-其中\(Vw\)为水的偏摩尔体积，\(e\)为空气的实际水蒸气，为同温度下的饱和水蒸气压，
-为相对湿度RH。
-WP4型水势测定仪即使用该原理测定组织的水势。根据上述公式，请你简述该如何利用该仪器测定植物的水势?(需要什么条件下的什么值，随后带入公式才能计算出水势?)(10分)
+其中\(Vw\)为水的偏摩尔体积，\(e\)为空气的实际水蒸气，为同温度下的饱和水蒸气压，\(e/e_s\)为相对湿度RH。
+
+WP4型水势测定仪即使用该原理测定组织的水势。根据上述公式，请你简述该如何利用该仪器测定植物的水势？（需要什么条件下的什么值，随后带入公式才能计算出水势？）（10分）
+
+\begin{tabularx}{\textwidth}{|c|X|X|}
+    \hline
+       & \textbf{优点} & \textbf{缺点}            \\
+    \hline
+    \multirow{2}{*}{\textbf{质量分离法}}
+       & 材料容易得       & 样品复杂                   \\
+       & \sout{易于处理} & 层级分离影响测定非饱和水势          \\
+    \hline
+    \multicolumn{3}{|c|}{\textbf{WP4 水势仪测定法}} \\
+    \hline
+    优点 & 简单便捷        & 回测精确                   \\
+    \hline
+    缺点 & 依赖昂贵仪器      & 易受温度影响                 \\
+    \hline
+\end{tabularx}
+
 \end{document}
