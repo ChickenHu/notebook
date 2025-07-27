@@ -4,7 +4,7 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{xeCJK}
-\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage[a4paper, left=2cm,right=2cm,top=1.5cm,bottom=1.5cm]{geometry}
 \renewcommand{\thepartno}{\arabic{partno}}
 \pointpoints{分}{分}
 \setlength{\parindent}{2em}  % 每段缩进2个字宽
@@ -112,14 +112,40 @@
     \question[3]{请利用你测量的结果，得出等渗溶液的浓度C，单位为M。请将结果记录。
 
         等渗浓度为：
-        \vfil}
+        \vfill}
     \question[8]{请利用范特霍夫方程\(\Psi=-\rm{iCRT}\)计算土豆块的水势。请将计算结果记录。计算过程与计算结果要求写出单位。最终结果要求写出压强单位以及国际单位制的单位。
 
         *国际单位制的单位包括米(m)，千克(kg)，秒(S)，安培(A)，开尔文(K),摩尔(mol)，坎德拉(cd)。
-        \vfil}
-
-    请继续回答以下问题
-
-
+        \vfill}
 \end{questions}
+
+请继续回答以下问题
+
+A)如果在做实验时，每组添加的土豆块体积不一样，则测定的水势会有变化么？如果有，请解释为什么；如果没有，也请解释为什么。
+\vfill
+
+B)下图为植物生理或环境科学中科研所用的WP4型水势测量仪。
+% \begin{figure}[hbp]
+% \centering
+
+\indent\includegraphics[width=0.4\textwidth]{Pictures/WP4.jpg}  % 图片名不含扩展名
+% \caption{这是图片标题}
+%     \label{fig:example}
+% \end{figure}
+\newpage
+
+WP4型水势仪测定植物组织水势的原理是基于露点法(DewPointMetod)，通过测量样品室中与植物组织达到水势平衡时的空气露点温度变化来确定水势。
+
+*露点或露点温度为在固定气压和含水量之下，空气中所含的气态水达到饱和面凝结成液态水所需要降至的温度。
+
+\vspace{1em}
+
+现有以下公式:
+
+根据热力学平衡，当植物组织与周围空气达到水汽平衡时，植物组织的水势（\(\Psi\)与空气的相对湿度（RH）存在如下关系:
+\[\Psi=RT/Vw\ln (e/e_s)\]
+
+其中\(Vw\)为水的偏摩尔体积，\(e\)为空气的实际水蒸气，为同温度下的饱和水蒸气压，
+为相对湿度RH。
+WP4型水势测定仪即使用该原理测定组织的水势。根据上述公式，请你简述该如何利用该仪器测定植物的水势?(需要什么条件下的什么值，随后带入公式才能计算出水势?)(10分)
 \end{document}

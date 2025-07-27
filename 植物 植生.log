@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.1)  27 JUL 2025 21:10
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.1)  27 JUL 2025 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -477,14 +477,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69687pt
-* \textheight=731.23584pt
+* \textheight=759.6886pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-45.36449pt
+* \topmargin=-59.59087pt
 * \headheight=15.0pt
 * \headsep=15.0pt
 * \topskip=12.0pt
@@ -520,8 +520,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [3]
 
 [4]
+File: Pictures/WP4.jpg Graphic file (type bmp)
+<Pictures/WP4.jpg>
+
 
 [5]
+
+[6]
 This exam contains 8 questions with 9 parts, 2 subparts, and 0 subsubparts.
 (./植物 植生.aux)
  ***********
@@ -534,12 +539,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9466 strings out of 473832
- 239202 string characters out of 5726733
- 666947 words of memory out of 5000000
- 32422 multiletter control sequences out of 15000+600000
+ 9477 strings out of 473832
+ 239398 string characters out of 5726733
+ 667014 words of memory out of 5000000
+ 32430 multiletter control sequences out of 15000+600000
  567907 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,111p,362b,408s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 植物 植生.pdf (5 pages).
+Output written on 植物 植生.pdf (6 pages).
