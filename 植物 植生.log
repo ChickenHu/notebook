@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.1)  27 JUL 2025 16:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.1)  27 JUL 2025 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -457,6 +457,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [2]
 
 [3]
+
+[4]
 This exam contains 2 questions with 9 parts, 2 subparts, and 0 subsubparts.
 (./植物 植生.aux)
  ***********
@@ -465,12 +467,12 @@ L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8718 strings out of 473832
- 222024 string characters out of 5726733
+ 8733 strings out of 473832
+ 222842 string characters out of 5726733
  631901 words of memory out of 5000000
- 31699 multiletter control sequences out of 15000+600000
- 563222 words of font info for 67 fonts, out of 8000000 for 9000
+ 31713 multiletter control sequences out of 15000+600000
+ 563230 words of font info for 68 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,10n,111p,362b,397s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,10n,111p,362b,408s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 植物 植生.pdf (3 pages).
+Output written on 植物 植生.pdf (4 pages).
