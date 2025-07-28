@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.1)  27 JUL 2025 22:42
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.7.1)  28 JUL 2025 18:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,6 +552,8 @@ File: Pictures/WP4.jpg Graphic file (type bmp)
 [5]
 
 [6]
+
+[7]
 This exam contains 8 questions with 9 parts, 2 subparts, and 0 subsubparts.
 (./植物 植生.aux)
  ***********
@@ -564,12 +566,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9701 strings out of 473832
- 244257 string characters out of 5726733
+ 9713 strings out of 473832
+ 244985 string characters out of 5726733
  669014 words of memory out of 5000000
- 32645 multiletter control sequences out of 15000+600000
+ 32657 multiletter control sequences out of 15000+600000
  567907 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,111p,362b,408s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 植物 植生.pdf (6 pages).
+Output written on 植物 植生.pdf (7 pages).
